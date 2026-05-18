@@ -1,6 +1,6 @@
 # warm
 
-温馨基调 - Nostalgic, personal, comforting
+ - Nostalgic, personal, comforting
 
 ## Overview
 

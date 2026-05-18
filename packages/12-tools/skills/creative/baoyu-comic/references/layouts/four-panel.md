@@ -1,6 +1,6 @@
 # four-panel
 
-四格漫画 - Strict 2×2 grid, single-page story
+ - Strict 2×2 grid, single-page story
 
 ## Panel Structure
 
@@ -16,14 +16,14 @@
 
 ## Narrative Structure
 
-Each panel serves a specific narrative role (起承转合 / kishōtenketsu):
+Each panel serves a specific narrative role ( / kishōtenketsu):
 
 | Panel | Position | Role | Purpose |
 |-------|----------|------|---------|
-| 1 | Top-left | 起 Setup | Establish situation, introduce characters/problem |
-| 2 | Top-right | 承 Development | Build on setup, add complication or attempt |
-| 3 | Bottom-left | 转 Turn | Twist, key insight, or reversal — the pivotal moment |
-| 4 | Bottom-right | 合 Conclusion | Resolution, punchline, or takeaway |
+| 1 | Top-left | Setup | Establish situation, introduce characters/problem |
+| 2 | Top-right | Development | Build on setup, add complication or attempt |
+| 3 | Bottom-left | Turn | Twist, key insight, or reversal — the pivotal moment |
+| 4 | Bottom-right | Conclusion | Resolution, punchline, or takeaway |
 
 ## Aspect Ratio
 

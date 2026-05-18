@@ -1,6 +1,5 @@
 # Design System: Pinterest
 
-
 > **Hermes Agent — Implementation Notes**
 >
 > The original site uses proprietary fonts. For self-contained HTML output, use these CDN substitutes:
@@ -68,7 +67,7 @@ What distinguishes Pinterest is its generous border-radius system (12px–40px, 
 ## 3. Typography Rules
 
 ### Font Family
-- **Primary**: `Pin Sans`, fallbacks: `-apple-system, system-ui, Segoe UI, Roboto, Oxygen-Sans, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, ヒラギノ角ゴ Pro W3, メイリオ, Meiryo, ＭＳ Ｐゴシック, Arial`
+- **Primary**: `Pin Sans`, fallbacks: `-apple-system, system-ui, Segoe UI, Roboto, Oxygen-Sans, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, Helvetica, ヒラギノゴ Pro W3, メイリオ, Meiryo, ＭＳ Ｐゴシック, Arial`
 
 ### Hierarchy
 

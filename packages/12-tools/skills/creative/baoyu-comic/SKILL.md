@@ -1,8 +1,8 @@
 ---
 name: baoyu-comic
-description: "Knowledge comics (知识漫画): educational, biography, tutorial."
+description: "Knowledge comics: educational, biography, tutorial."
 version: 1.56.1
-author: 宝玉 (JimLiu)
+author: JimLiu
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
@@ -19,7 +19,7 @@ Create original knowledge comics with flexible art style × tone combinations.
 
 ## When to Use
 
-Trigger this skill when the user asks to create a knowledge/educational comic, biography comic, tutorial comic, or uses terms like "知识漫画", "教育漫画", or "Logicomix-style". The user provides content (text, file path, URL, or topic) and optionally specifies art style, tone, layout, aspect ratio, or language.
+Trigger this skill when the user asks to create a knowledge/educational comic, biography comic, tutorial comic, or uses terms like "", "", or "Logicomix-style". The user provides content (text, file path, URL, or topic) and optionally specifies art style, tone, layout, aspect ratio, or language.
 
 ## Reference Images
 
@@ -86,7 +86,7 @@ Details: [references/partial-workflows.md](references/partial-workflows.md)
   | `wuxia` | ink-brush + action | Qi effects, combat visuals, atmospheric |
   | `shoujo` | manga + romantic | Decorative elements, eye details, romantic beats |
   | `concept-story` | manga + warm | Visual symbol system, growth arc, dialogue+action balance |
-  | `four-panel` | minimalist + neutral + four-panel layout | 起承转合 structure, B&W + spot color, stick-figure characters |
+  | `four-panel` | minimalist + neutral + four-panel layout |  structure, B&W + spot color, stick-figure characters |
 
   Full rules at `references/presets/<preset>.md` — load the file when a preset is picked.
 

@@ -9,16 +9,16 @@ Copy and track progress:
 ```
 Comic Progress:
 - [ ] Step 1: Setup & Analyze
-  - [ ] 1.1 Analyze content
-  - [ ] 1.2 Check existing ⚠️ REQUIRED
+ - [ ] 1.1 Analyze content
+ - [ ] 1.2 Check existing ⚠️ REQUIRED
 - [ ] Step 2: Confirmation - Style & options ⚠️ REQUIRED
 - [ ] Step 3: Generate storyboard + characters
 - [ ] Step 4: Review outline (conditional)
 - [ ] Step 5: Generate prompts
 - [ ] Step 6: Review prompts (conditional)
 - [ ] Step 7: Generate images
-  - [ ] 7.1 Character sheet (if needed)
-  - [ ] 7.2 Generate pages
+ - [ ] 7.1 Character sheet (if needed)
+ - [ ] 7.2 Generate pages
 - [ ] Step 8: Completion report
 ```
 
@@ -38,23 +38,23 @@ Read source content, save it if needed, and perform deep analysis.
 
 **Actions**:
 1. **Save source content** (if not already a file):
-   - If user provides a file path: use as-is
-   - If user pastes content: save to `source-{slug}.md` in the target directory using `write_file`, where `{slug}` is the kebab-case topic slug used for the output directory
-   - **Backup rule**: If `source-{slug}.md` already exists, rename it to `source-{slug}-backup-YYYYMMDD-HHMMSS.md` before writing
+ - If user provides a file path: use as-is
+ - If user pastes content: save to `source-{slug}.md` in the target directory using `write_file`, where `{slug}` is the kebab-case topic slug used for the output directory
+ - **Backup rule**: If `source-{slug}.md` already exists, rename it to `source-{slug}-backup-YYYYMMDD-HHMMSS.md` before writing
 2. Read source content
 3. **Deep analysis** following `analysis-framework.md`:
-   - Target audience identification
-   - Value proposition for readers
-   - Core themes and narrative potential
-   - Key figures and their story arcs
+ - Target audience identification
+ - Value proposition for readers
+ - Core themes and narrative potential
+ - Key figures and their story arcs
 4. Detect source language
 5. **Determine language**:
-   - If user specified a language → use it
-   - Else → use detected source language or user's conversation language
+ - If user specified a language → use it
+ - Else → use detected source language or user's conversation language
 6. Determine recommended page count:
-   - Short story: 5-8 pages
-   - Medium complexity: 9-15 pages
-   - Full biography: 16-25 pages
+ - Short story: 5-8 pages
+ - Medium complexity: 9-15 pages
+ - Full biography: 16-25 pages
 7. Analyze content signals for art/tone/layout recommendations
 8. **Save to `analysis.md`** using `write_file`
 
@@ -71,10 +71,10 @@ Check if the output directory exists (e.g., via `test -d "comic/{topic-slug}"`).
 ```
 question: "Existing content found at comic/{topic-slug}. How to proceed?"
 options:
-  - "Regenerate storyboard — Keep images, regenerate storyboard and characters only"
-  - "Regenerate images — Keep storyboard, regenerate images only"
-  - "Backup and regenerate — Backup to {slug}-backup-{timestamp}, then regenerate all"
-  - "Exit — Cancel, keep existing content unchanged"
+ - "Regenerate storyboard — Keep images, regenerate storyboard and characters only"
+ - "Regenerate images — Keep storyboard, regenerate images only"
+ - "Backup and regenerate — Backup to {slug}-backup-{timestamp}, then regenerate all"
+ - "Exit — Cancel, keep existing content unchanged"
 ```
 
 Save result and handle accordingly:
@@ -108,11 +108,11 @@ If a preset is recommended (see `auto-selection.md`), show it first:
 ```
 question: "Which visual style for this comic?"
 options:
-  - "[preset name] preset (Recommended) — [preset description] with special rules"
-  - "[recommended art] + [recommended tone] (Recommended) — Best match for your content"
-  - "ligne-claire + neutral — Classic educational, Logicomix style"
-  - "ohmsha preset — Educational manga with visual metaphors, gadgets, NO talking heads"
-  - "Custom — Specify your own art + tone or preset"
+ - "[preset name] preset (Recommended) — [preset description] with special rules"
+ - "[recommended art] + [recommended tone] (Recommended) — Best match for your content"
+ - "ligne-claire + neutral — Classic educational, Logicomix style"
+ - "ohmsha preset — Educational manga with visual metaphors, gadgets, NO talking heads"
+ - "Custom — Specify your own art + tone or preset"
 ```
 
 **Preset vs Art+Tone**: Presets include special rules beyond art+tone. `ohmsha` = manga + neutral + visual metaphor rules + character roles + NO talking heads. Plain `manga + neutral` does NOT include these rules.
@@ -122,10 +122,10 @@ options:
 ```
 question: "What should the comic emphasize? (Pick the primary focus; mention others in a follow-up if needed)"
 options:
-  - "Biography/life story — Follow a person's journey through key life events"
-  - "Concept explanation — Break down complex ideas visually"
-  - "Historical event — Dramatize important historical moments"
-  - "Tutorial/how-to — Step-by-step educational guide"
+ - "Biography/life story — Follow a person's journey through key life events"
+ - "Concept explanation — Break down complex ideas visually"
+ - "Historical event — Dramatize important historical moments"
+ - "Tutorial/how-to — Step-by-step educational guide"
 ```
 
 ### Question 3: Target Audience
@@ -133,10 +133,10 @@ options:
 ```
 question: "Who is the primary reader?"
 options:
-  - "General readers — Broad appeal, accessible content"
-  - "Students/learners — Educational focus, clear explanations"
-  - "Industry professionals — Technical depth, domain knowledge"
-  - "Children/young readers — Simplified language, engaging visuals"
+ - "General readers — Broad appeal, accessible content"
+ - "Students/learners — Educational focus, clear explanations"
+ - "Industry professionals — Technical depth, domain knowledge"
+ - "Children/young readers — Simplified language, engaging visuals"
 ```
 
 ### Question 4: Outline Review
@@ -144,8 +144,8 @@ options:
 ```
 question: "Do you want to review the outline before image generation?"
 options:
-  - "Yes, let me review (Recommended) — Review storyboard and characters before generating images"
-  - "No, generate directly — Skip outline review, start generating immediately"
+ - "Yes, let me review (Recommended) — Review storyboard and characters before generating images"
+ - "No, generate directly — Skip outline review, start generating immediately"
 ```
 
 ### Question 5: Prompt Review
@@ -153,8 +153,8 @@ options:
 ```
 question: "Review prompts before generating images?"
 options:
-  - "Yes, review prompts (Recommended) — Review image generation prompts before generating"
-  - "No, skip prompt review — Proceed directly to image generation"
+ - "Yes, review prompts (Recommended) — Review image generation prompts before generating"
+ - "No, skip prompt review — Proceed directly to image generation"
 ```
 
 **After responses**:
@@ -177,27 +177,27 @@ Create storyboard and character definitions using the confirmed style from Step 
 **Generate**:
 
 1. **Storyboard** (`storyboard.md`):
-   - YAML front matter with art_style, tone, layout, aspect_ratio
-   - Cover design
-   - Each page: layout, panel breakdown, visual prompts
-   - **Written in user's preferred language** (from Step 1)
-   - Reference: `storyboard-template.md`
-   - **If using preset**: Load and apply preset rules from `presets/`
+ - YAML front matter with art_style, tone, layout, aspect_ratio
+ - Cover design
+ - Each page: layout, panel breakdown, visual prompts
+ - **Written in user's preferred language** (from Step 1)
+ - Reference: `storyboard-template.md`
+ - **If using preset**: Load and apply preset rules from `presets/`
 
 2. **Character definitions** (`characters/characters.md`):
-   - Visual specs matching the art style (in user's preferred language)
-   - Include Reference Sheet Prompt for later image generation
-   - Reference: `character-template.md`
-   - **If using ohmsha preset**: Use default Doraemon characters (see below)
+ - Visual specs matching the art style (in user's preferred language)
+ - Include Reference Sheet Prompt for later image generation
+ - Reference: `character-template.md`
+ - **If using ohmsha preset**: Use default Doraemon characters (see below)
 
 **Ohmsha Default Characters** (use these unless user specifies custom characters):
 
 | Role | Character | Visual Description |
 |------|-----------|-------------------|
-| Student | 大雄 (Nobita) | Japanese boy, 10yo, round glasses, black hair parted in middle, yellow shirt, navy shorts |
-| Mentor | 哆啦 A 梦 (Doraemon) | Round blue robot cat, big white eyes, red nose, whiskers, white belly with 4D pocket, golden bell, no ears |
-| Challenge | 胖虎 (Gian) | Stocky boy, rough features, small eyes, orange shirt |
-| Support | 静香 (Shizuka) | Cute girl, black short hair, pink dress, gentle expression |
+| Student | (Nobita) | Japanese boy, 10yo, round glasses, black hair parted in middle, yellow shirt, navy shorts |
+| Mentor | A (Doraemon) | Round blue robot cat, big white eyes, red nose, whiskers, white belly with 4D pocket, golden bell, no ears |
+| Challenge | (Gian) | Stocky boy, rough features, small eyes, orange shirt |
+| Support | (Shizuka) | Cute girl, black short hair, pink dress, gentle expression |
 
 These are the canonical ohmsha-style characters. Do NOT create custom characters for ohmsha unless explicitly requested.
 
@@ -224,10 +224,10 @@ These are the canonical ohmsha-style characters. Do NOT create custom characters
 ```
 question: "Ready to generate images with this outline?"
 options:
-  - "Yes, proceed (Recommended) — Generate character sheet and comic pages"
-  - "Edit storyboard first — I'll modify storyboard.md before continuing"
-  - "Edit characters first — I'll modify characters/characters.md before continuing"
-  - "Edit both — I'll modify both files before continuing"
+ - "Yes, proceed (Recommended) — Generate character sheet and comic pages"
+ - "Edit storyboard first — I'll modify storyboard.md before continuing"
+ - "Edit characters first — I'll modify characters/characters.md before continuing"
+ - "Edit both — I'll modify both files before continuing"
 ```
 
 **After response**:
@@ -249,7 +249,7 @@ Create image generation prompts for all pages.
 1. Create prompt following art style + tone guidelines
 2. **Embed character descriptions** inline (copy relevant traits from `characters/characters.md`) — `image_generate` is prompt-only, so the prompt text is the sole vehicle for character consistency
 3. Save to `prompts/NN-{cover|page}-[slug].md` using `write_file`
-   - **Backup rule**: If prompt file exists, rename to `prompts/NN-{cover|page}-[slug]-backup-YYYYMMDD-HHMMSS.md`
+ - **Backup rule**: If prompt file exists, rename to `prompts/NN-{cover|page}-[slug]-backup-YYYYMMDD-HHMMSS.md`
 
 **Prompt File Format**:
 ```markdown
@@ -294,9 +294,9 @@ Art: [art style] | Tone: [tone] | Layout: [layout type]
 ```
 question: "Ready to generate images with these prompts?"
 options:
-  - "Yes, proceed (Recommended) — Generate all comic page images"
-  - "Edit prompts first — I'll modify prompts/*.md before continuing"
-  - "Regenerate prompts — Regenerate all prompts with different approach"
+ - "Yes, proceed (Recommended) — Generate all comic page images"
+ - "Edit prompts first — I'll modify prompts/*.md before continuing"
+ - "Regenerate prompts — Regenerate all prompts with different approach"
 ```
 
 **After response**:
@@ -358,8 +358,8 @@ Character sheet is recommended for multi-page comics with recurring characters, 
 # Page 01: [Title]
 
 ## Character Reference (embedded inline — maintain consistency)
-- 大雄：Japanese boy, round glasses, yellow shirt, navy shorts, worried expression...
-- 哆啦 A 梦：Round blue robot cat, white belly, red nose, golden bell, 4D pocket...
+- ：Japanese boy, round glasses, yellow shirt, navy shorts, worried expression...
+- A ：Round blue robot cat, white belly, red nose, golden bell, 4D pocket...
 
 ## Page Content
 [Original page prompt body — panels, dialogue, visual metaphors]

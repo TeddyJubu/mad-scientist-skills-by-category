@@ -1,6 +1,6 @@
 # minimalist
 
-极简画风 - Clean black line art, limited spot color, simplified stick-figure characters
+ - Clean black line art, limited spot color, simplified stick-figure characters
 
 ## Overview
 

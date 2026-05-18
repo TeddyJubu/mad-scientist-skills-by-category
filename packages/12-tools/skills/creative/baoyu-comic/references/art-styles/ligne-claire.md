@@ -1,6 +1,6 @@
 # ligne-claire
 
-清线画风 - Uniform lines, flat colors, European comic tradition
+ - Uniform lines, flat colors, European comic tradition
 
 ## Overview
 

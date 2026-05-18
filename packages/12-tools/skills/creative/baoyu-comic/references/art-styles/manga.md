@@ -1,6 +1,6 @@
 # manga
 
-日漫画风 - Anime/manga aesthetics with expressive characters
+ - Anime/manga aesthetics with expressive characters
 
 ## Overview
 

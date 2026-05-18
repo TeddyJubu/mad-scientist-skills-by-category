@@ -1,6 +1,6 @@
 # neutral
 
-中性基调 - Balanced, rational, educational
+ - Balanced, rational, educational
 
 ## Overview
 

@@ -61,9 +61,9 @@ print(f"Text: {result['text']}")
 
 ```python
 # Specify language for faster transcription
-result = model.transcribe("audio.mp3", language="es")  # Spanish
-result = model.transcribe("audio.mp3", language="fr")  # French
-result = model.transcribe("audio.mp3", language="ja")  # Japanese
+result = model.transcribe("audio.mp3", language="es") # Spanish
+result = model.transcribe("audio.mp3", language="fr") # French
+result = model.transcribe("audio.mp3", language="ja") # Japanese
 ```
 
 ### Translation to English
@@ -71,8 +71,8 @@ result = model.transcribe("audio.mp3", language="ja")  # Japanese
 ```python
 # Translate any language to English
 result = model.transcribe(
-    "spanish_audio.mp3",
-    task="translate"  # Translates to English
+ "spanish_audio.mp3",
+ task="translate" # Translates to English
 )
 
 print(f"Original language: {result['language']}")
@@ -88,9 +88,9 @@ print(f"English translation: {result['text']}")
 model = whisper.load_model("large")
 
 result = model.transcribe(
-    "chinese_audio.mp3",
-    language="zh",
-    initial_prompt="这是一段关于技术的讨论"  # Context helps
+ "chinese_audio.mp3",
+ language="zh",
+ initial_prompt="" # Context helps
 )
 ```
 
@@ -99,9 +99,9 @@ result = model.transcribe(
 ```python
 # Japanese benefits from initial prompt
 result = model.transcribe(
-    "japanese_audio.mp3",
-    language="ja",
-    initial_prompt="これは技術的な会議の録音です"
+ "japanese_audio.mp3",
+ language="ja",
+ initial_prompt="これはなのです"
 )
 ```
 
@@ -112,8 +112,8 @@ result = model.transcribe(
 model = whisper.load_model("large")
 
 result = model.transcribe(
-    "arabic_audio.mp3",
-    language="ar"
+ "arabic_audio.mp3",
+ language="ar"
 )
 ```
 

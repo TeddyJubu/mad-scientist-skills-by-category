@@ -1,6 +1,6 @@
 # action
 
-动作基调 - Speed, impact, power
+ - Speed, impact, power
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # ink-brush
 
-水墨画风 - Chinese ink brush aesthetics with dynamic strokes
+ - Chinese ink brush aesthetics with dynamic strokes
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Mad Scientist Essential Skill Collections
 
-**12独立packages · 可单独安装或整体使用**
+**12 Independent Packages · Install Individually or All Together**
 
 > For Hermes/OpenClaw AI agent systems. Each package is a sellable, installable unit.
 

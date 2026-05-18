@@ -1,11 +1,11 @@
 ---
 name: yuanbao
-description: "Yuanbao (元宝) groups: @mention users, query info/members."
+description: "Yuanbao groups: @mention users, query info/members."
 version: 1.0.0
 platforms: [linux, macos, windows]
 metadata:
   hermes:
-    tags: [yuanbao, mention, at, group, members, 元宝, 派, 艾特]
+    tags: [yuanbao, mention, at, group, members]
     related_skills: []
 ---
 
@@ -25,26 +25,26 @@ When you include `@nickname` in your reply text, the gateway automatically conve
 |------|------------|
 | `yb_query_group_info` | Query group name, owner, member count |
 | `yb_query_group_members` | Find a user, list bots, list all members, or get nickname for @mention |
-| `yb_send_dm` | Send a private/direct message (DM / 私信) to a user, with optional media files |
+| `yb_send_dm` | Send a private/direct message (DM / DM) to a user, with optional media files |
 
 ## @Mention Workflow
 
-When you need to @mention / 艾特 someone:
+When you need to @mention /  someone:
 
 1. Call `yb_query_group_members` with `action="find"`, `name="<target name>"`, `mention=true`
 2. Get the exact nickname from the response
 3. Include `@nickname` in your reply text — the gateway handles the rest
 
-Example: user says "帮我艾特元宝"
+Example: user says "have Yuanbao mention a user in a group"
 
 Step 1 — tool call:
 ```json
-{ "group_code": "328306697", "action": "find", "name": "元宝", "mention": true }
+{ "group_code": "328306697", "action": "find", "name": "", "mention": true }
 ```
 
 Step 2 — your reply (this gets sent to the group with a working @mention):
 ```
-@元宝 你好，有人找你！
+@ Hello，Someone is looking for you！
 ```
 
 **That's it.** No extra explanation needed. Keep it short and natural.
@@ -57,24 +57,24 @@ Step 2 — your reply (this gets sent to the group with a working @mention):
 
 ## Send DM (Private Message) Workflow
 
-When someone asks to send a private message / 私信 / DM to a user:
+When someone asks to send a private message / DM / DM to a user:
 
 1. Call `yb_send_dm` with `group_code`, `name` (target user's name), and `message`
 2. The tool automatically finds the user and sends the DM
 3. Report the result to the user
 
-Example: user says "给 @用户aea3 私信发一个 hello"
+Example: user says "to @useraea3 DM hello"
 
 ```json
-yb_send_dm({ "group_code": "535168412", "name": "用户aea3", "message": "hello" })
+yb_send_dm({ "group_code": "535168412", "name": "useraea3", "message": "hello" })
 ```
 
-Example with media: user says "给 @用户aea3 私信发一张图片"
+Example with media: user says "to @useraea3 DM"
 
 ```json
 yb_send_dm({
   "group_code": "535168412",
-  "name": "用户aea3",
+  "name": "useraea3",
   "message": "Here is the image",
   "media_files": [{"path": "/tmp/photo.jpg"}]
 })
@@ -104,5 +104,5 @@ yb_query_group_info({ "group_code": "328306697" })
 ## Notes
 
 - `group_code` comes from chat_id: `group:328306697` → `328306697`
-- Groups are called "派 (Pai)" in the Yuanbao app
+- Groups are called " (Pai)" in the Yuanbao app
 - Member roles: `user`, `yuanbao_ai`, `bot`

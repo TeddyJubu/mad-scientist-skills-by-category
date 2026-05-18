@@ -6,11 +6,11 @@ Guidelines for educational manga comics using the `ohmsha` preset.
 
 | Role | Default | Traits |
 |------|---------|--------|
-| Student (Role A) | 大雄 | Confused, asks basic but crucial questions, represents reader |
-| Mentor (Role B) | 哆啦A梦 | Knowledgeable, patient, uses gadgets as technical metaphors |
-| Antagonist (Role C, optional) | 胖虎 | Represents misunderstanding, or "noise" in the data |
+| Student (Role A) | | Confused, asks basic but crucial questions, represents reader |
+| Mentor (Role B) | A | Knowledgeable, patient, uses gadgets as technical metaphors |
+| Antagonist (Role C, optional) | | Represents misunderstanding, or "noise" in the data |
 
-Custom characters: ask the user for role → name mappings (e.g., `Student:小明, Mentor:教授, Antagonist:Bug怪`).
+Custom characters: ask the user for role → name mappings (e.g., `Student:, Mentor:, Antagonist:Bug`).
 
 ## Character Reference Sheet Style
 
@@ -25,10 +25,10 @@ For Ohmsha style, use manga/anime style with:
 Every ohmsha outline must start with:
 
 ```markdown
-【漫画规格单】
+【】
 - Language: [Same as input content]
 - Style: Ohmsha (Manga Guide), Full Color
-- Layout: Vertical Scrolling Comic (竖版条漫)
+- Layout: Vertical Scrolling Comic ()
 - Characters: [List character names and roles]
 - Character Reference: characters/characters.png
 - Page Limit: ≤20 pages
@@ -46,16 +46,16 @@ Every ohmsha outline must start with:
 
 | Concept | Bad (Talking Heads) | Good (Visual Metaphor) |
 |---------|---------------------|------------------------|
-| Word embeddings | Characters discussing vectors | 哆啦A梦拿出"词向量压缩机"，把书本压缩成彩色小球 |
-| Gradient descent | Explaining math formula | 大雄在山谷地形上滚球，寻找最低点 |
-| Neural network | Diagram on whiteboard | 角色走进由发光节点组成的网络迷宫 |
+| Word embeddings | Characters discussing vectors | A""， |
+| Gradient descent | Explaining math formula | ， |
+| Neural network | Diagram on whiteboard | |
 
 ## Page Title Convention
 
 Avoid AI-style "Title: Subtitle" format. Use narrative descriptions:
 
 - ❌ "Page 3: Introduction to Neural Networks"
-- ✓ "Page 3: 大雄被海量单词淹没，哆啦A梦拿出'词向量压缩机'"
+- ✓ "Page 3: ，A''"
 
 ## Ending Requirements
 

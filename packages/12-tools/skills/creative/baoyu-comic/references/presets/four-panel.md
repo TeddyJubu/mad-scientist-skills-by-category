@@ -1,6 +1,6 @@
 # four-panel
 
-四格漫画预设 - Minimalist four-panel business allegory comics
+ - Minimalist four-panel business allegory comics
 
 ## Base Configuration
 
@@ -17,16 +17,16 @@ Equivalent to: art=minimalist, tone=neutral, layout=four-panel, aspect=4:3
 
 This preset includes special rules beyond the art+tone combination. When the `four-panel` preset is selected, ALL rules below must be applied.
 
-### 起承转合 Narrative Structure (CRITICAL)
+### Narrative Structure (CRITICAL)
 
-Every comic MUST follow the four-panel 起承转合 structure:
+Every comic MUST follow the four-panel structure:
 
 | Panel | Role | Requirements |
 |-------|------|-------------|
-| 1 (起 Setup) | Introduce the situation | Show character(s) in a recognizable context. Establish the "normal" state or problem |
-| 2 (承 Development) | Build on the setup | Add complication, show an attempt, or introduce the concept. Stakes become clearer |
-| 3 (转 Turn) | The twist or key insight | **Most important panel.** Show the unexpected reversal, contrast, or "aha" moment that makes the allegory work |
-| 4 (合 Conclusion) | Resolution and takeaway | Show the result, consequence, or lesson learned. Can be a visual punchline or summary |
+| 1 ( Setup) | Introduce the situation | Show character(s) in a recognizable context. Establish the "normal" state or problem |
+| 2 ( Development) | Build on the setup | Add complication, show an attempt, or introduce the concept. Stakes become clearer |
+| 3 ( Turn) | The twist or key insight | **Most important panel.** Show the unexpected reversal, contrast, or "aha" moment that makes the allegory work |
+| 4 ( Conclusion) | Resolution and takeaway | Show the result, consequence, or lesson learned. Can be a visual punchline or summary |
 
 **CRITICAL**: Do NOT deviate from exactly 4 panels. No 5th panel, no title panel, no footer panel within the image.
 
@@ -42,10 +42,10 @@ Every comic MUST follow the four-panel 起承转合 structure:
 - The image is primarily black-and-white line art
 - Use exactly 1-2 spot colors per strip (default: orange `#FF6B35`)
 - Rules:
-  - Key concept label or object: filled with accent color or outlined in accent
-  - Panel 3 (转 Turn) should have the strongest color emphasis
-  - Characters remain B&W — color is for concepts/objects/labels only
-  - Consistent accent color across all 4 panels (do not switch colors between panels)
+ - Key concept label or object: filled with accent color or outlined in accent
+ - Panel 3 ( Turn) should have the strongest color emphasis
+ - Characters remain B&W — color is for concepts/objects/labels only
+ - Consistent accent color across all 4 panels (do not switch colors between panels)
 
 ### Character Design Rules
 
@@ -94,7 +94,7 @@ Each panel description should specify:
 ## Quality Markers
 
 - ✓ Exactly 4 panels in strict 2×2 grid
-- ✓ 起承转合 narrative arc clearly present
+- ✓ narrative arc clearly present
 - ✓ 90%+ black-and-white with strategic spot color
 - ✓ Simplified stick-figure characters
 - ✓ Key concept visually highlighted with accent color

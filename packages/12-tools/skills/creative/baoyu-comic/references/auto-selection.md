@@ -17,7 +17,7 @@ Content signals determine default art + tone + layout (or preset).
 | Wine, food, lifestyle | realistic | neutral | cinematic | - |
 | Martial arts, wuxia, xianxia | ink-brush | action | splash | **wuxia** |
 | Romance, love, school life | manga | romantic | standard | **shoujo** |
-| Business allegory, fable, parable, short insight, 四格 | minimalist | neutral | four-panel | **four-panel** |
+| Business allegory, fable, parable, short insight, | minimalist | neutral | four-panel | **four-panel** |
 | Biography, balanced | ligne-claire | neutral | mixed | - |
 
 ## Preset Recommendation Rules
@@ -45,8 +45,8 @@ Content signals determine default art + tone + layout (or preset).
 - **Base**: manga + warm + standard
 
 ### four-panel
-- **Triggers**: Business allegory, fable, parable, short insight, four-panel, 四格, 四格漫画, single-page comic, minimalist comic strip
-- **Special rules**: Strict 起承转合 4-panel structure, B&W + spot color, simplified stick-figure characters, single-page story
+- **Triggers**: Business allegory, fable, parable, short insight, four-panel, , , single-page comic, minimalist comic strip
+- **Special rules**: Strict 4-panel structure, B&W + spot color, simplified stick-figure characters, single-page story
 - **Base**: minimalist + neutral + four-panel
 
 ## Compatibility Matrix

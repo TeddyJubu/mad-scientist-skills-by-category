@@ -1,6 +1,6 @@
 # concept-story
 
-概念故事预设 - Narrative comics that visualize abstract concepts through character-driven stories
+ - Narrative comics that visualize abstract concepts through character-driven stories
 
 ## Base Configuration
 

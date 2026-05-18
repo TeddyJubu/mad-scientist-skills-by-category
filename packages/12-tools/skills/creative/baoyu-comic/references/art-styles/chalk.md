@@ -1,6 +1,6 @@
 # chalk
 
-粉笔画风 - Chalkboard aesthetic with hand-drawn warmth
+ - Chalkboard aesthetic with hand-drawn warmth
 
 ## Overview
 
