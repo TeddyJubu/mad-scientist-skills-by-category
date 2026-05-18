@@ -1,8 +1,16 @@
 {
   "name": "@mad-scientist/ai-agents",
   "version": "1.0.0",
-  "description": "Ai Agents skills for Hermes/OpenClaw agents",
+  "description": "Bob (operations), Sarah (outbound caller), OpenClaw management, HR hiring workflows, and autonomous agent orchestration.",
+  "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills are ready — no build step needed'"
-  }
+    "install": "echo 'Skills ready — no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill-library",
+    "mad-scientist"
+  ]
 }

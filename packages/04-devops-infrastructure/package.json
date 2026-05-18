@@ -1,8 +1,16 @@
 {
   "name": "@mad-scientist/devops-infrastructure",
   "version": "1.0.0",
-  "description": "Devops Infrastructure skills for Hermes/OpenClaw agents",
+  "description": "Vercel deployment, Traefik Docker setup, and systemd port reservation for server management.",
+  "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills are ready — no build step needed'"
-  }
+    "install": "echo 'Skills ready — no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill-library",
+    "mad-scientist"
+  ]
 }

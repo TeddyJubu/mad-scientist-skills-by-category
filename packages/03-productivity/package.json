@@ -1,8 +1,16 @@
 {
   "name": "@mad-scientist/productivity",
   "version": "1.0.0",
-  "description": "Productivity skills for Hermes/OpenClaw agents",
+  "description": "Notion, file delivery, agentmail, Gmail auto-draft, PDF generation, and Google Workspace integration.",
+  "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills are ready — no build step needed'"
-  }
+    "install": "echo 'Skills ready — no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill-library",
+    "mad-scientist"
+  ]
 }

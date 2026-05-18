@@ -1,8 +1,16 @@
 {
   "name": "@mad-scientist/openclaw-mcp",
   "version": "1.0.0",
-  "description": "Openclaw Mcp skills for Hermes/OpenClaw agents",
+  "description": "OpenClaw platform management and Model Context Protocol client/server configuration.",
+  "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills are ready — no build step needed'"
-  }
+    "install": "echo 'Skills ready — no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill-library",
+    "mad-scientist"
+  ]
 }

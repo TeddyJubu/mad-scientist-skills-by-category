@@ -1,10 +1,21 @@
 {
   "name": "mad-scientist-essential-skill-collections",
   "version": "1.0.0",
-  "description": "Monorepo of Hermes/OpenClaw agent skill packages",
+  "description": "Monorepo of 12 independent Hermes/OpenClaw AI agent skill packages",
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
-    "install:all": "pnpm -r install",
+    "install:all": "pnpm install",
     "list": "pnpm -r list --depth 0"
-  }
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill-library",
+    "monorepo"
+  ],
+  "license": "UNLICENSED"
 }

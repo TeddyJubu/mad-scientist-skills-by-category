@@ -1,8 +1,16 @@
 {
   "name": "@mad-scientist/content-social",
   "version": "1.0.0",
-  "description": "Content Social skills for Hermes/OpenClaw agents",
+  "description": "YouTube thumbnails, OpusClip video repurposing, Blotato posting, image generation, and social copywriting.",
+  "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills are ready — no build step needed'"
-  }
+    "install": "echo 'Skills ready — no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill-library",
+    "mad-scientist"
+  ]
 }

@@ -1,8 +1,16 @@
 {
   "name": "@mad-scientist/image-graphics",
   "version": "1.0.0",
-  "description": "Image Graphics skills for Hermes/OpenClaw agents",
+  "description": "GPT Image 2 generation, HeyGen avatar videos, Remotion animations, and Nano Banana image editing.",
+  "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills are ready — no build step needed'"
-  }
+    "install": "echo 'Skills ready — no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill-library",
+    "mad-scientist"
+  ]
 }

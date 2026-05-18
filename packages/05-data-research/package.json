@@ -1,8 +1,16 @@
 {
   "name": "@mad-scientist/data-research",
   "version": "1.0.0",
-  "description": "Data Research skills for Hermes/OpenClaw agents",
+  "description": "Apify scraping, Apollo B2B contacts, Brave search, US Census data, and SEO audits.",
+  "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills are ready — no build step needed'"
-  }
+    "install": "echo 'Skills ready — no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill-library",
+    "mad-scientist"
+  ]
 }

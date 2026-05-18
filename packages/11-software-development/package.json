@@ -1,8 +1,16 @@
 {
   "name": "@mad-scientist/software-development",
   "version": "1.0.0",
-  "description": "Software Development skills for Hermes/OpenClaw agents",
+  "description": "Code review, debugging, TDD, planning, and systematic software development workflows.",
+  "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills are ready — no build step needed'"
-  }
+    "install": "echo 'Skills ready — no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill-library",
+    "mad-scientist"
+  ]
 }

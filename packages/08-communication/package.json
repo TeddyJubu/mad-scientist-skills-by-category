@@ -1,8 +1,16 @@
 {
   "name": "@mad-scientist/communication",
   "version": "1.0.0",
-  "description": "Communication skills for Hermes/OpenClaw agents",
+  "description": "Discord bot control and server management for team communication.",
+  "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills are ready — no build step needed'"
-  }
+    "install": "echo 'Skills ready — no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill-library",
+    "mad-scientist"
+  ]
 }

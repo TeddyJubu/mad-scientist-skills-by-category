@@ -1,8 +1,16 @@
 {
   "name": "@mad-scientist/real-estate",
   "version": "1.0.0",
-  "description": "Real Estate skills for Hermes/OpenClaw agents",
+  "description": "Property search, skip-tracing, RentCast analysis, and Home Depot rehab estimates for Maryland/DC/VA.",
+  "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills are ready — no build step needed'"
-  }
+    "install": "echo 'Skills ready — no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill-library",
+    "mad-scientist"
+  ]
 }

@@ -1,8 +1,16 @@
 {
   "name": "@mad-scientist/media-lifestyle",
   "version": "1.0.0",
-  "description": "Media Lifestyle skills for Hermes/OpenClaw agents",
+  "description": "YouTube content, Spotify control, weather, healthcheck tracking, and gif search.",
+  "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills are ready — no build step needed'"
-  }
+    "install": "echo 'Skills ready — no build step'"
+  },
+  "keywords": [
+    "hermes",
+    "openclaw",
+    "ai-agents",
+    "skill-library",
+    "mad-scientist"
+  ]
 }
