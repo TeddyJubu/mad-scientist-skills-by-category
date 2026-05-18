@@ -1,6 +1,6 @@
 ---
 name: hr
-description: >
+description: hr lets the user run a complete hiring intelligence system for founders who want to post jobs, screen candidates, and manage Upwork projects without spending hours on recruiting, which is useful when they need to find talent, evaluate applicants, or run an HR workflow powered by AI instead of manual HR work.
   Complete human resources intelligence system for founders, managers, and HR professionals.
   Trigger whenever someone needs help with hiring, onboarding, performance management,
   compensation, employee relations, termination, compliance, or building the people systems

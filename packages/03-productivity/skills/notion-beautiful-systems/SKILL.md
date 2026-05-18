@@ -1,6 +1,6 @@
 ---
 name: notion-beautiful-systems
-description: >-
+description: notion-beautiful-systems lets the user create, redesign, migrate, publish, and maintain beautiful Notion workspaces and pages, which is useful when they want a polished knowledge base, a clean team wiki, a well-organized CRM, or any Notion setup that looks professional and works effortlessly without needing to figure out Notion's design patterns themselves.
   Use this before creating, redesigning, migrating, publishing, or QA'ing any
   Notion page, database, workspace system, public Notion Site, product how-to
   guide, tutorial, SOP hub, dashboard, client portal, resource library, or

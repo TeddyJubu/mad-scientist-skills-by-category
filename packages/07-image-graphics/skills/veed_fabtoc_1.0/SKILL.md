@@ -1,7 +1,7 @@
 ---
 name: Veed_Fabtoc_1.0
 version: "1.0"
-description: >
+description: veed_fabtoc_1.0 lets the user create a talking video by combining one user-provided image with text and audio, which is useful when they want to produce a simple AI avatar-style video without complex video editing software or filming.
   Creates a talking video by combining one user-provided image file and one
   user-provided audio file using the fal AI model veed/fabric-1.0.
 authoring_notes:
