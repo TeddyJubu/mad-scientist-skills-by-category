@@ -1,16 +1,19 @@
 ---
+
 description: firehose lets the user monitor the web in real-time by creating Lucene query rules that track specific keywords, domains, or page types and stream matching results via Server-Sent Events, which is useful when they want to track brand mentions, competitor activity, news alerts, or website changes as they happen instead of polling manually.
 triggers:
   - User wants to monitor web mentions of a keyword, brand, or domain
   - User asks to track changes on specific websites in real-time
   - User mentions "Firehose", "web monitoring", "real-time alerts", "track mentions", "monitor competitors"
+
 ---
-
-# Firehose Skill
-
 Monitor the web in real-time. Create Lucene query rules, and every crawled page that matches gets streamed to you instantly.
 
 ---
+
+## What This Skill Does
+
+Sets up real-time web monitoring — gets notified the moment something changes on a website, a new listing appears, or a competitor updates their pricing. Like a Google Alert but for anything on the web.
 
 ## Workflow
 

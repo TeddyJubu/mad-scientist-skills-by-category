@@ -1,15 +1,18 @@
 ---
+
 name: systemd-port-reservation
 description: Lock a specific port to a long-running Node/Vite service using systemd — prevents any other process from stealing it, auto-restarts on crash, survives reboots.
 version: 1.0.0
 metadata:
   hermes:
     tags: [systemd, port, vite, node, devops, auto-restart, linux]
+
 ---
-
-# systemd Port Reservation for Node/Vite Services
-
 Use this when you need a port permanently owned by a specific service on a Linux VPS — no other process can accidentally grab it, and the service auto-restarts on crash or reboot.
+
+## What This Skill Does
+
+Reserves specific ports on your Linux server so only a specific application can use them. Prevents the "port already in use" errors that happen when two programs fight over the same port.
 
 ## Key Lessons Learned (Trial and Error)
 

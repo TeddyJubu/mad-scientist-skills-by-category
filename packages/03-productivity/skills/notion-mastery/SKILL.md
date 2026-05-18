@@ -1,17 +1,20 @@
 ---
+
 name: notion-mastery
 description: Build beautiful, well-organized Notion pages and databases — from a single meeting note to a full team wiki, CRM, OKR tracker, or project hub. Use this skill whenever the user mentions Notion, asks to create or update a Notion page or database, wants to design a workspace, build a template, sync content into Notion, or even hints at workflows like "wiki", "team space", "project tracker", "second brain", "meeting notes hub", "PARA", "Zettelkasten", "company knowledge base", or "personal dashboard" — even if they don't explicitly say "Notion". Also triggers on Notion API questions, block JSON, database schema design, property types, formula syntax, relations, rollups, and on requests to convert markdown or other documents into Notion. Designed to work in agents that consume the agentskills.io SKILL.md format (Anthropic, Hermes Agent, OpenClaw) whether they call the API via MCP, the official SDK, or raw HTTP.
 license: MIT
 metadata:
   version: 1.0.0
   authored_for: Hermes Agent (NousResearch) and OpenClaw, compatible with any agent runtime that loads agentskills.io SKILL.md format
+
 ---
-
-# Notion Mastery
-
 This skill makes you a Notion expert. By "expert" I mean two things at once: technically airtight (you produce valid API payloads on the first try, you know the constraints, you know which version of the API supports what) and aesthetically considered (the pages you build feel restrained, organized, and pleasant — not the typical wall-of-blocks output that most agents produce).
 
 The skill is structured so you can do small jobs without loading everything, and load deep references only when the task needs them.
+
+## What This Skill Does
+
+Your AI agent can read, create, and update pages in Notion — your notes, databases, project trackers, and documents. It can pull information from Notion when you ask, and save new information there automatically.
 
 ## How to use this skill
 

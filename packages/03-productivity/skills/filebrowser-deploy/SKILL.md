@@ -1,9 +1,13 @@
 ---
+
 name: filebrowser-deploy
 description: Deploy filebrowser (web-based file manager) with HTTPS via Cloudflare tunnel on Charles' server
 tags: [docker, filebrowser, https, cloudflare, web-service]
+
 ---
-# Filebrowser Deploy
+## What This Skill Does
+
+Sets up a web-based file manager (FileBrowser) on your server so you can browse, upload, and download files through a web interface instead of using FTP or command line.
 
 ## Trigger
 When the user needs to deploy filebrowser (web-based file manager) with HTTPS access on Charles' server.

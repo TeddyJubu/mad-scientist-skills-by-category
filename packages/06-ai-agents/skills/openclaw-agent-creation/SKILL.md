@@ -1,11 +1,14 @@
 ---
+
 name: openclaw-agent-creation
 description: Create a new OpenClaw subagent workspace with full file structure, modeled after existing agents. Use this when the user wants to add a new named AI agent to their team.
+
 ---
-
-# OpenClaw Agent Creation
-
 When the user wants to create a new AI agent on their team, follow this workflow.
+
+## What This Skill Does
+
+Creates new AI agent personas from scratch — defines their personality, capabilities, tools, and workflow. Use this to build specialized agents for specific business functions.
 
 ## Step 1: Check Existing State
 

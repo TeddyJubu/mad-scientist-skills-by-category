@@ -1,4 +1,5 @@
 ---
+
 name: census-data
 description: Fetch demographic, economic, and population data from the U.S. Census Bureau API. Use this skill when you need population statistics, housing data, business patterns, income/poverty estimates, or any U.S. government statistical data at national, state, county, metro, tract, or block group levels.
 version: 1.0.0
@@ -13,11 +14,13 @@ trigger_phrases:
   - "poverty estimates"
   - "housing statistics"
   - "census API"
+
 ---
-
-# Census Data Skill
-
 Fetches demographic, economic, housing, and business data from the U.S. Census Bureau Data API.
+
+## What This Skill Does
+
+Pulls US Census Bureau data — demographics, income levels, housing statistics, population figures — for any geographic area. Essential for real estate investment analysis.
 
 ## When to Use This Skill
 

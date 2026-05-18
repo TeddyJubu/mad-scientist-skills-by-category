@@ -1,4 +1,5 @@
 ---
+
 name: gif-search
 description: "Search/download GIFs from Tenor via curl + jq."
 version: 1.1.0
@@ -11,11 +12,13 @@ prerequisites:
 metadata:
   hermes:
     tags: [GIF, Media, Search, Tenor, API]
+
 ---
-
-# GIF Search (Tenor API)
-
 Search and download GIFs directly via the Tenor API using curl. No extra tools needed.
+
+## What This Skill Does
+
+Searches for GIFs on Tenor and returns the direct link — for adding personality to your social posts, texts, or presentations.
 
 ## When to use
 

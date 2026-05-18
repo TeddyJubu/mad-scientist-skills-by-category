@@ -1,11 +1,14 @@
 ---
+
 name: youtube-content
 description: Fetch YouTube video transcripts and transform them into structured content (chapters, summaries, threads, blog posts).
+
 ---
-
-# YouTube Content Tool
-
 Extract transcripts from YouTube videos and convert them into useful formats.
+
+## What This Skill Does
+
+Manages your YouTube channel — pulls video data, gets channel statistics, monitors comments, and can help with content research and title optimization.
 
 ## Setup
 

@@ -1,10 +1,13 @@
 ---
+
 name: remotion-video-editing
 description: Create, edit, and render videos using Remotion — a React-based video-as-code framework. Covers setup from scratch, project structure, key commands, core concepts, and known pitfalls.
 trigger: When the user wants to create, edit, or render videos using Remotion (video-as-code with React), including batch-producing short-form content, adding text overlays, subtitles, animations, or compositing.
----
 
-# Remotion Video Editing
+---
+## What This Skill Does
+
+Edits existing videos using Remotion's programmable video framework — adds captions, overlays, animated text, split screens, and other effects to raw footage.
 
 ## Setup
 Remotion source is cloned at `/root/.openclaw/workspace/remotion` (reference only).

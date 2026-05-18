@@ -1,12 +1,15 @@
 ---
+
 name: nano-banana-image-gen
 description: Generate images using Gemini 3.1 Flash (gemini-3.1-flash-image-preview) — the nano-banana model. Use for thumbnails, infographics, social graphics, and any image generation task. Always use this instead of the image_generate tool (FLUX). Supports reference image input for face/style matching.
 tags: [image-generation, gemini, nano-banana, thumbnails, infographics, design]
+
 ---
-
-# Nano Banana Image Generation
-
 Generates images using `gemini-3.1-flash-image-preview` (Google's Gemini 3.1 Flash image model — aka "nano-banana"). Always use this for image generation on Charles's system, never the `image_generate` tool (FLUX).
+
+## What This Skill Does
+
+An alternative image generator using Google's Imagen model. Good for photorealistic images, artistic styles, and content that requires Google's specific visual training.
 
 ## Key Facts
 

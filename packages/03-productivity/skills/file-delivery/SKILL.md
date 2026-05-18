@@ -1,9 +1,12 @@
 ---
+
 name: file-delivery
 description: Complete file delivery system — outbound (VPS→Telegram) and inbound (Telegram→VPS or URL→VPS). Always use this when producing or receiving files.
----
 
-# File Delivery
+---
+## What This Skill Does
+
+Takes any file — PDF, image, spreadsheet, document — and sends it directly to your Telegram app or uploads it to your Google Drive. Perfect for reports that need to be in your hands immediately.
 
 ## Quick Reference
 

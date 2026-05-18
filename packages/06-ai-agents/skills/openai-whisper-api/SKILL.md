@@ -1,13 +1,16 @@
 ---
+
 name: openai-whisper-api
 description: Transcribe audio via OpenAI Audio Transcriptions API (Whisper).
 homepage: https://platform.openai.com/docs/guides/speech-to-text
 metadata: {"clawdbot":{"emoji":"☁️","requires":{"bins":["curl"],"env":["OPENAI_API_KEY"]},"primaryEnv":"OPENAI_API_KEY"}}
+
 ---
-
-# OpenAI Whisper API (curl)
-
 Transcribe an audio file via OpenAI’s `/v1/audio/transcriptions` endpoint.
+
+## What This Skill Does
+
+Transcribes audio files (recordings, voice memos, podcast episodes) to text using OpenAI's Whisper model — highly accurate, handles multiple speakers, works in many languages.
 
 ## Quick start
 

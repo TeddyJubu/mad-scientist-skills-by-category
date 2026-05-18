@@ -1,4 +1,5 @@
 ---
+
 name: Veed_Fabtoc_1.0
 version: "1.0"
 description: veed_fabtoc_1.0 lets the user create a talking video by combining one user-provided image with text and audio, which is useful when they want to produce a simple AI avatar-style video without complex video editing software or filming.
@@ -10,11 +11,13 @@ authoring_notes:
   - Do not hardcode the fal API key in the skill file
   - Read the fal API key from the environment variable FAL_API_KEY
   - FAL_API_KEY is stored in /root/.openclaw/.openclaw/.env
+
 ---
-
-# Veed_Fabtoc_1.0 — Talking Image Video Generator
-
 Creates a talking/lip-sync video by animating a still image to match a spoken audio track using fal.ai's VEED Fabric 1.0 model.
+
+## What This Skill Does
+
+Creates talking head videos from a single photo — takes a headshot, animates it to look like the person is speaking naturally, and adds a voiceover. For creating personal video content at scale without filming.
 
 ## Requirements
 

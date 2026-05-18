@@ -1,4 +1,5 @@
 ---
+
 name: watch
 description: Watch a video (URL or local path). Downloads with yt-dlp, extracts auto-scaled frames with ffmpeg, pulls the transcript from captions (or Whisper API fallback), and hands the result to Claude so it can answer questions about what's in the video.
 argument-hint: "<video-url-or-path> [question]"
@@ -8,11 +9,13 @@ repository: https://github.com/bradautomates/claude-video
 author: bradautomates
 license: MIT
 user-invocable: true
+
 ---
-
-# /watch — Claude watches a video
-
 You don't have a video input; this skill gives you one. A Python script downloads the video, extracts frames as JPEGs, gets a timestamped transcript (native captions first, then Whisper API as fallback), and prints frame paths. You then `Read` each frame path to see the images and combine them with the transcript to answer the user.
+
+## What This Skill Does
+
+Uses Claude to watch and analyze YouTube videos — understands the content, answers questions about what's in the video, and can extract specific information.
 
 ## Step 0 — Setup preflight (runs every `/watch` invocation, silent on success)
 

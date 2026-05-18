@@ -1,4 +1,5 @@
 ---
+
 name: mcporter
 description: Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation.
 version: 1.0.0
@@ -10,11 +11,13 @@ metadata:
     homepage: https://mcporter.dev
 prerequisites:
   commands: [npx]
+
 ---
-
-# mcporter
-
 Use `mcporter` to discover, call, and manage [MCP (Model Context Protocol)](https://modelcontextprotocol.io/) servers and tools directly from the terminal.
+
+## What This Skill Does
+
+Configures and manages the Model Context Protocol (MCP) — the system that connects your AI agents to external tools and data sources. Sets up new tool connections and authenticates them.
 
 ## Prerequisites
 

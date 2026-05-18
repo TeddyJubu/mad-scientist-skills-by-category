@@ -1,4 +1,5 @@
 ---
+
 name: firecrawl
 description: firecrawl lets the user scrape, crawl, and map websites into clean markdown, which is useful when they need to extract content from pages, audit site structures, build knowledge bases from web sources, or feed structured web content into AI workflows without broken HTML or layout artifacts.
 triggers:
@@ -11,11 +12,13 @@ triggers:
 version: 1.0.0
 author: Charles Blair
 created: 2026-03-12
+
 ---
-
-# Firecrawl Skill
-
 Reliable web scraping, crawling, and domain mapping via Firecrawl CLI.
+
+## What This Skill Does
+
+Scrapes entire websites and converts them into clean, readable text and markdown — perfect for analyzing competitor sites, aggregating content, or building datasets from web pages.
 
 ## What It Does
 

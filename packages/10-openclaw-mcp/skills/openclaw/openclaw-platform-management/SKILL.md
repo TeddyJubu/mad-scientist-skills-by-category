@@ -1,12 +1,15 @@
 ---
+
 name: openclaw-platform-management
 description: OpenClaw platform operations — access/troubleshooting, subagent creation, and Docker migration on Charles's Hostinger server. Covers gateway ports, config management, Docker exec patterns, and agent registration.
 category: openclaw
+
 ---
-
-# OpenClaw Platform Management
-
 **Manage, access, and troubleshoot the OpenClaw platform on Charles's Hostinger server.**
+
+## What This Skill Does
+
+The main OpenClaw platform skill — manages the overall AI agent platform. Handles agent creation, configuration, updates, monitoring, and troubleshooting. Everything about running your AI team in one place.
 
 ## Umbrella Sections
 

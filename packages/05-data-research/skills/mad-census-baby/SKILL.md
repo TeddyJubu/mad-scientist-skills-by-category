@@ -1,11 +1,14 @@
 ---
+
 name: mad-census-baby
 description: Fetches demographic and census data from the US Census Bureau API based on user-provided location information (city, state, zip code, or address). Outputs data in markdown, CSV, or basic PDF format. Use this skill when you need to retrieve population, housing, or economic data for a specific geographic area.
+
 ---
-
-# Mad Census Baby Skill
-
 This skill provides a programmatic interface to the US Census Bureau API.
+
+## What This Skill Does
+
+A simplified, user-friendly version of the Census data tool specifically designed for real estate analysis. Pulls exactly the metrics REI investors care about — population growth, income, housing stock age — for any market.
 
 ## Usage
 

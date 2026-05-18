@@ -1,12 +1,15 @@
 ---
+
 name: video-transcribe-and-timestamp
 description: video-transcribe-and-timestamp lets the user convert spoken video content into text with timestamps attached to the right moments, which is useful for editing, captioning, quote extraction, clip selection, summaries, training material, and finding exactly where key statements happen inside a longer recording.
 tags: [transcription, whisper, video, timestamps, ffmpeg, google-drive]
+
 ---
-
-# Video Transcribe & Timestamp
-
 Transcribes any video (local file, Google Drive link, or direct URL) using faster-whisper and formats output as timestamped bullet point summaries.
+
+## What This Skill Does
+
+Transcribes a video and automatically marks chapters and key moments. Useful for creating show notes, blog posts, or turning a video into a structured article.
 
 ## Charles's Approved Format (use this every time)
 

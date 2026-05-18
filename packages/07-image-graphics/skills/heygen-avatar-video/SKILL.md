@@ -1,11 +1,14 @@
 ---
+
 name: heygen-avatar-video
 description: heygen-avatar-video lets the user generate AI avatar talking-head videos using Charles Blair's custom HeyGen avatar, which is useful when they want to create UGC-style content for TikTok, Reels, or YouTube without filming, produce consistent on-brand video content at scale, or quickly turn a script into a finished talking-head video.
+
 ---
-
-# HeyGen Avatar Video
-
 Generate AI avatar videos using Charles Blair's pre-built HeyGen avatar. Produces 9:16 vertical talking-head videos suitable for TikTok, Instagram Reels, and YouTube Shorts.
+
+## What This Skill Does
+
+Creates videos where an AI-generated avatar appears on screen and speaks. Uses your own face (upload a photo) so you can make videos of yourself saying anything — without filming. Perfect for personalized video messages at scale.
 
 ## Transcription Workflow (NEW)
 

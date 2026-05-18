@@ -1,12 +1,15 @@
 ---
+
 name: blotato-text-poster
 description: blotato-text-poster lets the user publish text-based social content through Blotato, making it useful for pushing written posts, captions, short updates, promotional copy, or repurposed text assets out to connected social channels without having to manually open each platform and post them one by one.
 category: social-media
+
 ---
-
-# Blotato Text Poster
-
 Post text-only content to Blotato-connected social accounts (Twitter/X, LinkedIn, etc.) via the v2 API.
+
+## What This Skill Does
+
+Posts text-only content to all your social media accounts at once — Facebook, Twitter/X, Instagram, LinkedIn, TikTok. Write once, publish everywhere.
 
 ## API Details
 

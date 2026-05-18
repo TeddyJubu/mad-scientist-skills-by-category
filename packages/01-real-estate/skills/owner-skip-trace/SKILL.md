@@ -1,12 +1,15 @@
 ---
+
 name: owner-skip-trace
 description: owner-skip-trace lets the user start from a property or owner name and identify the most likely current owner contact details, including phones, emails, mailing addresses, and related people or entity clues, so they can go from raw property lead to direct-owner outreach with less guesswork and fewer dead ends.
 category: openclaw-imports
+
 ---
-
-# Owner Skip Trace — Free Public Source Method
-
 **Find phone numbers, emails, social media profiles, and business records for property owners using only free public web sources. No paid databases (TLO, LexisNexis) required.**
+
+## What This Skill Does
+
+Given a property address, finds the current owner's contact information using public records. Faster version for single-property lookups.
 
 ## When to Use
 - After you have an owner's name from LandGlide, SDAT, Rentcast, or public records

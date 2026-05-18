@@ -1,11 +1,14 @@
 ---
+
 name: apollo-find
 description: Search for B2B contacts and companies using the Apollo.io API. Use this skill when the user wants to find leads, prospects, or business contacts — including filtering by job title, seniority, location, company size, revenue, industry, or technology stack. Also handles company/organization search and people enrichment (emails/phones). Triggers on phrases like "find contacts", "search Apollo", "find leads", "look up companies", "B2B prospecting", "find [job title] at [company type]", "enrich a contact", or any Apollo.io data request.
+
 ---
-
-# Apollo Find
-
 Search Apollo.io's B2B database for people and companies. API key stored in `.secrets/apollo.env`.
+
+## What This Skill Does
+
+Searches Apollo's database of 200M+ business contacts. Find anyone at any company — their email, phone number, LinkedIn URL, and job title. Perfect for outbound sales or finding decision-makers.
 
 ## Auth
 

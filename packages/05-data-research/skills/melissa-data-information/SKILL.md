@@ -1,9 +1,12 @@
 ---
+
 name: melissa-data-information
 description: melissa-data-information lets the user look up a single property address or process a CSV of multiple addresses to enrich them with Melissa Data property and ownership information, which is useful when they want to verify addresses, get property characteristics, or add structured property data to leads without manual research.
----
 
-# Melissa Data Information
+---
+## What This Skill Does
+
+Property data lookup using Melissa Data — the property owner's mailing address, phone number, and property characteristics for any US address.
 
 ## Overview
 

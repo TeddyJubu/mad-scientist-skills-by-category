@@ -1,11 +1,14 @@
 ---
+
 name: rei-ai-zoom-processor
 description: rei-ai-zoom-processor lets the user turn a Zoom or any video transcript into a structured Markdown document and PDF with bullet-point summaries, timestamps, and extracted resources, which is useful when they want to capture meeting notes, create training materials, or turn recorded conversations into searchable, shareable documents without manual summarization.
+
 ---
-
-# REI AI Zoom Processor Skill
-
 Processes a Zoom (or any video) transcript with an LLM to produce three structured sections — summary, timestamped key topics, and resource list — then writes them to a Markdown file and PDF.
+
+## What This Skill Does
+
+Processes Zoom (or any video) transcripts specifically for real estate investing workflows — turns raw meeting transcripts into deal analysis, lead follow-up notes, and investor updates.
 
 ## Workflow
 

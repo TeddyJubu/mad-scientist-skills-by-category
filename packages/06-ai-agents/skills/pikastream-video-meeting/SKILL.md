@@ -1,4 +1,5 @@
 ---
+
 name: pikastream-video-meeting
 description: pikastream-video-meeting lets the user join a Google Meet or Zoom call as an AI video meeting agent via PikaStreaming, which is useful when they need a virtual agent to attend a meeting, take notes, observe, or participate on their behalf without being physically present.
 metadata:
@@ -7,11 +8,13 @@ metadata:
       env: ["PIKA_DEV_KEY"]
       bins: ["python3"]
     primaryEnv: "PIKA_DEV_KEY"
+
 ---
-
-# PikaStream Video Meeting
-
 Script: `SKILL_DIR=skills/pikastream-video-meeting`
+
+## What This Skill Does
+
+Joins your Google Meet or Zoom call as an AI participant, takes notes, transcribes the meeting, and produces a summary and action items afterward.
 
 ## First-Time Setup
 

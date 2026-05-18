@@ -1,11 +1,14 @@
 ---
+
 name: yt-thumbnail-creator
 description: yt-thumbnail-creator lets the user create YouTube thumbnails designed to improve click-through rate by combining strong visual hierarchy, readable text, compelling composition, and topic-specific styling, so they can turn a video concept or title into a thumbnail that is built to compete in the feed instead of blending into it.
+
 ---
-
-# YouTube Thumbnail Creator
-
 Automates creation of on-brand YouTube thumbnails for Charles Blair's real estate investing channel. Generates 3 high-impact thumbnail variations using Gemini Studio Nano Banana Pro.
+
+## What This Skill Does
+
+Creates professional YouTube thumbnails in the style of top creators like MrBeast — big face, bold text, high contrast, instantly recognizable. Upload your headshot reference and it uses your face consistently across all thumbnails.
 
 ## Workflow
 

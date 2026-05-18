@@ -1,13 +1,16 @@
 ---
+
 name: video-frames
 description: Extract frames or short clips from videos using ffmpeg.
 homepage: https://ffmpeg.org
 metadata: {"clawdbot":{"emoji":"🎞️","requires":{"bins":["ffmpeg"]},"install":[{"id":"brew","kind":"brew","formula":"ffmpeg","bins":["ffmpeg"],"label":"Install ffmpeg (brew)"}]}}
+
 ---
-
-# Video Frames (ffmpeg)
-
 Extract a single frame from a video, or create quick thumbnails for inspection.
+
+## What This Skill Does
+
+Extracts individual frames or short clips from any video file. Useful for creating thumbnails, extracting screenshots for social posts, or saving a specific moment.
 
 ## Quick start
 

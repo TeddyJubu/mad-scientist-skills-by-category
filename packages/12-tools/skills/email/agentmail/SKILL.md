@@ -1,4 +1,5 @@
 ---
+
 name: agentmail
 description: Give the agent its own dedicated email inbox via AgentMail. Send, receive, and manage email autonomously using agent-owned email addresses (e.g. hermes-agent@agentmail.to).
 version: 1.0.0
@@ -7,9 +8,11 @@ metadata:
   hermes:
     tags: [email, communication, agentmail, mcp]
     category: email
----
 
-# AgentMail — Agent-Owned Email Inboxes
+---
+## What This Skill Does
+
+Gives your AI agent its own email inbox so it can send and receive emails on your behalf. It can read incoming emails, respond to routine inquiries, and send reports or files to anyone you specify.
 
 ## Requirements
 

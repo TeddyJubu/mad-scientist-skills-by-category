@@ -1,11 +1,14 @@
 ---
+
 name: mad-graphic-designer-skill
 description: mad-graphic-designer-skill lets the user create branded visual assets such as infographics, social graphics, promotional images, event visuals, and marketing design pieces with a stronger strategic and aesthetic point of view, so ideas can be turned into graphics that feel intentional, on-brand, and built to communicate something clearly.
+
 ---
-
-# ListingLens Studio
-
 Use this skill as a practical image director for real-estate visuals across ChatGPT-native image generation, agent runtimes, and `gpt-image-2` API workflows. Default to the user's stated domain; use real-estate rules only when the asset shows, sells, edits, or markets property. First decide whether the user needs a prompt/spec, a generated file, an edit to supplied images, or a handoff spec for another design/compositing tool.
+
+## What This Skill Does
+
+A full AI graphic designer that creates marketing materials — listing flyers, yard signs, social media graphics, ad creatives — in your brand style. Gives you print-ready files.
 
 ## Execution Backend Router
 

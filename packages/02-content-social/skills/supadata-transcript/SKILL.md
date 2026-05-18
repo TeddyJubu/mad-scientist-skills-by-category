@@ -1,4 +1,5 @@
 ---
+
 name: supadata-transcript
 description: supadata-transcript lets the user pull transcript data from supported media sources so they can read, analyze, quote, summarize, repurpose, or mine spoken content without manually transcribing it, which is especially useful for turning videos, interviews, and recorded conversations into searchable text that can feed content creation or research workflows.
 version: 1.0.0
@@ -8,11 +9,13 @@ requires:
     - curl
   env:
     - SUPADATA_API_KEY
+
 ---
-
-# Supadata Transcript Skill
-
 Get transcripts from videos on YouTube, TikTok, Twitter, Instagram, Facebook, or from direct file URLs using the Supadata API.
+
+## What This Skill Does
+
+Transcribes any YouTube video to text — exactly word for word. Great for repurposing video content into blog posts, email newsletters, or quote cards.
 
 ## Configuration
 

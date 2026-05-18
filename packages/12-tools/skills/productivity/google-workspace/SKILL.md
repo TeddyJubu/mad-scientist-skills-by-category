@@ -1,4 +1,5 @@
 ---
+
 name: google-workspace
 description: Gmail, Calendar, Drive, Contacts, Sheets, and Docs integration via Python. Uses OAuth2 with automatic token refresh. No external binaries needed — runs entirely with Google's Python client libraries in the Hermes venv.
 version: 1.0.0
@@ -14,11 +15,13 @@ metadata:
     tags: [Google, Gmail, Calendar, Drive, Sheets, Docs, Contacts, Email, OAuth]
     homepage: https://github.com/NousResearch/hermes-agent
     related_skills: [himalaya]
+
 ---
-
-# Google Workspace
-
 Gmail, Calendar, Drive, Contacts, Sheets, and Docs — all through Python scripts in this skill. No external binaries to install.
+
+## What This Skill Does
+
+Connects to your full Google Workspace — Gmail, Google Calendar, Google Drive, and Google Contacts. Your AI can schedule meetings, check your calendar, find files, and manage your Google apps.
 
 ## References
 

@@ -1,12 +1,15 @@
 ---
+
 name: copywriting
 description: copywriting lets the user create clear, persuasive written content for sales pages, ads, emails, landing pages, offer descriptions, social posts, and follow-up messages, with messaging shaped to match the audience, goal, and platform so the final copy is not just polished, but built to get attention, generate response, and move people toward a specific action.
 metadata:
   version: 1.0.0
+
 ---
 
-# Copywriting
+## What This Skill Does
 
+Writes marketing copy for you — ads, email sequences, landing pages, social posts, sales letters. Just tell it what you're selling and who you're selling to.
 
 ## Product How-To Guide Routing
 

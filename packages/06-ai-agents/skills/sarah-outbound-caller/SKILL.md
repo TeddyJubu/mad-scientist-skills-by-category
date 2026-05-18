@@ -1,11 +1,14 @@
 ---
+
 name: sarah-outbound-caller
 description: sarah-outbound-caller lets the user deploy and manage Sarah, a VAPI-powered AI voice assistant that runs four distinct outbound call types — REI property acquisition, event reminders, community engagement, and agency outreach — with strict script isolation per campaign, which is useful when they want to automate calling campaigns, set up new call flows, or manage multi-vertical outreach without manual dialing.
+
 ---
-
-# Sarah Outbound Caller
-
 Sarah is a VAPI-powered AI voice assistant that handles outbound calls for four business verticals with strict script isolation. This skill packages the complete system: Vercel dashboard, VAPI integration, call routing logic, and conversation prompts.
+
+## What This Skill Does
+
+Your AI voice caller. Calls leads on the phone, speaks to them naturally using a realistic AI voice, asks pre-set questions, and reports back what was said. Uses VAPI (Voice AI Platform).
 
 ## System Overview
 

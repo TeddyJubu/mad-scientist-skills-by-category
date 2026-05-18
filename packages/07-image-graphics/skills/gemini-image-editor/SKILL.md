@@ -1,4 +1,5 @@
 ---
+
 name: gemini-image-editor
 description: Edit, enhance, remove objects, change backgrounds, and transform images using Google AI Studio Gemini Nano Banana Pro (Imagen 3). Use when you need to edit existing images, remove backgrounds, swap objects, change lighting, add/remove elements, or apply artistic transformations.
 triggers:
@@ -15,11 +16,13 @@ triggers:
 version: 1.0.0
 author: Charles Blair
 created: 2026-03-12
+
 ---
-
-# Gemini Image Editor Skill
-
 Professional image editing powered by Google AI Studio Gemini Nano Banana Pro (Imagen 3).
+
+## What This Skill Does
+
+Edits photos you already have — removes objects, changes backgrounds, retouches faces, adds or replaces elements. Upload a photo and describe the change in plain English.
 
 ## What It Does
 
