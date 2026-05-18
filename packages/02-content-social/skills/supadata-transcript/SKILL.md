@@ -1,6 +1,6 @@
 ---
 name: supadata-transcript
-description: Get transcripts from YouTube, TikTok, Twitter, Instagram, Facebook videos using the Supadata API. Supports native transcripts, AI-generated transcripts, and file URLs. Use when the user wants to transcribe any social media video or asks for a YouTube transcript.
+description: supadata-transcript lets the user pull transcript data from supported media sources so they can read, analyze, quote, summarize, repurpose, or mine spoken content without manually transcribing it, which is especially useful for turning videos, interviews, and recorded conversations into searchable text that can feed content creation or research workflows.
 version: 1.0.0
 maintainer: James (OpenClaw agent)
 requires:

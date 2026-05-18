@@ -1,6 +1,6 @@
 ---
 name: instagram-carousel-authority
-description: Create and publish viral authority-building Instagram carousel posts. Use when the user wants to create Instagram carousels, research competitors, design scroll-stopping slides, write high-engagement captions, or publish directly to Instagram. Triggers on phrases like "Instagram carousel", "create carousel", "viral Instagram post", "authority content", "Instagram design", or any request involving Instagram content creation with research, strategy, design, and publishing phases.
+description: instagram-carousel-authority lets the user turn a topic, offer, or business message into a strategic Instagram carousel built for reach, saves, shares, and authority-building, including the hook, slide structure, teaching angle, design direction, and caption strategy needed to make the post feel like a serious piece of content instead of random social filler.
 ---
 
 # Instagram Carousel Authority Builder

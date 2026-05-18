@@ -1,6 +1,6 @@
 ---
 name: mad-graphic-designer-skill
-description: Use when real-estate teams or agent workflows need image-model prompt craft, generation, editing, QA, or handoff for listing photos, virtual staging, day-to-dusk exteriors, rental flyers, YouTube thumbnails, social ads, listing packets, brand visuals, ChatGPT/Codex native image tools, Hermes Agent, OpenClaw, Manus, Genspark, or local GPT Image API workflows.
+description: mad-graphic-designer-skill lets the user create branded visual assets such as infographics, social graphics, promotional images, event visuals, and marketing design pieces with a stronger strategic and aesthetic point of view, so ideas can be turned into graphics that feel intentional, on-brand, and built to communicate something clearly.
 ---
 
 # ListingLens Studio

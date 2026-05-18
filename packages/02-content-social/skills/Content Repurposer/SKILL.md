@@ -1,6 +1,6 @@
 ---
 name: Content Repurposer
-description: Turn one piece of content into 10+ formats. Transform blog posts, podcasts, videos, or talks into tweets, LinkedIn posts, newsletters, carousels, and more.
+description: Content Repurposer lets the user transform existing content into multiple new formats, angles, and platform-specific assets, helping them stretch one original piece of content into a broader publishing system that can feed email, social, video clips, carousels, captions, and promotional material without starting from scratch each time.
 ---
 
 # Content Repurposer

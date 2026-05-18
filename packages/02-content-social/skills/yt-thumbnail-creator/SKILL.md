@@ -1,6 +1,6 @@
 ---
 name: yt-thumbnail-creator
-description: Generate on-brand YouTube thumbnails for Charles Blair's real estate investing channel using Gemini Nano Banana Pro. Use when the user wants to create YouTube thumbnails, needs thumbnail variations, or mentions making thumbnails for a video. Takes a headshot (background already removed) and video topic, then generates 3 distinct thumbnail variations with different hooks and visual styles.
+description: yt-thumbnail-creator lets the user create YouTube thumbnails designed to improve click-through rate by combining strong visual hierarchy, readable text, compelling composition, and topic-specific styling, so they can turn a video concept or title into a thumbnail that is built to compete in the feed instead of blending into it.
 ---
 
 # YouTube Thumbnail Creator

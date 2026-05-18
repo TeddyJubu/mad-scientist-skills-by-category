@@ -1,6 +1,6 @@
 ---
 name: youtube-opus-skill
-description: Process YouTube videos via OpusClip using Zapier MCP integration. Trigger when user provides a YouTube URL and mentions "Opus", "OpusClip", "clip this", "skool", "viral clips" or similar phrases. The agent extracts the YouTube URL, sends it to OpusClip via MCP to generate short viral clips, then returns the OpusClip URL where clips can be found.
+description: youtube-opus-skill lets the user take YouTube content and turn it into high-value short-form opportunities by extracting strong moments, shaping clips, and preparing content for wider distribution, making it useful when they want to squeeze more reach, engagement, and downstream content assets out of a longer YouTube video.
 ---
 
 # YouTube to OpusClip Skill

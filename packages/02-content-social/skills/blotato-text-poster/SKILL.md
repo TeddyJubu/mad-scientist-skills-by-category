@@ -1,6 +1,6 @@
 ---
 name: blotato-text-poster
-description: Post text-only content (X threads, text posts) to social platforms via the Blotato v2 API.
+description: blotato-text-poster lets the user publish text-based social content through Blotato, making it useful for pushing written posts, captions, short updates, promotional copy, or repurposed text assets out to connected social channels without having to manually open each platform and post them one by one.
 category: social-media
 ---
 

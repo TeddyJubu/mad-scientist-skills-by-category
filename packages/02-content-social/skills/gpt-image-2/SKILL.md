@@ -1,6 +1,6 @@
 ---
 name: gpt-image-2
-description: Generate images with OpenAI GPT Image 2 (model id `gpt-image-2`) — Charles's default image generator on Hermes. Calls OpenAI's Images API directly using OPENAI_API_KEY (no FAL gateway, no shared billing). Falls back to Gemini 3.1 Flash Image (Nano Banana 2) only if OpenAI fails. Use this for ALL image generation requests on Hermes; do NOT use the built-in `image_generate` tool (FAL-based — currently out of credit) or `nano-banana-image-gen` (Gemini, the old default Charles moved off of).
+description: gpt-image-2 lets the user generate original images or edit existing ones using AI, which is useful for marketing graphics, concept visuals, branded content, ad creatives, mockups, thumbnails, and stylized scene creation when they need a fast way to turn an idea, prompt, or reference image into a finished visual asset.
 category: creative
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: video-transcribe-and-timestamp
-description: Transcribe a video file or Google Drive link using faster-whisper and output timestamped bullet point summaries. Charles's preferred format is 10-15 minute intervals, 1-2 sentences per bullet. Also supports clip trimming (ffmpeg) and per-clip transcription.
+description: video-transcribe-and-timestamp lets the user convert spoken video content into text with timestamps attached to the right moments, which is useful for editing, captioning, quote extraction, clip selection, summaries, training material, and finding exactly where key statements happen inside a longer recording.
 tags: [transcription, whisper, video, timestamps, ffmpeg, google-drive]
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: xitter
-description: Interact with X/Twitter via the x-cli terminal client using official X API credentials. Use for posting, reading timelines, searching tweets, liking, retweeting, bookmarks, mentions, and user lookups.
+description: xitter X/Twitter via xurl CLI lets the user create, manage, and publish content on X/Twitter through the xurl command-line workflow, which is useful for posting tweets, threading ideas, testing messaging, automating social distribution, and handling X-related publishing tasks in a more controlled, scriptable way than doing everything manually in the app.
 version: 1.0.0
 author: Siddharth Balyan + Hermes Agent
 license: MIT

@@ -1,6 +1,6 @@
 ---
 name: opus-clip-mcp
-description: Send YouTube videos to OpusClip via Zapier MCP to automatically generate short-form clips. Use when the user asks to clip a YouTube video, create shorts/reels from a video, or process a video through OpusClip.
+description: opus-clip-mcp lets the user create short-form video clips from longer video content using an Opus-style clipping workflow, helping them identify strong moments, cut usable segments, and prepare social-ready clips that are better suited for platforms like TikTok, Instagram Reels, and YouTube Shorts than the original long-form format.
 ---
 
 # OpusClip MCP Skill

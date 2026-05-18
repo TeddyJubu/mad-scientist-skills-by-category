@@ -1,6 +1,6 @@
 ---
 name: opus-blotato-video-poster
-description: Takes a YouTube video URL, generates short viral clips via Opus Clip, selects the top 2 clips by virality score, posts clip #1 immediately to all connected Blotato social media accounts, and schedules clip #2 for 4 hours later. Use this skill when the user wants to post a YouTube video to social media, clip a YouTube video and distribute it, or run the Opus Clip + Blotato workflow.
+description: opus-blotato-video-poster lets the user take video clips and push them through a posting workflow that connects clipping and distribution, so they can go from finished short-form video to published social content with less manual handling, especially when they want a more repeatable system for sending videos across multiple channels.
 ---
 
 # Opus Blotato Video Poster

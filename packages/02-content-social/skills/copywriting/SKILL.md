@@ -1,6 +1,6 @@
 ---
 name: copywriting
-description: When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says "write copy for," "improve this copy," "rewrite this page," "marketing copy," "headline help," or "CTA copy." For email copy, see email-sequence. For popup copy, see popup-cro.
+description: copywriting lets the user create clear, persuasive written content for sales pages, ads, emails, landing pages, offer descriptions, social posts, and follow-up messages, with messaging shaped to match the audience, goal, and platform so the final copy is not just polished, but built to get attention, generate response, and move people toward a specific action.
 metadata:
   version: 1.0.0
 ---
