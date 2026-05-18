@@ -140,7 +140,7 @@ curl -s "https://reportallusa.com/api/parcels?client=nBkKeHaA6m&v=9&owner=Smith*
 - The response returns a list of parcels — even single-address queries may return an array
 - Always check quota headers to monitor usage
 - Rate limit is 20 req/sec — don't flood the API
-- For MD properties, this is a good complement to the `sdat-property-search` skill (SDAT is official state data, LandGlide is national parcel GIS)
+- For MD properties, SDAT (State Department of Assessments and Taxation) is the official state data source; LandGlide provides national parcel GIS data
 - If a lookup returns no results, try a simpler query: just house number + street name, or try the ZIP as region instead of city
 
 ---

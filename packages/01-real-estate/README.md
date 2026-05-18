@@ -98,7 +98,6 @@ ln -s $(pwd)/skills ~/.hermes/skills/real-estate
 
 ### Quick Start
 ```
-skill_view(name="sdat-property-search")
 skill_view(name="rentcast-property-report")
 skill_view(name="homedepot-repair-estimator")
 ```

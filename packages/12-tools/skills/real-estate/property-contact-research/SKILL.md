@@ -230,24 +230,9 @@ curl -s -D- "https://reportallusa.com/api/parcels?client=nBkKeHaA6m&v=9&address=
 ### Notes
 - Always URL-encode addresses with spaces and special characters
 - Rate limit is 20 req/sec — don't flood the API
-- For MD properties, this complements `sdat-property-search` (SDAT is official state data, LandGlide is national parcel GIS)
+- For MD properties, use SDAT (State Department of Assessments and Taxation) as the official state data source
 
----
 
-## §3 SDAT Maryland Property Search
-
-**Official Maryland state property tax/assessment database — ownership, assessed values, tax records, property characteristics.**
-
-### Trigger
-Use for any Maryland property lookup. SDAT (State Department of Assessments and Taxation) is the authoritative source for MD property data.
-
-### How to Use
-Use the `sdat-property-search` skill (sub-agent delegation) for the full workflow.
-
-### Notes
-- Covers all Maryland counties
-- Data includes: owner name, property address, assessed value, tax record, land use, year built, square footage
-- Real Property Data Search: https://sdat.dat Maryland.gov/Recordings/QuickFarm...
 
 ---
 

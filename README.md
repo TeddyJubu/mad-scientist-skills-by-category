@@ -44,13 +44,12 @@ Example: Real Estate Package
 ├── package.json
 ├── README.md
 └── skills/
-    ├── sdat-property-search/     ← look up MD property records
     ├── rentcast-property-report/ ← investment analysis
     ├── homedepot-repair-estimator/ ← material cost estimates
     └── ...
 ```
 
-You load a skill with: `skill_view(name="sdat-property-search")`
+You load a skill with: `skill_view(name="rentcast-property-report")`
 
 Then you just talk to your AI: "Look up the property at 123 Main Street, Baltimore"
 
