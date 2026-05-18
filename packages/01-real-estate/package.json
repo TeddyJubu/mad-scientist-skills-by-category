@@ -1,0 +1,8 @@
+{
+  "name": "@mad-scientist/real-estate",
+  "version": "1.0.0",
+  "description": "Real Estate skills for Hermes/OpenClaw agents",
+  "scripts": {
+    "install": "echo 'Skills are ready — no build step needed'"
+  }
+}

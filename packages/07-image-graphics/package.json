@@ -1,0 +1,8 @@
+{
+  "name": "@mad-scientist/image-graphics",
+  "version": "1.0.0",
+  "description": "Image Graphics skills for Hermes/OpenClaw agents",
+  "scripts": {
+    "install": "echo 'Skills are ready — no build step needed'"
+  }
+}

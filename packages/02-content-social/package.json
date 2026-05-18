@@ -1,0 +1,8 @@
+{
+  "name": "@mad-scientist/content-social",
+  "version": "1.0.0",
+  "description": "Content Social skills for Hermes/OpenClaw agents",
+  "scripts": {
+    "install": "echo 'Skills are ready — no build step needed'"
+  }
+}

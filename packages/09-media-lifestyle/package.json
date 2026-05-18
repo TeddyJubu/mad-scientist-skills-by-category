@@ -1,0 +1,8 @@
+{
+  "name": "@mad-scientist/media-lifestyle",
+  "version": "1.0.0",
+  "description": "Media Lifestyle skills for Hermes/OpenClaw agents",
+  "scripts": {
+    "install": "echo 'Skills are ready — no build step needed'"
+  }
+}

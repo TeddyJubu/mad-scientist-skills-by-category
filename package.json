@@ -1,0 +1,10 @@
+{
+  "name": "mad-scientist-essential-skill-collections",
+  "version": "1.0.0",
+  "description": "Monorepo of Hermes/OpenClaw agent skill packages",
+  "private": true,
+  "scripts": {
+    "install:all": "pnpm -r install",
+    "list": "pnpm -r list --depth 0"
+  }
+}

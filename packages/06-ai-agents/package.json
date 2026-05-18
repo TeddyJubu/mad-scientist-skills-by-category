@@ -1,0 +1,8 @@
+{
+  "name": "@mad-scientist/ai-agents",
+  "version": "1.0.0",
+  "description": "Ai Agents skills for Hermes/OpenClaw agents",
+  "scripts": {
+    "install": "echo 'Skills are ready — no build step needed'"
+  }
+}
