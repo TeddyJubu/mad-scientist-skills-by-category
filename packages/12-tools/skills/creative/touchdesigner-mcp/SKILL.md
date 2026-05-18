@@ -14,6 +14,10 @@ metadata:
 
 # TouchDesigner Integration (twozero MCP)
 
+## What This Skill Does
+
+This skill Control a running TouchDesigner instance via twozero MCP — create operators, set parameters, wire connections, execute Python, build real-time visuals. 36 native tools.
+
 ## CRITICAL RULES
 
 1. **NEVER guess parameter names.** Call `td_get_par_info` for the op type FIRST. Your training data is wrong for TD 2025.32.

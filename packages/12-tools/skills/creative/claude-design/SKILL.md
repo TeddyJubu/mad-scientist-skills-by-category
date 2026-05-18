@@ -19,6 +19,10 @@ The goal is to preserve Claude Design's useful design behavior and taste while r
 
 **Before starting, check for other web-design skills like `popular-web-designs` (ready-to-paste design systems for Stripe, Linear, Vercel, Notion, etc.) and `design-md` (Google's DESIGN.md token spec format).** If the user wants a known brand's look, load `popular-web-designs` alongside this one and let it supply the visual vocabulary. If the deliverable is a token spec file rather than a rendered artifact, use `design-md` instead. Full decision table below.
 
+## What This Skill Does
+
+This skill Design one-off HTML artifacts (landing, deck, prototype).
+
 ## When To Use This Skill vs `popular-web-designs` vs `design-md`
 
 Hermes has three design-related skills under `skills/creative/`. They do different jobs — load the right one (or combine them):

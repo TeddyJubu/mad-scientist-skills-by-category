@@ -7,7 +7,7 @@ trigger: When the user wants to create, edit, or render videos using Remotion (v
 ---
 ## What This Skill Does
 
-Edits existing videos using Remotion's programmable video framework — adds captions, overlays, animated text, split screens, and other effects to raw footage.
+This skill Create, edit, and render videos using Remotion — a React-based video-as-code framework. Covers setup from scratch, project structure, key commands, core concepts, and known pitfalls.
 
 ## Setup
 Remotion source is cloned at `/root/.openclaw/workspace/remotion` (reference only).

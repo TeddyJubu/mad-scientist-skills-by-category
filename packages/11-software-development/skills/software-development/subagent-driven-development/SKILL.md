@@ -13,6 +13,10 @@ metadata:
 
 # Subagent-Driven Development
 
+## What This Skill Does
+
+This skill Execute plans via delegate_task subagents (2-stage review).
+
 ## Overview
 
 Execute implementation plans by dispatching fresh subagents per task with systematic two-stage review.

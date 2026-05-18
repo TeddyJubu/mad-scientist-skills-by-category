@@ -15,6 +15,10 @@ metadata:
 
 Delegate coding tasks to [Codex](https://github.com/openai/codex) via the Hermes terminal. Codex is OpenAI's autonomous coding agent CLI.
 
+## What This Skill Does
+
+This skill Delegate coding to OpenAI Codex CLI (features, PRs).
+
 ## When to use
 
 - Building features

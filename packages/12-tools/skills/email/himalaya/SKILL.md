@@ -17,6 +17,10 @@ prerequisites:
 
 Himalaya is a CLI email client that lets you manage emails from the terminal using IMAP, SMTP, Notmuch, or Sendmail backends.
 
+## What This Skill Does
+
+This skill Himalaya CLI: IMAP/SMTP email from terminal.
+
 ## References
 
 - `references/configuration.md` (config file setup + IMAP/SMTP authentication)

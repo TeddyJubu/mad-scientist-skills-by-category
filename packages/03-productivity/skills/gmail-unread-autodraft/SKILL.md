@@ -22,6 +22,10 @@ This skill schedules and runs a daily sweep of a Gmail inbox to:
 
 It is designed to be safe-by-default (no sending, idempotent drafts, capped batch size) and easy to adapt (template body, schedule, labels).
 
+## What This Skill Does
+
+This skill gmail-unread-autodraft lets the user scan their Gmail inbox for unread messages and automatically create draft replies on each thread on a schedule, which is useful when they want to acknowledge emails, stay top-of-mind with contacts, or maintain an inbox-zero workflow without manually typing responses to every message.
+
 ## When to use
 - You want automatic acknowledgement drafts queued for review each morning
 - You need a lightweight triage layer before manual responses

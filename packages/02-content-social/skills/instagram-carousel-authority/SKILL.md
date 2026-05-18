@@ -8,7 +8,7 @@ Complete workflow for creating viral, authority-building Instagram carousels fro
 
 ## What This Skill Does
 
-Creates those "swipe through" carousel posts that teach something — like "10 Things Every Real Estate Investor Must Know." AI writes the content, designs each slide, and outputs a carousel ready to post.
+This skill instagram-carousel-authority lets the user turn a topic, offer, or business message into a strategic Instagram carousel built for reach, saves, shares, and authority-building, including the hook, slide structure, teaching angle, design direction, and caption strategy needed to make the post feel like a serious piece of content instead of random social filler.
 
 ## Overview
 

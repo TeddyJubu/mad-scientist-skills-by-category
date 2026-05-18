@@ -6,7 +6,7 @@ description: youtube-opus-skill lets the user take YouTube content and turn it i
 ---
 ## What This Skill Does
 
-Sends your YouTube video to OpusClip (a professional video repurposing service) via their API to get AI-selected clips, captioned shorts, and social-ready cuts.
+This skill youtube-opus-skill lets the user take YouTube content and turn it into high-value short-form opportunities by extracting strong moments, shaping clips, and preparing content for wider distribution, making it useful when they want to squeeze more reach, engagement, and downstream content assets out of a longer YouTube video.
 
 ## Overview
 When Charles provides a YouTube video URL with the phrase "Opus clip skool" (or similar), extract the URL and send it to OpusClip via Zapier MCP to create short viral clips. Return the OpusClip URL where the clips can be accessed.

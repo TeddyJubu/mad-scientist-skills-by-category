@@ -8,6 +8,10 @@ tags: [infographics, data-visualization, nano-banana, gemini, education, communi
 
 Generates polished, card-based infographics from verified research data. Always uses Gemini 3.1 Flash Image Preview (nano-banana). Used for AI model comparisons, product specs, pricing breakdowns — anything that presents comparative data visually.
 
+## What This Skill Does
+
+This skill Generate data-rich comparison infographics (9:16 mobile or 16:9 landscape) with verified research data. Used for AI model comparisons, product specs, pricing tables, and any structured data presentation.
+
 ## When to Use
 
 - User asks for an infographic comparing models, tools, products, or services

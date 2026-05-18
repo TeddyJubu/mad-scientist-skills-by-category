@@ -9,7 +9,7 @@ category: creative
 
 ## What This Skill Does
 
-Creates any image you can describe. Logos, banners, ad creatives, product photos, illustrations — just describe what you want and it generates it. Uses the latest OpenAI image generation model.
+This skill gpt-image-2 lets the user generate original images or edit existing ones using AI, which is useful for marketing graphics, concept visuals, branded content, ad creatives, mockups, thumbnails, and stylized scene creation when they need a fast way to turn an idea, prompt, or reference image into a finished visual asset.
 
 ## Why this skill exists
 

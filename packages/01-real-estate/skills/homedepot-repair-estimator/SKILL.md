@@ -6,7 +6,7 @@ description: homedepot-repair-estimator lets the user turn property photos plus 
 ---
 ## What This Skill Does
 
-Takes a list of repairs (like "new roof, 2 bathrooms, kitchen remodel") and looks up the actual cost of materials at Home Depot. Gives you a realistic rehab estimate so you don't overpay for a fix-and-flip.
+This skill homedepot-repair-estimator lets the user turn property photos plus basic room measurements into a contractor-style repair estimate that recommends specific Home Depot materials, calculates likely quantities, shows pricing, explains why each product was chosen, totals the material cost, and packages the result into a usable report for rehabs, buy-box decisions, or seller conversations.
 
 ## Current Notion Routing Override
 

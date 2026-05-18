@@ -17,6 +17,10 @@ Gives you a **stateful Python REPL** via a live Jupyter kernel. Variables persis
 across executions. Use this instead of `execute_code` when you need to build up
 state incrementally, explore APIs, inspect DataFrames, or iterate on complex code.
 
+## What This Skill Does
+
+This skill Iterative Python via live Jupyter kernel (hamelnb).
+
 ## When to Use This vs Other Tools
 
 | Tool | Use When |

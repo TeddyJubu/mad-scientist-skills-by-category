@@ -30,6 +30,10 @@ People use Hermes for software development, research, system administration, dat
 
 **Docs:** https://hermes-agent.nousresearch.com/docs/
 
+## What This Skill Does
+
+This skill Configure, extend, or contribute to Hermes Agent.
+
 ## Quick Start
 
 ```bash

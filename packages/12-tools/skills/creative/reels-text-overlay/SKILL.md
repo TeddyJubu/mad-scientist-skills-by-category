@@ -7,6 +7,10 @@ description: Add AI voiceover and viral-style text overlays to short-form video 
 
 Full production pipeline for taking a raw MP4 and turning it into a polished short-form clip with voiceover and text overlays.
 
+## What This Skill Does
+
+This skill Add AI voiceover and viral-style text overlays to short-form video clips (Reels, Shorts, TikTok). Use after generating or receiving a raw video clip when Charles wants to add narration and/or captions before posting. Covers OpenAI TTS voiceover generation, ffmpeg audio merge, and ffmpeg drawtext overlays in the viral Reels format (big bold white text, black stroke, timed reveals, orange brand accents).
+
 ## Prerequisites
 
 - `ffmpeg` installed (available on this machine)

@@ -17,6 +17,10 @@ metadata:
 
 Create diagrams by writing standard Excalidraw element JSON and saving as `.excalidraw` files. These files can be drag-and-dropped onto [excalidraw.com](https://excalidraw.com) for viewing and editing. No accounts, no API keys, no rendering libraries -- just JSON.
 
+## What This Skill Does
+
+This skill Hand-drawn Excalidraw JSON diagrams (arch, flow, seq).
+
 ## When to use
 
 Generate `.excalidraw` files for architecture diagrams, flowcharts, sequence diagrams, concept maps, and more. Files can be opened at excalidraw.com or uploaded for shareable links.

@@ -10,7 +10,7 @@ Extract a single frame from a video, or create quick thumbnails for inspection.
 
 ## What This Skill Does
 
-Extracts individual frames or short clips from any video file. Useful for creating thumbnails, extracting screenshots for social posts, or saving a specific moment.
+This skill Extract frames or short clips from videos using ffmpeg.
 
 ## Quick start
 

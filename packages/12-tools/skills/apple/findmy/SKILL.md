@@ -16,6 +16,10 @@ Track Apple devices and AirTags via the FindMy.app on macOS. Since Apple doesn't
 provide a CLI for FindMy, this skill uses AppleScript to open the app and
 screen capture to read device locations.
 
+## What This Skill Does
+
+This skill Track Apple devices/AirTags via FindMy.app on macOS.
+
 ## Prerequisites
 
 - **macOS** with Find My app and iCloud signed in

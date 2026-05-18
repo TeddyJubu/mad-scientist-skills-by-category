@@ -32,6 +32,10 @@ This skill replaces the older `xitter` skill (which wrapped a third-party Python
 
 ---
 
+## What This Skill Does
+
+This skill X/Twitter via xurl CLI: post, search, DM, media, v2 API.
+
 ## Secret Safety (MANDATORY)
 
 Critical rules when operating inside an agent/LLM session:

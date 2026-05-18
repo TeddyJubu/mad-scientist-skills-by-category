@@ -18,6 +18,10 @@ This skill sets up authentication so the agent can work with GitHub repositories
 - **`git` (always available)** — uses HTTPS personal access tokens or SSH keys
 - **`gh` CLI (if installed)** — richer GitHub API access with a simpler auth flow
 
+## What This Skill Does
+
+This skill GitHub auth setup: HTTPS tokens, SSH keys, gh CLI login.
+
 ## Detection Flow
 
 When a user asks you to work with GitHub, run this check first:

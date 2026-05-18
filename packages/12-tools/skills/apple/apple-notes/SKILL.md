@@ -17,6 +17,10 @@ prerequisites:
 
 Use `memo` to manage Apple Notes directly from the terminal. Notes sync across all Apple devices via iCloud.
 
+## What This Skill Does
+
+This skill Manage Apple Notes via memo CLI: create, search, edit.
+
 ## Prerequisites
 
 - **macOS** with Notes.app

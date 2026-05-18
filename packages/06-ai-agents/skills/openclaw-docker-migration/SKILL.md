@@ -12,6 +12,10 @@ Use this skill when OpenClaw is running inside a Docker container on a VPS and
 (`hermes claw migrate`) expects `~/.openclaw` on the host — this skill covers
 the pre-flight to make that work, plus coexistence setup if both systems stay running.
 
+## What This Skill Does
+
+This skill Migrate OpenClaw to Hermes when OpenClaw runs inside Docker (no host ~/.openclaw). Covers data extraction from Docker, running the migration script, verifying coexistence, and porting custom skills. Use when a VPS has OpenClaw containerized and the user wants Hermes alongside or instead.
+
 ## Step 1 — Find the container and confirm data
 
 ```bash

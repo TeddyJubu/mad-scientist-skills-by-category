@@ -14,6 +14,10 @@ All endpoints are read-only and require zero authentication.
 
 See `references/api-endpoints.md` for the full endpoint reference with curl examples.
 
+## What This Skill Does
+
+This skill Query Polymarket: markets, prices, orderbooks, history.
+
 ## When to Use
 
 - User asks about prediction markets, betting odds, or event probabilities

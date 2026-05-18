@@ -11,6 +11,10 @@ metadata:
 
 # Yuanbao Group Interaction
 
+## What This Skill Does
+
+This skill Yuanbao groups: @mention users, query info/members.
+
 ## CRITICAL: How Messaging Works
 
 **Your text reply IS the message sent to the group/user.** The gateway automatically delivers your response text to the chat. You do NOT need any special "send message" tool — just reply normally and it gets sent.

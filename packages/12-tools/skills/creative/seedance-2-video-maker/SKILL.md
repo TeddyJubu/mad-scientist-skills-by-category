@@ -8,6 +8,10 @@ category: creative
 
 Generate professional videos using ByteDance's Seedance 2.0 model through the KIE.AI API platform.
 
+## What This Skill Does
+
+This skill Generate videos using Seedance 2.0 via KIE.AI API - text-to-video, image-to-video, and multimodal reference-to-video with camera controls and audio generation.
+
 ## When to Use
 
 - User wants to create a video from a text description (text-to-video)

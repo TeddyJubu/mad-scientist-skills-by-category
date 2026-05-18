@@ -14,6 +14,10 @@ category: creative
 
 # Image Editing on Hermes
 
+## What This Skill Does
+
+This skill Correct workflow for editing existing images on Hermes — AI-powered edits (Gemini Imagen 3) and PIL-based targeted edits (text/date swaps, logo overlays). For generating new images from scratch, use gpt-image-2 instead.
+
 ## Decision tree — which approach to use
 
 ```

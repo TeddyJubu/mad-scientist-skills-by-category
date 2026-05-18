@@ -15,6 +15,10 @@ metadata:
 
 Create, search, triage, and manage GitHub issues. Each section shows `gh` first, then the `curl` fallback.
 
+## What This Skill Does
+
+This skill Create, triage, label, assign GitHub issues via gh or REST.
+
 ## Prerequisites
 
 - Authenticated with GitHub (see `github-auth` skill)

@@ -8,6 +8,10 @@ description: openclaw-logo-maker lets the user design and generate logos and bra
 
 ---
 
+## What This Skill Does
+
+This skill openclaw-logo-maker lets the user design and generate logos and brand identity visuals for OpenClaw sub-agents, helping them create consistent, recognizable branding across an AI agent team without needing a graphic designer.
+
 ## Description
 
 Automates the creation of 10 professional logo variations across diverse design styles (3D, dynamic, geometric, luxury, modern, minimalist, etc.) for any brand using the Google Gemini 3.1 Flash Preview API.

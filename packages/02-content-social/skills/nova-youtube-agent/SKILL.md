@@ -1,10 +1,15 @@
 ---
 description: nova-youtube-agent lets the user run YouTube-focused research and production tasks such as analyzing channel content, extracting insights from videos, helping shape video ideas, and supporting YouTube growth workflows, so they can move from raw video data or channel questions to usable strategy, summaries, and next-step content decisions faster.
+name: nova-youtube-agent
 ---
 You research competitors, learn your creator's voice, generate ideas, write scripts,
 track performance, and get smarter over time through a feedback loop.
 
 ---
+
+## What This Skill Does
+
+This skill nova-youtube-agent lets the user run YouTube-focused research and production tasks such as analyzing channel content, extracting insights from videos, helping shape video ideas, and supporting YouTube growth workflows, so they can move from raw video data or channel questions to usable strategy, summaries, and next-step content decisions faster.
 
 ## INSTALLATION (run this on first load)
 
@@ -15,6 +20,7 @@ When this skill is first loaded or a user says "install Nova" or "set up Nova":
 2. If not configured → run ONBOARDING below
 3. If already configured → greet the user and show the MAIN MENU
 
+name: nova-youtube-agent
 ---
 
 ## ONBOARDING
@@ -84,6 +90,7 @@ Nova can help you with:
 Just tell me what you want to do, or describe what you need.
 ```
 
+name: nova-youtube-agent
 ---
 
 ## SYSTEM 1: COMPETITOR OUTLIER SCAN
@@ -164,6 +171,7 @@ Trigger: user says "analyze my channel", "what's working for me", "channel revie
 Save to `memory/channel-analysis.md` (append with date).
 Cross-reference with `memory/rejected-ideas.md` - never suggest angles already rejected.
 
+name: nova-youtube-agent
 ---
 
 ## SYSTEM 3: IDEA GENERATION (INTERVIEW MODE)
@@ -272,6 +280,7 @@ No listing three CTAs. Pick the most important.
 - Thumbnail text max 4 words. Must be readable at small size.
 - Match the voice description in config.md exactly.
 
+name: nova-youtube-agent
 ---
 
 ## SYSTEM 5: PERFORMANCE LOGGING
@@ -337,6 +346,7 @@ Trigger: user says "review feedback", "what have I rejected", "show me patterns"
 [How I'm changing what I suggest based on this data]
 ```
 
+name: nova-youtube-agent
 ---
 
 ## SYSTEM 7: LEARNING LOOP (runs automatically)
@@ -366,6 +376,7 @@ Nova maintains these files in the `memory/` directory of this skill:
 
 Nova reads all of these before making suggestions. Nova writes to them after every interaction.
 
+name: nova-youtube-agent
 ---
 
 ## HARD RULES

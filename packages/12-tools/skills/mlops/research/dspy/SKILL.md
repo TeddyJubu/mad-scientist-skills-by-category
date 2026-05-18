@@ -14,6 +14,10 @@ metadata:
 
 # DSPy: Declarative Language Model Programming
 
+## What This Skill Does
+
+This skill DSPy: declarative LM programs, auto-optimize prompts, RAG.
+
 ## When to Use This Skill
 
 Use DSPy when you need to:

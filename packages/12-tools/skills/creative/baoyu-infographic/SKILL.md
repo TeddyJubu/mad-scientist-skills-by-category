@@ -17,6 +17,10 @@ Adapted from [baoyu-infographic](https://github.com/JimLiu/baoyu-skills) for Her
 
 Two dimensions: **layout** (information structure) × **style** (visual aesthetics). Freely combine any layout with any style.
 
+## What This Skill Does
+
+This skill Infographics: 21 layouts x 21 styles.
+
 ## When to Use
 
 Trigger this skill when the user asks to create an infographic, visual summary, information graphic, or uses terms like "", "", or "high-density information graphics". The user provides content (text, file path, URL, or topic) and optionally specifies layout, style, aspect ratio, or language.

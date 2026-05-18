@@ -3,6 +3,10 @@ name: google-drive-image-upload
 description: google-drive-image-upload lets the user automatically upload generated images to Charles's Google Drive folder for permanent backup, which is useful when they want to preserve visual assets, keep a centralized media library, or ensure important images are never lost if local storage or Telegram messages get cleared.
 ---
 
+## What This Skill Does
+
+This skill google-drive-image-upload lets the user automatically upload generated images to Charles's Google Drive folder for permanent backup, which is useful when they want to preserve visual assets, keep a centralized media library, or ensure important images are never lost if local storage or Telegram messages get cleared.
+
 ## Google Drive Image Upload
 
 After generating any image output for Charles, upload a copy to his Google Drive folder.

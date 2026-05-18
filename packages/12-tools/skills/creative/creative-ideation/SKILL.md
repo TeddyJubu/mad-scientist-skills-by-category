@@ -15,6 +15,10 @@ metadata:
 
 # Creative Ideation
 
+## What This Skill Does
+
+This skill Generate project ideas via creative constraints.
+
 ## When to use
 
 Use when the user says 'I want to build something', 'give me a project idea', 'I'm bored', 'what should I make', 'inspire me', or any variant of 'I have tools but no direction'. Works for code, art, hardware, writing, tools, and anything that can be made.

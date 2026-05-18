@@ -8,7 +8,7 @@ Use `ntn` as the first-choice Notion control surface on this VPS. It is already 
 
 ## What This Skill Does
 
-A command-line interface for Notion that handles complex operations — bulk imports, database queries, page migrations, and batch updates. For power users who need to move a lot of data in and out of Notion.
+This skill notion-cli lets the user create, read, update, and manage pages, databases, comments, files, and Workers in Notion through the command line, which is useful when they want to save AI outputs, build internal knowledge bases, create structured documents, or automate Notion workflows without clicking through the UI.
 
 ## Runtime Setup
 

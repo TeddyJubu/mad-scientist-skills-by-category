@@ -15,6 +15,10 @@ metadata:
 
 Perform code reviews on local changes before pushing, or review open PRs on GitHub. Most of this skill uses plain `git` — the `gh`/`curl` split only matters for PR-level interactions.
 
+## What This Skill Does
+
+This skill Review PRs: diffs, inline comments via gh or REST.
+
 ## Prerequisites
 
 - Authenticated with GitHub (see `github-auth` skill)

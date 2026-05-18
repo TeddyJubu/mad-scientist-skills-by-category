@@ -16,6 +16,10 @@ prerequisites:
 
 Use `imsg` to read and send iMessage/SMS via macOS Messages.app.
 
+## What This Skill Does
+
+This skill Send and receive iMessages/SMS via the imsg CLI on macOS.
+
 ## Prerequisites
 
 - **macOS** with Messages.app signed in

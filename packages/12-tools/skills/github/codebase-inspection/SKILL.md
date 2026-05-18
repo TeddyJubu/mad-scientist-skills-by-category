@@ -17,6 +17,10 @@ prerequisites:
 
 Analyze repositories for lines of code, language breakdown, file counts, and code-vs-comment ratios using `pygount`.
 
+## What This Skill Does
+
+This skill Inspect codebases w/ pygount: LOC, languages, ratios.
+
 ## When to Use
 
 - User asks for LOC (lines of code) count

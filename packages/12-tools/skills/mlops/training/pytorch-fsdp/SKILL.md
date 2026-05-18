@@ -15,6 +15,10 @@ metadata:
 
 Comprehensive assistance with pytorch-fsdp development, generated from official documentation.
 
+## What This Skill Does
+
+This skill Expert guidance for Fully Sharded Data Parallel training with PyTorch FSDP - parameter sharding, mixed precision, CPU offloading, FSDP2.
+
 ## When to Use This Skill
 
 This skill should be triggered when:

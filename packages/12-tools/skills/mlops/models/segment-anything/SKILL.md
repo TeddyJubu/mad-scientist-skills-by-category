@@ -16,6 +16,10 @@ metadata:
 
 Comprehensive guide to using Meta AI's Segment Anything Model for zero-shot image segmentation.
 
+## What This Skill Does
+
+This skill SAM: zero-shot image segmentation via points, boxes, masks.
+
 ## When to use SAM
 
 **Use SAM when:**

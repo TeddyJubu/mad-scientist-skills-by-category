@@ -7,6 +7,10 @@ description: Wrap an existing Hermes skill as a public-facing website deployed o
 
 **Take an existing AI skill (triggered by voice/text in Telegram) and wrap it as a public website on Vercel.**
 
+## What This Skill Does
+
+This skill Wrap an existing Hermes skill as a public-facing website deployed on Vercel.
+
 ## When to Use
 - User wants to expose an existing skill to the public via a web interface
 - The skill involves image upload, form input, and report generation

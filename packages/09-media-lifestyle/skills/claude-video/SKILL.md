@@ -15,7 +15,7 @@ You don't have a video input; this skill gives you one. A Python script download
 
 ## What This Skill Does
 
-Uses Claude to watch and analyze YouTube videos — understands the content, answers questions about what's in the video, and can extract specific information.
+This skill Watch a video (URL or local path). Downloads with yt-dlp, extracts auto-scaled frames with ffmpeg, pulls the transcript from captions (or Whisper API fallback), and hands the result to Claude so it can answer questions about what's in the video.
 
 ## Step 0 — Setup preflight (runs every `/watch` invocation, silent on success)
 

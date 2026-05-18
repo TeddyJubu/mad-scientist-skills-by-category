@@ -7,6 +7,10 @@ description: gohighlevel-api lets the user interact with their GoHighLevel CRM a
 
 This skill executes GoHighLevel API v2 actions from plain-language user prompts.
 
+## What This Skill Does
+
+This skill gohighlevel-api lets the user interact with their GoHighLevel CRM account programmatically using plain-language prompts, managing contacts, opportunities, appointments, conversations, workflows, payments, invoices, webhooks, social media posts, forms, surveys, users, and location settings, which is useful when they want to automate CRM tasks, sync leads, or build custom workflows without navigating the GHL UI manually.
+
 ## Credentials
 
 - **API Key:** `pit-105d0b1f-3e18-41f1-95ad-00aca3775ddf` (Private Integration Token)

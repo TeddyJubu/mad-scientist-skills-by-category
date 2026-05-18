@@ -17,6 +17,10 @@ Bypass safety filters on API-served LLMs using techniques from [G0DM0D3](https:/
 
 **Key difference from OBLITERATUS:** OBLITERATUS modifies model weights permanently (requires open-weight models + GPU). This skill operates at the prompt/API level — works on any model accessible via API, including closed-source models (GPT, Claude, Gemini, Grok).
 
+## What This Skill Does
+
+This skill Jailbreak LLMs: Parseltongue, GODMODE, ULTRAPLINIAN.
+
 ## When to Use This Skill
 
 Trigger when the user:

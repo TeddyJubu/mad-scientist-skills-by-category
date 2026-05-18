@@ -8,6 +8,10 @@ platforms: [linux, macos, windows]
 
 Play Pokemon games via headless emulation using the `pokemon-agent` package.
 
+## What This Skill Does
+
+This skill Play Pokemon via headless emulator + RAM reads.
+
 ## When to Use
 - User says "play pokemon", "start pokemon", "pokemon game"
 - User asks about Pokemon Red, Blue, Yellow, FireRed, etc.

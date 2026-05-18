@@ -17,6 +17,10 @@ metadata:
 
 Multiple tools for different ASCII art needs. All tools are local CLI programs or free REST APIs — no API keys required.
 
+## What This Skill Does
+
+This skill ASCII art: pyfiglet, cowsay, boxes, image-to-ascii.
+
 ## Tool 1: Text Banners (pyfiglet — local)
 
 Render text as large ASCII art banners. 571 built-in fonts.

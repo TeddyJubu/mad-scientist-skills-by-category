@@ -21,6 +21,10 @@ he explicitly asks for a different format only. A product guide should include a
 beautiful Notion page/system, screenshots or product visuals when useful, and
 Publisher Agent validation before the final link is sent.
 
+## What This Skill Does
+
+This skill notion-beautiful-systems lets the user create, redesign, migrate, publish, and maintain beautiful Notion workspaces and pages, which is useful when they want a polished knowledge base, a clean team wiki, a well-organized CRM, or any Notion setup that looks professional and works effortlessly without needing to figure out Notion's design patterns themselves.
+
 ## Operating Standard
 
 Every Notion deliverable should pass these rules before the user sees it:

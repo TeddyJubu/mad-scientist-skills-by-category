@@ -8,7 +8,7 @@ Use this when `openclaw` commands fail with "command not found" or when you need
 
 ## What This Skill Does
 
-Diagnoses and fixes connection issues with your OpenClaw platform — when agents go offline, connections drop, or the dashboard stops loading.
+This skill How to find, access, and interact with OpenClaw when the CLI binary isn't in PATH. Covers gateway API, config paths, ports, and alternative interaction methods.
 
 ## 1. Determine If OpenClaw Is Running Inside Docker
 

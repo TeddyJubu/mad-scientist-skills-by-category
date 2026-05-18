@@ -8,7 +8,7 @@ Send YouTube videos to OpusClip for automated video clipping via the Zapier MCP 
 
 ## What This Skill Does
 
-Takes a long YouTube video and automatically finds the best clips to post as short-form content — TikTok, Instagram Reels, YouTube Shorts. It watches the whole video, finds the moments with the most engagement potential, and cuts them.
+This skill opus-clip-mcp lets the user create short-form video clips from longer video content using an Opus-style clipping workflow, helping them identify strong moments, cut usable segments, and prepare social-ready clips that are better suited for platforms like TikTok, Instagram Reels, and YouTube Shorts than the original long-form format.
 
 ## Quick Start
 

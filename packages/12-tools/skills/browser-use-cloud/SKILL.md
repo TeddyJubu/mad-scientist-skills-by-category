@@ -7,6 +7,10 @@ description: Use Browser Use Cloud API v3 for managed AI browser automation, liv
 
 Use Browser Use Cloud when a task needs managed browser automation rather than local Playwright/Chrome. It can run natural-language agent tasks, return structured output, provide live browser previews, reuse sessions, use profiles/cookies, and connect through Browser Use's cloud browser infrastructure.
 
+## What This Skill Does
+
+This skill Use Browser Use Cloud API v3 for managed AI browser automation, live browser sessions, screenshots, web research, form workflows, authentication profiles, file workspaces, and OpenClaw/Hermes browser tasks. Trigger whenever Charles asks Browser Use, cloud browser automation, web task agents, AI browser API, live browser preview, profile sync, or CDP stealth browser infrastructure.
+
 ## First Moves
 
 1. Read the current docs index first when exact behavior matters:

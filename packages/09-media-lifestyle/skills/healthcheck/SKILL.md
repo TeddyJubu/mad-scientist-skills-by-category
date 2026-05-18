@@ -10,7 +10,7 @@ Simple tracking for water intake and sleep using JSON file.
 
 ## What This Skill Does
 
-Tracks your personal health metrics — water intake, sleep hours, and any custom tracking you want to set up. Stores data over time so you can see trends.
+This skill Track water and sleep with JSON file storage.
 
 ## Data Format
 

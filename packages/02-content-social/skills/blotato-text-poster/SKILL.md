@@ -9,7 +9,7 @@ Post text-only content to Blotato-connected social accounts (Twitter/X, LinkedIn
 
 ## What This Skill Does
 
-Posts text-only content to all your social media accounts at once — Facebook, Twitter/X, Instagram, LinkedIn, TikTok. Write once, publish everywhere.
+This skill blotato-text-poster lets the user publish text-based social content through Blotato, making it useful for pushing written posts, captions, short updates, promotional copy, or repurposed text assets out to connected social channels without having to manually open each platform and post them one by one.
 
 ## API Details
 

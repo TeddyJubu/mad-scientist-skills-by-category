@@ -27,6 +27,10 @@ This skill is for:
 
 This skill intentionally does not vendor a separate CLI implementation into Hermes. Install and use upstream `x-cli` instead.
 
+## What This Skill Does
+
+This skill xitter X/Twitter via xurl CLI lets the user create, manage, and publish content on X/Twitter through the xurl command-line workflow, which is useful for posting tweets, threading ideas, testing messaging, automating social distribution, and handling X-related publishing tasks in a more controlled, scriptable way than doing everything manually in the app.
+
 ## Important Cost / Access Note
 
 X API access is not meaningfully free for most real usage. Expect to need paid or prepaid X developer access. If commands fail with permissions or quota errors, check your X developer plan first.

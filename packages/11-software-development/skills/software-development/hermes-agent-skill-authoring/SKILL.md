@@ -13,6 +13,10 @@ metadata:
 
 # Authoring Hermes-Agent Skills (in-repo)
 
+## What This Skill Does
+
+This skill Author in-repo SKILL.md: frontmatter, validator, structure.
+
 ## Overview
 
 There are two places a SKILL.md can live:

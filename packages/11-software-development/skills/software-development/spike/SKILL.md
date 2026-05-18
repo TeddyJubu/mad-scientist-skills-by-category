@@ -17,6 +17,10 @@ Use this skill when the user wants to **feel out an idea** before committing to 
 
 Load this when the user says things like "let me try this", "I want to see if X works", "spike this out", "before I commit to Y", "quick prototype of Z", "is this even possible?", or "compare A vs B".
 
+## What This Skill Does
+
+This skill Throwaway experiments to validate an idea before build.
+
 ## When NOT to use this
 
 - The answer is knowable from docs or reading code — just do research, don't build

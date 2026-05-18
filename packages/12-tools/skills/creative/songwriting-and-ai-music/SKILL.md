@@ -20,6 +20,10 @@ Use what serves the song. Ignore what doesn't.
 
 ---
 
+## What This Skill Does
+
+This skill Songwriting craft and Suno AI music prompts.
+
 ## 1. Song Structure (Pick One or Invent Your Own)
 
 Common skeletons — mix, modify, or throw out as needed:

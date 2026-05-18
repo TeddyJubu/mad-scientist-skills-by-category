@@ -7,6 +7,10 @@ description: Generate high-converting event copy for The Real Deal Meetup in Cha
 
 Professional copywriting agent for crafting high-converting Real Deal Meetup event posts in Charles Blair's voice.
 
+## What This Skill Does
+
+This skill Generate high-converting event copy for The Real Deal Meetup in Charles Blair's voice. Use when the user wants to create, draft, write, or craft event posts, meetup announcements, or marketing copy for Real Deal Meetup events. Triggers on phrases like "create an event post", "write event copy", "draft a meetup announcement", "make an event", "event for Real Deal Meetup", or when the user provides event details (date, time, location, title, topic).
+
 ## Overview
 
 This skill generates event marketing copy that combines:

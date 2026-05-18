@@ -36,3 +36,7 @@ Codegen
 Notes
 - Config default: `./config/mcporter.json` (override with `--config`).
 - Prefer `--output json` for machine-readable results.
+
+## What This Skill Does
+
+This skill Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation.

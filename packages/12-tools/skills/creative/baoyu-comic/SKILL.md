@@ -17,6 +17,10 @@ Adapted from [baoyu-comic](https://github.com/JimLiu/baoyu-skills) for Hermes Ag
 
 Create original knowledge comics with flexible art style × tone combinations.
 
+## What This Skill Does
+
+This skill Knowledge comics: educational, biography, tutorial.
+
 ## When to Use
 
 Trigger this skill when the user asks to create a knowledge/educational comic, biography comic, tutorial comic, or uses terms like "", "", or "Logicomix-style". The user provides content (text, file path, URL, or topic) and optionally specifies art style, tone, layout, aspect ratio, or language.

@@ -14,6 +14,10 @@ The `hf` command is the modern command-line interface for interacting with the H
 
 > **IMPORTANT:** The `hf` command replaces the now deprecated `huggingface-cli` command.
 
+## What This Skill Does
+
+This skill HuggingFace hf CLI: search/download/upload models, datasets.
+
 ## Quick Start
 *   **Installation:** `curl -LsSf https://hf.co/cli/install.sh | bash -s`
 *   **Help:** Use `hf --help` to view all available functions and real-world examples.

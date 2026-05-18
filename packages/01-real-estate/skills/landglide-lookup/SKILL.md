@@ -9,7 +9,7 @@ category: openclaw-imports
 
 ## What This Skill Does
 
-Looks up parcel data for any property in the US — gives you the legal description, zoning, GIS data, and property boundaries. Useful when you need more detail than SDAT provides.
+This skill landglide-lookup lets the user search a property by address, parcel number, owner name, or GPS coordinates and pull parcel-level intelligence like owner details, assessed value, sale history, acreage, zoning, flood-zone clues, and building facts, then pair that with skip-trace style research so they can understand both the land and the person behind it before making a move.
 
 ## API Details
 - **Base URL:** `https://reportallusa.com/api/`

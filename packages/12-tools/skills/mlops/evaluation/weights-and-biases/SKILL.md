@@ -14,6 +14,10 @@ metadata:
 
 # Weights & Biases: ML Experiment Tracking & MLOps
 
+## What This Skill Does
+
+This skill W&B: log ML experiments, sweeps, model registry, dashboards.
+
 ## When to Use This Skill
 
 Use Weights & Biases (W&B) when you need to:

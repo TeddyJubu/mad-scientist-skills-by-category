@@ -16,6 +16,10 @@ metadata:
 
 Generate professional, dark-themed technical architecture diagrams as standalone HTML files with inline SVG graphics. No external tools, no API keys, no rendering libraries — just write the HTML file and open it in a browser.
 
+## What This Skill Does
+
+This skill Dark-themed SVG architecture/cloud/infra diagrams as HTML.
+
 ## Scope
 
 **Best suited for:**

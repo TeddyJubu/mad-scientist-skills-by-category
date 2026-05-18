@@ -18,6 +18,10 @@ Find restaurants, cafes, bars, pharmacies, and other places near any location. U
 - **Zip codes** ("pharmacies near 90210")
 - **Landmarks** ("cafes near Times Square")
 
+## What This Skill Does
+
+This skill Find nearby places (restaurants, cafes, bars, pharmacies, etc.) using OpenStreetMap. Works with coordinates, addresses, cities, zip codes, or Telegram location pins. No API keys needed.
+
 ## Quick Reference
 
 ```bash

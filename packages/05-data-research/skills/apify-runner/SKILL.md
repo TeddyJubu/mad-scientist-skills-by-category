@@ -8,7 +8,7 @@ Run any Apify Actor through a standardized workflow: search → validate → exe
 
 ## What This Skill Does
 
-Runs web scraping robots (Apify Actors) through Apify's cloud platform. Scrape any website at scale — Google Maps listings, real estate portals, job boards, competitor sites. If the data is publicly visible on a website, this can pull it.
+This skill Run any Apify Actor to scrape web data (Instagram, TikTok, Reddit, Twitter, etc). Handles Actor discovery, quality filtering, probe testing, batched execution, and result collection. Use when user asks to scrape/crawl/extract data from websites or social media platforms, or mentions Apify directly.
 
 ## Prerequisites
 

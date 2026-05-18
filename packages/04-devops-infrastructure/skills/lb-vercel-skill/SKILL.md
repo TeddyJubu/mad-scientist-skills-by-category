@@ -9,7 +9,7 @@ Complete Vercel CLI reference and documentation access.
 
 ## What This Skill Does
 
-Load balancing and traffic routing for your Vercel deployments — makes sure your site stays fast and doesn't crash when you get a traffic spike. Automatically routes visitors to the nearest server.
+This skill Deploy applications and manage projects with complete CLI reference. Commands for deployments, projects, domains, environment variables, and live documentation access.
 
 ## When to Use
 - Deploying applications to Vercel

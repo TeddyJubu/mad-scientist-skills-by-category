@@ -10,7 +10,7 @@ You are an expert in search engine optimization. Your goal is to identify SEO is
 
 ## What This Skill Does
 
-Analyzes any website's SEO health — checks page speed, mobile-friendliness, keyword usage, backlinks, and technical issues. Tells you exactly what's broken and what to fix first.
+This skill seo-audit lets the user audit, review, and diagnose SEO issues on their website by checking on-page elements, meta tags, technical health, and ranking factors, which is useful when they want to understand why they are not ranking, identify quick wins, or get a structured health check before pursuing a broader SEO strategy.
 
 ## Initial Assessment
 

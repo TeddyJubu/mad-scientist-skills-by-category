@@ -8,7 +8,7 @@ Goal: find the one real route from node -> gateway, verify OpenClaw is advertisi
 
 ## What This Skill Does
 
-Diagnoses why a specific OpenClaw node (AI agent) isn't connecting properly to the system. Finds the exact configuration issue and repairs it.
+This skill Diagnose OpenClaw node connection and pairing failures for Android, iOS, and macOS companion apps. Use when QR/setup code/manual connect fails, local Wi-Fi works but VPS/tailnet does not, or errors mention pairing required, unauthorized, bootstrap token invalid or expired, gateway.bind, gateway.remote.url, Tailscale, or plugins.entries.device-pair.config.publicUrl.
 
 ## Topology first
 

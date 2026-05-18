@@ -8,6 +8,10 @@ metadata: {"clawdbot":{"emoji":"🎨"}}
 
 Use this skill when creating UI components, landing pages, dashboards, or any frontend design work.
 
+## What This Skill Does
+
+This skill Expert frontend design guidelines for creating beautiful, modern UIs. Use when building landing pages, dashboards, or any user interface.
+
 ## Design Workflow
 
 Follow this structured approach for UI design:

@@ -17,6 +17,10 @@ metadata:
 
 Control the user's Spotify account via the Hermes Spotify toolset (7 tools). Setup guide: https://hermes-agent.nousresearch.com/docs/user-guide/features/spotify
 
+## What This Skill Does
+
+This skill Spotify: play, search, queue, manage playlists and devices.
+
 ## When to use this skill
 
 The user says something like "play X", "pause", "skip", "queue up X", "what's playing", "search for X", "add to my X playlist", "make a playlist", "save this to my library", etc.

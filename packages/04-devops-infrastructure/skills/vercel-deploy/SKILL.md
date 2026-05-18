@@ -4,6 +4,10 @@ description: Deploy a Next.js project to Vercel using the CLI with a stored API 
 trigger: When the user wants to deploy a web app to Vercel.
 ---
 
+## What This Skill Does
+
+This skill Deploy a Next.js project to Vercel using the CLI with a stored API token.
+
 ## How to deploy to Vercel
 
 ### 1. Find the Vercel token & team info

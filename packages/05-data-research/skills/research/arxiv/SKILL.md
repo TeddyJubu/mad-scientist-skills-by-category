@@ -15,6 +15,10 @@ metadata:
 
 Search and retrieve academic papers from arXiv via their free REST API. No API key, no dependencies — just curl.
 
+## What This Skill Does
+
+This skill Search arXiv papers by keyword, author, category, or ID.
+
 ## Quick Reference
 
 | Action | Command |

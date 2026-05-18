@@ -15,6 +15,10 @@ metadata:
 
 Use this skill when the user wants a plan instead of execution.
 
+## What This Skill Does
+
+This skill Plan mode: write markdown plan to .hermes/plans/, no exec.
+
 ## Core behavior
 
 For this turn, you are planning only.

@@ -3,6 +3,10 @@ name: bob
 description: bob lets the user skip trace a property address to find owner names, phone numbers (with DNC/TCPA compliance flags), email addresses, alternate mailing addresses, and property details via the BatchData API v3, making it useful when they need to move fast on a deal, qualify a lead, or run outreach without doing manual people-search work one record at a time.
 ---
 
+## What This Skill Does
+
+This skill bob lets the user skip trace a property address to find owner names, phone numbers (with DNC/TCPA compliance flags), email addresses, alternate mailing addresses, and property details via the BatchData API v3, making it useful when they need to move fast on a deal, qualify a lead, or run outreach without doing manual people-search work one record at a time.
+
 ## Trigger
 Use whenever Charles asks to skip trace, find contact info, or look up an owner's phone/email for a specific property address.
 

@@ -6,7 +6,7 @@ description: Complete file delivery system — outbound (VPS→Telegram) and inb
 ---
 ## What This Skill Does
 
-Takes any file — PDF, image, spreadsheet, document — and sends it directly to your Telegram app or uploads it to your Google Drive. Perfect for reports that need to be in your hands immediately.
+This skill Complete file delivery system — outbound (VPS→Telegram) and inbound (Telegram→VPS or URL→VPS). Always use this when producing or receiving files.
 
 ## Quick Reference
 

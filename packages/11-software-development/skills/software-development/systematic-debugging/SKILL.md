@@ -13,6 +13,10 @@ metadata:
 
 # Systematic Debugging
 
+## What This Skill Does
+
+This skill 4-phase root cause debugging: understand bugs before fixing.
+
 ## Overview
 
 Random fixes waste time and create new bugs. Quick patches mask underlying issues.

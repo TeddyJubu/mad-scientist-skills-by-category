@@ -15,6 +15,10 @@ metadata:
 
 Comprehensive guide to generating images with Stable Diffusion using the HuggingFace Diffusers library.
 
+## What This Skill Does
+
+This skill State-of-the-art text-to-image generation with Stable Diffusion models via HuggingFace Diffusers. Use when generating images from text prompts, performing image-to-image translation, inpainting, or building custom diffusion pipelines.
+
 ## When to use Stable Diffusion
 
 **Use Stable Diffusion when:**

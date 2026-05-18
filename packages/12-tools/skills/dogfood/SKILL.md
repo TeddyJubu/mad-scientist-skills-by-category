@@ -10,6 +10,10 @@ metadata:
 
 # Dogfood: Systematic Web Application QA Testing
 
+## What This Skill Does
+
+This skill Systematic exploratory QA testing of web applications — find bugs, capture evidence, and generate structured reports.
+
 ## Overview
 
 This skill guides you through systematic exploratory QA testing of web applications using the browser toolset. You will navigate the application, interact with elements, capture evidence of issues, and produce a structured bug report.

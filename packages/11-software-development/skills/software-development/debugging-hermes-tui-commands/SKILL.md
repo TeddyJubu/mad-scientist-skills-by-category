@@ -13,6 +13,10 @@ metadata:
 
 # Debugging Hermes TUI Slash Commands
 
+## What This Skill Does
+
+This skill Debug Hermes TUI slash commands: Python, gateway, Ink UI.
+
 ## Overview
 
 Hermes slash commands span three layers — Python command registry, tui_gateway JSON-RPC bridge, and the Ink/TypeScript frontend. When a command misbehaves (missing from autocomplete, works in CLI but not TUI, config persists but UI doesn't update), the bug is almost always one layer being out of sync with another.

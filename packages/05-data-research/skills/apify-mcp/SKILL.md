@@ -22,6 +22,10 @@ This skill provides a modern, protocol-native interface to Apify via `mcpc` (Mod
 
 ---
 
+## What This Skill Does
+
+This skill Enhanced Apify integration using mcpc (Model Context Protocol CLI). Provides dynamic actor discovery, direct tool calling, and better error handling via persistent MCP sessions. Use when you need to search, inspect, run, or monitor Apify actors with the full power of the MCP protocol.
+
 ## Prerequisites
 
 ### 1. Ensure `mcpc` is installed

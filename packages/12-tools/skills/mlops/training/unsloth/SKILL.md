@@ -15,6 +15,10 @@ metadata:
 
 Comprehensive assistance with unsloth development, generated from official documentation.
 
+## What This Skill Does
+
+This skill Unsloth: 2-5x faster LoRA/QLoRA fine-tuning, less VRAM.
+
 ## When to Use This Skill
 
 This skill should be triggered when:

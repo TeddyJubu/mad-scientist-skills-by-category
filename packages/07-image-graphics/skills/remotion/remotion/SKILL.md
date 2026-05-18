@@ -7,6 +7,10 @@ description: Programmatic video creation using React. Use this skill when you ne
 
 Remotion allows you to create videos using React. Instead of a timeline-based editor, you use code to define your video's layout, animations, and timing.
 
+## What This Skill Does
+
+This skill Programmatic video creation using React. Use this skill when you need to create, edit, or render videos using code, leverage Remotion's React-based framework for animations, or manage data-driven video production. Triggers on "Remotion", "programmatic video", "render video with react", or requests to create videos via code.
+
 ## Core Concepts
 
 - **Composition**: The primary building block of a Remotion video. It defines the dimensions, duration, and frame rate.

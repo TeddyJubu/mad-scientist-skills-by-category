@@ -16,6 +16,10 @@ metadata:
 
 Manage Docker containers, images, volumes, networks, and Compose stacks using standard Docker CLI commands. No additional dependencies beyond Docker itself.
 
+## What This Skill Does
+
+This skill Manage Docker containers, images, volumes, networks, and Compose stacks — lifecycle ops, debugging, cleanup, and Dockerfile optimization.
+
 ## When to Use
 
 - Run, stop, restart, remove, or inspect containers

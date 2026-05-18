@@ -13,7 +13,7 @@ allowed-tools: Bash(agent-browser:*)
 ---
 ## What This Skill Does
 
-A dedicated browser automation tool specifically for AI agents — lets them navigate the web, fill out forms, extract data, and interact with web applications. Used when you need your agent to do something on a website.
+This skill A fast Rust-based headless browser automation CLI with Node.js fallback that enables AI agents to navigate, click, type, and snapshot pages via structured commands.
 
 ## Installation
 

@@ -25,6 +25,10 @@ Everything here works with any tool-capable model — Claude, GPT, Gemini, or
 an open model running through a local OpenAI-compatible endpoint. There is
 no Anthropic-native schema to learn.
 
+## What This Skill Does
+
+This skill provides Macos Computer Use functionality within the Hermes AI agent system.
+
 ## The canonical workflow
 
 **Step 1 — Capture first.** Almost every task starts with:

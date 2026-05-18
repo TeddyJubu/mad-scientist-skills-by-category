@@ -21,7 +21,7 @@ Gmail, Calendar, Drive, Contacts, Sheets, and Docs — all through Python script
 
 ## What This Skill Does
 
-Connects to your full Google Workspace — Gmail, Google Calendar, Google Drive, and Google Contacts. Your AI can schedule meetings, check your calendar, find files, and manage your Google apps.
+This skill Google OAuth2 client credentials (downloaded from Google Cloud Console).
 
 ## References
 

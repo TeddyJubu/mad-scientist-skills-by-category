@@ -16,6 +16,10 @@ metadata:
 
 Comprehensive guide to using Meta's AudioCraft for text-to-music and text-to-audio generation with MusicGen, AudioGen, and EnCodec.
 
+## What This Skill Does
+
+This skill AudioCraft: MusicGen text-to-music, AudioGen text-to-sound.
+
 ## When to use AudioCraft
 
 **Use AudioCraft when:**

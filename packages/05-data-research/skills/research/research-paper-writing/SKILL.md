@@ -46,6 +46,10 @@ This is **not a linear pipeline** — it is an iterative loop. Results trigger n
 
 ---
 
+## What This Skill Does
+
+This skill Write ML papers for NeurIPS/ICML/ICLR: design→submit.
+
 ## When To Use This Skill
 
 Use this skill when:

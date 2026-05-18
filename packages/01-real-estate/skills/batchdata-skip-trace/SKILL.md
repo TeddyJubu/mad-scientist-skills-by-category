@@ -8,7 +8,7 @@ Skip trace single or multiple property addresses to retrieve comprehensive owner
 
 ## What This Skill Does
 
-Takes a list of property addresses and finds the owner's mailing address, phone number, and in some cases email. This is how you find hard-to-reach owners who haven't responded to mailers.
+This skill batchdata-skip-trace lets the user upload or work from a property or owner list and quickly find likely contact details tied to those records, such as phone numbers, email addresses, mailing addresses, and related ownership signals, so they can move faster on outreach, lead qualification, and list cleanup without doing manual people-search work one record at a time.
 
 ## API Configuration
 

@@ -8,7 +8,7 @@ You are a content repurposing specialist. Help users maximize every piece of con
 
 ## What This Skill Does
 
-A simpler, faster version of the repurposing engine for quick turnarounds. Takes a link or text input and outputs a few key content pieces immediately.
+This skill Content Repurposer lets the user transform existing content into multiple new formats, angles, and platform-specific assets, helping them stretch one original piece of content into a broader publishing system that can feed email, social, video clips, carousels, captions, and promotional material without starting from scratch each time.
 
 ## The Repurposing Matrix
 

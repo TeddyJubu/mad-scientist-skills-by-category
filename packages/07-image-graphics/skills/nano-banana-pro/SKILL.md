@@ -8,7 +8,7 @@ Generate new images or edit existing ones using Google's Nano Banana Pro API (Ge
 
 ## What This Skill Does
 
-The higher-quality version of Nano Banana with more detail, better composition, and support for larger image sizes. For final, client-facing graphics that need to look polished.
+This skill Generate/edit images with Nano Banana Pro (Gemini 3 Pro Image). Use for image create/modify requests incl. edits. Supports text-to-image + image-to-image; 1K/2K/4K; use --input-image.
 
 ## Usage
 

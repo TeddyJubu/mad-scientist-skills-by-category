@@ -15,6 +15,10 @@ metadata:
 
 Edit PDFs using natural-language instructions. Point it at a page and describe what to change.
 
+## What This Skill Does
+
+This skill Edit PDF text/typos/titles via nano-pdf CLI (NL prompts).
+
 ## Prerequisites
 
 ```bash

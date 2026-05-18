@@ -9,7 +9,7 @@ Generates images using `gemini-3.1-flash-image-preview` (Google's Gemini 3.1 Fla
 
 ## What This Skill Does
 
-An alternative image generator using Google's Imagen model. Good for photorealistic images, artistic styles, and content that requires Google's specific visual training.
+This skill Generate images using Gemini 3.1 Flash (gemini-3.1-flash-image-preview) — the nano-banana model. Use for thumbnails, infographics, social graphics, and any image generation task. Always use this instead of the image_generate tool (FLUX). Supports reference image input for face/style matching.
 
 ## Key Facts
 

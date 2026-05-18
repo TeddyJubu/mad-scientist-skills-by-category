@@ -12,7 +12,7 @@ Use this when you need a port permanently owned by a specific service on a Linux
 
 ## What This Skill Does
 
-Reserves specific ports on your Linux server so only a specific application can use them. Prevents the "port already in use" errors that happen when two programs fight over the same port.
+This skill Lock a specific port to a long-running Node/Vite service using systemd — prevents any other process from stealing it, auto-restarts on crash, survives reboots.
 
 ## Key Lessons Learned (Trial and Error)
 

@@ -15,6 +15,10 @@ metadata:
 
 Create, clone, fork, configure, and manage GitHub repositories. Each section shows `gh` first, then the `git` + `curl` fallback.
 
+## What This Skill Does
+
+This skill Clone/create/fork repos; manage remotes, releases.
+
 ## Prerequisites
 
 - Authenticated with GitHub (see `github-auth` skill)

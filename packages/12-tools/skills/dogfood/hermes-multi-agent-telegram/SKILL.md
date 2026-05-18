@@ -22,6 +22,10 @@ The rest of this skill is generic guidance for setups that aren't Charles's. It 
 
 Use when a user wants multiple AI agents as separate Telegram bots, each with its own personality, memory, and skills — all capable of working together in a shared Telegram group.
 
+## What This Skill Does
+
+This skill Generic how-to for spinning up multi-agent Telegram setups using Hermes profiles. NOT applicable to Charles. Charles's sub-agents (Mark, Eric, Bob, Michael, Tammie) are SKILLS Hermes loads in-process — they have never had separate Telegram bots on the Hermes side. Do not propose @BotFather workflows for Charles.
+
 ## How It Works
 
 Hermes supports **profiles** — fully independent HERMES_HOME directories. Each profile has:

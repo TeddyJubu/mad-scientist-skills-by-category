@@ -17,6 +17,10 @@ metadata:
 
 Manage Linear issues, projects, and teams directly via the GraphQL API using `curl`. No MCP server, no OAuth flow, no extra dependencies.
 
+## What This Skill Does
+
+This skill Linear: manage issues, projects, teams via GraphQL + curl.
+
 ## Setup
 
 1. Get a personal API key from **Linear Settings > Account > Security & access > Personal API keys** (URL: https://linear.app/settings/account/security). Note: the org-level *Settings > API* page only shows OAuth apps and workspace-member keys, not personal keys.

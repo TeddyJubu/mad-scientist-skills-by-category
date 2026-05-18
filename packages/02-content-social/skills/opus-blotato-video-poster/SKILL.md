@@ -12,6 +12,10 @@ Automates viral clip generation and social media distribution:
 3. Post **clip #1** immediately to all connected Blotato accounts
 4. Schedule **clip #2** for **4 hours later**
 
+## What This Skill Does
+
+This skill opus-blotato-video-poster lets the user take video clips and push them through a posting workflow that connects clipping and distribution, so they can go from finished short-form video to published social content with less manual handling, especially when they want a more repeatable system for sending videos across multiple channels.
+
 ## Why This Workflow
 
 Blotato cannot read metadata from YouTube URLs directly — it requires `.mp4` files. Opus Clip provides CDN-hosted video URLs that Blotato accepts.

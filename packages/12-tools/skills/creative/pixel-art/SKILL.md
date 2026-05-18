@@ -27,6 +27,10 @@ Each is importable or runnable directly. Presets snap to hardware palettes
 when you want era-accurate colors (NES, Game Boy, PICO-8, etc.), or use
 adaptive N-color quantization for arcade/SNES-style looks.
 
+## What This Skill Does
+
+This skill Pixel art w/ era palettes (NES, Game Boy, PICO-8).
+
 ## When to Use
 
 - User wants retro pixel art from a source image

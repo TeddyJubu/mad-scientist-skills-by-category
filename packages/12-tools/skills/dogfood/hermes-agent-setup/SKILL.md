@@ -10,6 +10,10 @@ tags: [setup, configuration, tools, stt, tts, voice, hermes, cli, skills]
 
 Use this skill when a user asks about configuring Hermes, enabling features, setting up voice, managing tools/skills, or troubleshooting.
 
+## What This Skill Does
+
+This skill Help users configure Hermes Agent — CLI usage, setup wizard, model/provider selection, tools, skills, voice/STT/TTS, gateway, and troubleshooting. Use when someone asks to enable features, configure settings, or needs help with Hermes itself.
+
 ## Key Paths
 
 - Config: `~/.hermes/config.yaml`

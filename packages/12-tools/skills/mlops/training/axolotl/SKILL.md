@@ -13,6 +13,10 @@ metadata:
 
 # Axolotl Skill
 
+## What This Skill Does
+
+This skill Axolotl: YAML LLM fine-tuning (LoRA, DPO, GRPO).
+
 ## What's inside
 
 Expert guidance for fine-tuning LLMs with Axolotl — YAML configs, 100+ models, LoRA/QLoRA, DPO/KTO/ORPO/GRPO, multimodal support.

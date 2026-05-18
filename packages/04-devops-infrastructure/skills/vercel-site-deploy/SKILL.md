@@ -9,7 +9,7 @@ When asked to create and deploy a website, follow this exact process.
 
 ## What This Skill Does
 
-A simplified version for deploying static websites — HTML, CSS, and JavaScript files that don't need a server. Faster setup, instant deployment.
+This skill Create and deploy websites to Vercel — static HTML workflow that avoids build errors.
 
 ## Next.js Deployment (alternative to static HTML)
 

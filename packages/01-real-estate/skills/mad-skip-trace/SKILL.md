@@ -6,7 +6,7 @@ description: mad-skip-trace lets the user dig up likely owner or contact informa
 ---
 ## What This Skill Does
 
-A more aggressive skip-trace that cross-references multiple databases to find owner contact info. Good for finding people who've gone silent or properties with unusual ownership structures.
+This skill mad-skip-trace lets the user dig up likely owner or contact information for a person or property lead by combining identity clues, address data, and public web signals into a practical outreach profile, making it useful for finding who owns a deal, how to reach them, and what supporting details help confirm the match before calling, texting, or mailing.
 
 ## Trigger
 Use whenever Charles asks to skip trace, find contact info, or look up an owner's phone/email for a specific property address.

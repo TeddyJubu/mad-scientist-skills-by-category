@@ -17,6 +17,10 @@ Use this skill when the user wants to **see a design direction before committing
 
 Load this when the user says things like "sketch this screen", "show me what X could look like", "compare layout A vs B", "give me 2-3 takes on this UI", "let me see some variants", "mockup this before I build".
 
+## What This Skill Does
+
+This skill Throwaway HTML mockups: 2-3 design variants to compare.
+
 ## When NOT to use this
 
 - User wants a production component — use `claude-design` or build it properly

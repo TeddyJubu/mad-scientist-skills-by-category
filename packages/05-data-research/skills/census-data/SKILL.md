@@ -20,7 +20,7 @@ Fetches demographic, economic, housing, and business data from the U.S. Census B
 
 ## What This Skill Does
 
-Pulls US Census Bureau data — demographics, income levels, housing statistics, population figures — for any geographic area. Essential for real estate investment analysis.
+This skill Fetch demographic, economic, and population data from the U.S. Census Bureau API. Use this skill when you need population statistics, housing data, business patterns, income/poverty estimates, or any U.S. government statistical data at national, state, county, metro, tract, or block group levels.
 
 ## When to Use This Skill
 
@@ -36,11 +36,7 @@ Trigger this skill when Charles asks for:
 
 ## What This Skill Does
 
-1. Accepts natural-language queries or structured parameters (dataset, year, variables, geography)
-2. Translates requests into Census API queries
-3. Fetches data from `https://api.census.gov/data/`
-4. Returns results as markdown summary + CSV download
-5. Handles geography wildcards, nested geographies, time series, and group queries
+This skill Fetch demographic, economic, and population data from the U.S. Census Bureau API. Use this skill when you need population statistics, housing data, business patterns, income/poverty estimates, or any U.S. government statistical data at national, state, county, metro, tract, or block group levels.
 
 ## Available Datasets (Major Categories)
 

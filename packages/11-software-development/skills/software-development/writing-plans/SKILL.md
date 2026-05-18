@@ -13,6 +13,10 @@ metadata:
 
 # Writing Implementation Plans
 
+## What This Skill Does
+
+This skill Write implementation plans: bite-sized tasks, paths, code.
+
 ## Overview
 
 Write comprehensive implementation plans assuming the implementer has zero context for the codebase and questionable taste. Document everything they need: which files to touch, complete code, testing commands, docs to check, how to verify. Give them bite-sized tasks. DRY. YAGNI. TDD. Frequent commits.

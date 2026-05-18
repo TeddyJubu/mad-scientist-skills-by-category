@@ -14,15 +14,7 @@ description: hr lets the user run a complete hiring intelligence system for foun
 
 ## What This Skill Does
 
-The people decisions in an organization compound faster than almost any other decisions.
-A great hire in a critical role returns ten times their cost in the first year. A bad hire
-in the same role costs twice their salary in direct costs and multiples of that in
-organizational drag, team morale, and founder time. Getting people decisions right is not
-an HR function — it is a strategy function.
-
-This skill treats it that way.
-
----
+This skill hr lets the user run a complete hiring intelligence system for founders who want to post jobs, screen candidates, and manage Upwork projects without spending hours on recruiting, which is useful when they need to find talent, evaluate applicants, or run an HR workflow powered by AI instead of manual HR work.
 
 ## Core Principle
 

@@ -15,6 +15,10 @@ metadata:
 
 Use this skill for local GGUF inference, quant selection, or Hugging Face repo discovery for llama.cpp.
 
+## What This Skill Does
+
+This skill llama.cpp local GGUF inference + HF Hub model discovery.
+
 ## When to use
 
 - Run local models on CPU, Apple Silicon, CUDA, ROCm, or Intel GPUs

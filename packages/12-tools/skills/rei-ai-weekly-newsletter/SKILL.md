@@ -7,6 +7,10 @@ description: rei-ai-weekly-newsletter lets the user generate and deliver a weekl
 
 Automatically generate and deliver a weekly PDF newsletter featuring the latest AI news, tools, and automations for real estate investors.
 
+## What This Skill Does
+
+This skill rei-ai-weekly-newsletter lets the user generate and deliver a weekly AI-powered newsletter for real estate investors, automatically pulling content from news sites, AI directories, REI blogs, YouTube, Reddit, and Twitter/X, then packaging it into a branded PDF and delivering it via Telegram so subscribers stay informed without spending hours researching manually.
+
 ## Overview
 
 This skill aggregates content from multiple sources, generates a professionally branded PDF, and delivers it via Telegram on a scheduled basis (every Monday at 7:00 AM ET) or on-demand.

@@ -8,6 +8,10 @@ category: real-estate
 
 **Look up property owners, parcel data, and contact information using paid APIs or free public web sources.**
 
+## What This Skill Does
+
+This skill property-contact-research lets the user look up property owners, parcels, and contact information using paid APIs like BatchData, LandGlide, Rentcast, and free public web sources, covering the full workflow from an address to the owner's name, phone, email, and social signals so they can move from raw lead to direct outreach without switching between tools.
+
 ## Umbrella Sections
 
 - **[§1 BatchData Skip Trace](#section-1-batchdata-skip-trace)** — Paid BatchData API: owner name, phones (with DNC/TCPA flags), emails, mailing addresses in one call

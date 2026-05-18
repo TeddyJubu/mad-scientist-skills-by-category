@@ -24,6 +24,10 @@ This skill supersedes the old `find-nearby` skill — all of find-nearby's
 functionality is covered by the `nearby` command below, with the same
 `--near "<place>"` shortcut and multi-category support.
 
+## What This Skill Does
+
+This skill Geocode, POIs, routes, timezones via OpenStreetMap/OSRM.
+
 ## When to Use
 
 - User sends a Telegram location pin (latitude/longitude in the message) → `nearby`

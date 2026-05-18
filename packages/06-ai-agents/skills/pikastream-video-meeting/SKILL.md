@@ -14,7 +14,7 @@ Script: `SKILL_DIR=skills/pikastream-video-meeting`
 
 ## What This Skill Does
 
-Joins your Google Meet or Zoom call as an AI participant, takes notes, transcribes the meeting, and produces a summary and action items afterward.
+This skill pikastream-video-meeting lets the user join a Google Meet or Zoom call as an AI video meeting agent via PikaStreaming, which is useful when they need a virtual agent to attend a meeting, take notes, observe, or participate on their behalf without being physically present.
 
 ## First-Time Setup
 

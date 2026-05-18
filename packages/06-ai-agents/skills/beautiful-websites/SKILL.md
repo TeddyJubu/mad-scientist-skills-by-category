@@ -11,6 +11,10 @@ A 4-step pipeline that turns "nail salons in Austin TX" into a list of live Verc
 
 ---
 
+## What This Skill Does
+
+This skill Find local businesses with outdated websites, redesign them with premium single-file HTML sites, and deploy them to Vercel. Use when the user wants to generate proof-of-work redesigns for outreach, create portfolio pieces from real business sites, or run the full pipeline (scrape → qualify → redesign → deploy) for a specific niche and city. Triggers on phrases like "beautiful websites", "redesign local business sites", "run the pipeline for [niche] in [city]", or any request to scrape, qualify, redesign, and deploy business websites.
+
 ## How to Run
 
 ### Full pipeline (with review pauses — default)

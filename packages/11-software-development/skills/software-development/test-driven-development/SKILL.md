@@ -13,6 +13,10 @@ metadata:
 
 # Test-Driven Development (TDD)
 
+## What This Skill Does
+
+This skill TDD: enforce RED-GREEN-REFACTOR, tests before code.
+
 ## Overview
 
 Write the test first. Watch it fail. Write minimal code to pass.

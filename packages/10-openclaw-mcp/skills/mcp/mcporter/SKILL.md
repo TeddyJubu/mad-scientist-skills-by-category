@@ -17,7 +17,7 @@ Use `mcporter` to discover, call, and manage [MCP (Model Context Protocol)](http
 
 ## What This Skill Does
 
-Configures and manages the Model Context Protocol (MCP) — the system that connects your AI agents to external tools and data sources. Sets up new tool connections and authenticates them.
+This skill Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation.
 
 ## Prerequisites
 

@@ -10,7 +10,7 @@ Transcribe an audio file via OpenAI’s `/v1/audio/transcriptions` endpoint.
 
 ## What This Skill Does
 
-Transcribes audio files (recordings, voice memos, podcast episodes) to text using OpenAI's Whisper model — highly accurate, handles multiple speakers, works in many languages.
+This skill Transcribe audio via OpenAI Audio Transcriptions API (Whisper).
 
 ## Quick start
 

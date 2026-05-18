@@ -15,6 +15,10 @@ metadata:
 
 OpenAI's multilingual speech recognition model.
 
+## What This Skill Does
+
+This skill OpenAI's general-purpose speech recognition model. Supports 99 languages, transcription, translation to English, and language identification. Six model sizes from tiny (39M params) to large (1550M params). Use for speech-to-text, podcast transcription, or multilingual audio processing. Best for robust, multilingual ASR.
+
 ## When to use Whisper
 
 **Use when:**

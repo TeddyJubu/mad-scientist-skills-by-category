@@ -15,6 +15,10 @@ metadata:
 
 Comprehensive guide to running ML workloads on Modal's serverless GPU cloud platform.
 
+## What This Skill Does
+
+This skill Serverless GPU cloud platform for running ML workloads. Use when you need on-demand GPU access without infrastructure management, deploying ML models as APIs, or running batch jobs with automatic scaling.
+
 ## When to use Modal
 
 **Use Modal when:**

@@ -23,6 +23,10 @@ Tokens give exact values. Prose tells agents *why* those values exist and how to
 apply them. The CLI (`npx @google/design.md`) lints structure + WCAG contrast,
 diffs versions for regressions, and exports to Tailwind or W3C DTCG JSON.
 
+## What This Skill Does
+
+This skill Author/validate/export Google's DESIGN.md token spec files.
+
 ## When to use this skill
 
 - User asks for a DESIGN.md file, design tokens, or a design system spec

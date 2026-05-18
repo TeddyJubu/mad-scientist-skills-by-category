@@ -7,6 +7,10 @@ description: Generate short-form AI videos (text-to-video) using fal.ai — Klin
 
 Generate AI videos using fal.ai's hosted models (Kling, Minimax, etc.).
 
+## What This Skill Does
+
+This skill Generate short-form AI videos (text-to-video) using fal.ai — Kling 1.6 and other models. Use when Charles asks for AI-generated video content, short-form clips, Reels, Shorts, or TikToks built from scratch without filming. FAL_KEY is available in /root/.openclaw/.openclaw/.env.
+
 ## Credentials
 
 - **FAL_KEY:** in `/root/.openclaw/.openclaw/.env` — `FAL_KEY=...`

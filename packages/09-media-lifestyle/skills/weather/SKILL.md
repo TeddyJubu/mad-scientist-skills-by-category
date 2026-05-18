@@ -10,7 +10,7 @@ Two free services, no API keys needed.
 
 ## What This Skill Does
 
-Gets current weather and forecasts for any location — useful for property inspections, outdoor listing photos, or automations that need to know tomorrow's weather.
+This skill weather lets the user get current weather conditions and forecasts for any location without needing an API key, which is useful when they want a quick weather check for a property site, a listing area, a travel decision, or any planning that depends on weather conditions.
 
 ## wttr.in (primary)
 

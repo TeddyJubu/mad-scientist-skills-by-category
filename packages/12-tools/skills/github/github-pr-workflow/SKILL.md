@@ -15,6 +15,10 @@ metadata:
 
 Complete guide for managing the PR lifecycle. Each section shows the `gh` way first, then the `git` + `curl` fallback for machines without `gh`.
 
+## What This Skill Does
+
+This skill GitHub PR lifecycle: branch, commit, open, CI, merge.
+
 ## Prerequisites
 
 - Authenticated with GitHub (see `github-auth` skill)

@@ -15,6 +15,10 @@ metadata:
 
 Expert-level guidance for implementing Group Relative Policy Optimization (GRPO) using the Transformer Reinforcement Learning (TRL) library. This skill provides battle-tested patterns, critical insights, and production-ready workflows for fine-tuning language models with custom reward functions.
 
+## What This Skill Does
+
+This skill Expert guidance for GRPO/RL fine-tuning with TRL for reasoning and task-specific model training.
+
 ## When to Use This Skill
 
 Use GRPO training when you need to:

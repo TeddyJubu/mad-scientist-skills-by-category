@@ -12,6 +12,10 @@ metadata:
 
 Hermes Workspace is a web UI (Node/Vite) that connects to the Hermes Agent gateway's built-in HTTP API server. When it shows "Connecting to Hermes Agent...", the backend API is either not running or missing the enhanced endpoints.
 
+## What This Skill Does
+
+This skill Connect and troubleshoot Hermes Workspace (web UI at port 3001) to its Hermes Agent backend (API server at port 8642). Use when the dashboard shows "Connecting to Hermes Agent..." or when the enhanced /api/* endpoints are missing.
+
 ## Architecture
 
 ```

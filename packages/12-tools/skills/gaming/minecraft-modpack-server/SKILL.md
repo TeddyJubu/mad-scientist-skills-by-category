@@ -7,6 +7,10 @@ platforms: [linux, macos]
 
 # Minecraft Modpack Server Setup
 
+## What This Skill Does
+
+This skill Host modded Minecraft servers (CurseForge, Modrinth).
+
 ## When to use
 - User wants to set up a modded Minecraft server from a server pack zip
 - User needs help with NeoForge/Forge server configuration

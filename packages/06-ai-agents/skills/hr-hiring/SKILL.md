@@ -8,7 +8,7 @@ This skill automates the HR process of creating job posts for Upwork, organizing
 
 ## What This Skill Does
 
-Runs your hiring workflow on Upwork — posts jobs, screens candidates, and ranks applicants by fit. Saves hours of reviewing resumes and interviewing unqualified people.
+This skill HR workflow for creating optimized Upwork job posts, saving them to Notion, and evaluating applicant files from Google Drive. Use this skill when the user wants to hire for a new role, post a job on Upwork, or evaluate candidates for a job.
 
 ## Workflow Overview
 

@@ -7,7 +7,7 @@ category: productivity
 ---
 ## What This Skill Does
 
-Takes any content — a report, a proposal, a contract summary, a property analysis — and converts it into a professional PDF file. Sends it to Telegram or emails it automatically.
+This skill pdf-generation lets the user create PDF documents from text, HTML, or structured data when weasyprint fails due to font subsetting bugs, using fpdf2 as a reliable fallback so they can still produce clean, usable PDFs for reports, invoices, or printed materials.
 
 ## Known Issue: Weasyprint Font Subsetting Bug
 

@@ -18,7 +18,7 @@ Search and download GIFs directly via the Tenor API using curl. No extra tools n
 
 ## What This Skill Does
 
-Searches for GIFs on Tenor and returns the direct link — for adding personality to your social posts, texts, or presentations.
+This skill Search/download GIFs from Tenor via curl + jq.
 
 ## When to use
 

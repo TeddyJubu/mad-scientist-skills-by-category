@@ -8,6 +8,10 @@ category: devops
 
 **Deploy, monitor, and maintain services on Charles's Hostinger server (187.77.23.118).**
 
+## What This Skill Does
+
+This skill Service deployment, auto-healing monitoring, and port management for Charles's Hostinger server. Covers Traefik Docker routing, systemd port reservation, Docker-in-Docker patterns, health checks, and alerting.
+
 ## Server Environment
 
 - **Server IP:** 187.77.23.118

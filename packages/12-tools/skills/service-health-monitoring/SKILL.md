@@ -4,6 +4,10 @@ domain: devops
 description: service-health-monitoring lets the user keep services running automatically by setting up cron jobs that watch for failures and send Telegram alerts, with auto-healing actions like restarting containers or processes so nothing stays down unattended even when no one is watching.
 ---
 
+## What This Skill Does
+
+This skill service-health-monitoring lets the user keep services running automatically by setting up cron jobs that watch for failures and send Telegram alerts, with auto-healing actions like restarting containers or processes so nothing stays down unattended even when no one is watching.
+
 ## Use When
 - You need to monitor critical processes/services and auto-restart them if they fail
 - You want automatic recovery without manual intervention

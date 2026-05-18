@@ -17,6 +17,10 @@ prerequisites:
 
 Generate spectrograms and multi-panel audio feature visualizations from audio files.
 
+## What This Skill Does
+
+This skill Audio spectrograms/features (mel, chroma, MFCC) via CLI.
+
 ## Prerequisites
 
 Requires [Go](https://go.dev/doc/install):

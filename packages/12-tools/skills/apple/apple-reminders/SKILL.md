@@ -16,6 +16,10 @@ prerequisites:
 
 Use `remindctl` to manage Apple Reminders directly from the terminal. Tasks sync across all Apple devices via iCloud.
 
+## What This Skill Does
+
+This skill Apple Reminders via remindctl: add, list, complete.
+
 ## Prerequisites
 
 - **macOS** with Reminders.app

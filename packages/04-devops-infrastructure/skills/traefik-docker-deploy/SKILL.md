@@ -4,6 +4,10 @@ category: devops
 description: Deploy Docker apps behind Traefik reverse proxy on Charles's Hostinger server (187.77.23.118). Handles SSL, DNS, permissions, and firewall.
 ---
 
+## What This Skill Does
+
+This skill Deploy Docker apps behind Traefik reverse proxy on Charles's Hostinger server (187.77.23.118). Handles SSL, DNS, permissions, and firewall.
+
 ## Environment
 
 - **Server IP:** 187.77.23.118

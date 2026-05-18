@@ -11,6 +11,10 @@ This skill finds the best Apify actor for the user's task, runs it, and saves th
 
 ---
 
+## What This Skill Does
+
+This skill Finds the best Apify actor for a web scraping or data extraction task, runs it via the Apify API, and delivers the results as a CSV file. Use this skill whenever a user wants to scrape a website or extract data from any platform (e.g. Google Maps, Twitter/X, Instagram, Facebook, TikTok, LinkedIn, Amazon, real estate sites, etc.). This skill handles the full workflow: finding the actor, running it, and returning results.
+
 ## Full Workflow
 
 ### Step 1 — Search for the best actor

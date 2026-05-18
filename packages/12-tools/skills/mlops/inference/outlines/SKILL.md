@@ -13,6 +13,10 @@ metadata:
 
 # Outlines: Structured Text Generation
 
+## What This Skill Does
+
+This skill Outlines: structured JSON/regex/Pydantic LLM generation.
+
 ## When to Use This Skill
 
 Use Outlines when you need to:

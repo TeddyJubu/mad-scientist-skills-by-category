@@ -20,6 +20,10 @@ This skill provides simple, safe wrappers around the Vercel REST API so you can:
 
 It reads your token from a local secrets file and prints JSON to stdout (great with `jq`).
 
+## What This Skill Does
+
+This skill Manage Vercel from OpenClaw: list projects, get production URLs, list deployments, and redeploy — via the Vercel REST API.
+
 ## Setup
 - Create a token at https://vercel.com/account/tokens
 - Save it locally (do NOT commit):

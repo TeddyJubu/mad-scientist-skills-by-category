@@ -5,6 +5,10 @@ description: discord lets the user control Discord from an AI agent, sending mes
 
 # Discord Actions
 
+## What This Skill Does
+
+This skill discord lets the user control Discord from an AI agent, sending messages, reactions, stickers, polls, and files; managing threads, pins, and searches; fetching permissions and member or channel info; and handling moderation actions in DMs or channels, which is useful when they need to manage a Discord community, run a bot, or automate engagement without being at their keyboard.
+
 ## Overview
 
 Use `discord` to manage messages, reactions, threads, polls, and moderation. You can disable groups via `discord.actions.*` (defaults to enabled, except roles/moderation). The tool uses the bot token configured for Clawdbot.

@@ -33,6 +33,10 @@ Generate images, video, audio, and 3D content through ComfyUI using the
 official `comfy-cli` for setup/lifecycle and direct REST/WebSocket API
 for workflow execution.
 
+## What This Skill Does
+
+This skill Generate images, video, and audio with ComfyUI — install, launch, manage nodes/models, run workflows with parameter injection. Uses the official comfy-cli for lifecycle and direct REST/WebSocket API for execution.
+
 ## What's in this skill
 
 **Reference docs (`references/`):**

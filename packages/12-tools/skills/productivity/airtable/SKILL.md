@@ -18,6 +18,10 @@ metadata:
 
 Work with Airtable's REST API directly via `curl` using the `terminal` tool. No MCP server, no OAuth flow, no Python SDK — just `curl` and a personal access token.
 
+## What This Skill Does
+
+This skill Airtable REST API via curl. Records CRUD, filters, upserts.
+
 ## Prerequisites
 
 1. Create a **Personal Access Token (PAT)** at https://airtable.com/create/tokens (tokens start with `pat...`).

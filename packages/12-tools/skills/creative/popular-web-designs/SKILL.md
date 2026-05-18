@@ -24,6 +24,10 @@ triggers:
 site's complete visual language: color palette, typography hierarchy, component styles, spacing
 system, shadows, responsive behavior, and practical agent prompts with exact CSS values.
 
+## What This Skill Does
+
+This skill 54 real design systems (Stripe, Linear, Vercel) as HTML/CSS.
+
 ## Related design skills
 
 - **`claude-design`** — use for the design *process and taste* (scoping a brief,

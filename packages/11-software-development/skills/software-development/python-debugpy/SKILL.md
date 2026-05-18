@@ -13,6 +13,10 @@ metadata:
 
 # Python Debugger (pdb + debugpy)
 
+## What This Skill Does
+
+This skill Debug Python: pdb REPL + debugpy remote (DAP).
+
 ## Overview
 
 Three tools, picked by situation:

@@ -8,7 +8,7 @@ Headless web search and content extraction using Brave Search. No browser requir
 
 ## What This Skill Does
 
-A private, ad-free web search that your AI agent can use to research any topic. Searches the full web and returns structured results. No tracking, no ads, no Google censoring.
+This skill brave-search lets the user search the web and extract content via the Brave Search API, which is useful when they need quick answers, fact checks, documentation lookups, or want to pull structured content from websites without running a full browser or web crawler.
 
 ## Setup
 

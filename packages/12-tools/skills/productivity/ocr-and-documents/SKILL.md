@@ -17,6 +17,10 @@ For DOCX: use `python-docx` (parses actual document structure, far better than O
 For PPTX: see the `powerpoint` skill (uses `python-pptx` with full slide/notes support).
 This skill covers **PDFs and scanned documents**.
 
+## What This Skill Does
+
+This skill Extract text from PDFs/scans (pymupdf, marker-pdf).
+
 ## Step 1: Remote URL Available?
 
 If the document has a URL, **always try `web_extract` first**:

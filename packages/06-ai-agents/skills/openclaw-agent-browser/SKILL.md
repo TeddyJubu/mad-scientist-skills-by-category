@@ -6,7 +6,7 @@ description: Headless browser automation CLI for AI agents. Use when interacting
 ---
 ## What This Skill Does
 
-Lets your AI agent control a web browser — clicks buttons, fills forms, navigates pages — like a robot that can do anything a human can do on a website.
+This skill Headless browser automation CLI for AI agents. Use when interacting with websites — navigating pages, filling forms, clicking buttons, taking screenshots, extracting data, scraping, testing web apps, downloading files, or automating any browser task. Triggers on requests to "open a website", "fill out a form", "click a button", "take a screenshot", "scrape data", "test this web app", "login to a site", "monitor a page", or any task requiring programmatic web interaction.
 
 ## Setup
 

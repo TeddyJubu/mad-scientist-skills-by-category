@@ -22,6 +22,10 @@ Use this skill whenever the user asks about Microsoft Teams meeting summaries, t
 
 Everything operator-facing is a `hermes teams-pipeline` subcommand run via the terminal tool. There are no new model tools for this pipeline — the CLI is the surface.
 
+## What This Skill Does
+
+This skill Operate the Teams meeting summary pipeline via Hermes CLI — summarize meetings, inspect pipeline status, replay jobs, manage Microsoft Graph subscriptions.
+
 ## When to use this skill
 
 The user is asking to:

@@ -15,6 +15,10 @@ prerequisites:
 
 # Notion API
 
+## What This Skill Does
+
+This skill Notion API via curl: pages, databases, blocks, search.
+
 ## Current Notion Routing Override
 
 This skill has older examples that mention `Welcome to Notion` or legacy parent pages. Those are superseded. For any new Notion output, use the current `notion-cli` skill, active workspace `Charles Blair’s Space`, parent/migration root `36325ada250d81b08171fa8170e25c82`, then run Publisher Agent validation and send only the published `finalLink` on `bush-gas-a9e.notion.site`.

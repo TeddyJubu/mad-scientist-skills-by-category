@@ -7,6 +7,10 @@ description: Guidelines for performing thorough code reviews with security and q
 
 Use this skill when reviewing code changes, pull requests, or auditing existing code.
 
+## What This Skill Does
+
+This skill Guidelines for performing thorough code reviews with security and quality focus.
+
 ## Review Checklist
 
 ### 1. Security First

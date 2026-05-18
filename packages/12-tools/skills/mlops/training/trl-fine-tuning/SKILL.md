@@ -13,6 +13,10 @@ metadata:
 
 # TRL - Transformer Reinforcement Learning
 
+## What This Skill Does
+
+This skill TRL: SFT, DPO, PPO, GRPO, reward modeling for LLM RLHF.
+
 ## Quick start
 
 TRL provides post-training methods for aligning language models with human preferences.

@@ -5,6 +5,10 @@ description: enhancor lets the user generate any type of video through a guided,
 
 ---
 
+## What This Skill Does
+
+This skill enhancor lets the user generate any type of video through a guided, conversational workflow using the Seedance 2.0 / Enhancor API, asking the right questions in the right order and delivering the finished video to Telegram so they can create marketing clips, promotional content, or visual assets without navigating complex video production tools.
+
 ## Step 1 — TYPE
 **"What type of video do you want to create?"**
 

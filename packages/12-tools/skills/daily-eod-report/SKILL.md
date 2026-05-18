@@ -8,6 +8,10 @@ category: openclaw-imports
 
 **Goal:** Compile a professional PDF report of all agent activity for the day and send it via Telegram at 5 PM ET.
 
+## What This Skill Does
+
+This skill Generate the daily end-of-day agent report summarizing all agent activity, system tasks, and files created. Runs at 5 PM ET daily via cron.
+
 ## Execution Steps (Cron Context Safe)
 
 Since this runs in a fresh context with no session memory, use these methods to find activity:

@@ -34,3 +34,7 @@ Notes
 - Sheets values can be passed via `--values-json` (recommended) or as inline rows.
 - Docs supports export/cat/copy. In-place edits require a Docs API client (not in gog).
 - Confirm before sending mail or creating events.
+
+## What This Skill Does
+
+This skill gog lets the user interact with Google Workspace — Gmail, Calendar, Drive, Contacts, Sheets, and Docs — from the command line, which is useful when they want to manage emails, schedule meetings, access files, or automate Google workflows without opening a browser or switching between apps.

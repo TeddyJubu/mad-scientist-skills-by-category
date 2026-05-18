@@ -24,6 +24,10 @@ Contradictions have already been flagged. Synthesis reflects everything ingested
 **Division of labor:** The human curates sources and directs analysis. The agent
 summarizes, cross-references, files, and maintains consistency.
 
+## What This Skill Does
+
+This skill Karpathy's LLM Wiki: build/query interlinked markdown KB.
+
 ## When This Skill Activates
 
 Use this skill when the user:

@@ -13,6 +13,10 @@ metadata:
 
 # Guidance: Constrained LLM Generation
 
+## What This Skill Does
+
+This skill Control LLM output with regex and grammars, guarantee valid JSON/XML/code generation, enforce structured formats, and build multi-step workflows with Guidance - Microsoft Research's constrained generation framework.
+
 ## When to Use This Skill
 
 Use Guidance when you need to:

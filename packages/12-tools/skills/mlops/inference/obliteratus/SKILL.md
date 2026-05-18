@@ -14,6 +14,10 @@ metadata:
 
 # OBLITERATUS Skill
 
+## What This Skill Does
+
+This skill OBLITERATUS: abliterate LLM refusals (diff-in-means).
+
 ## What's inside
 
 9 CLI methods, 28 analysis modules, 116 model presets across 5 compute tiers, tournament evaluation, and telemetry-driven recommendations.
