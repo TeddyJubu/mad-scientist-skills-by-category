@@ -1,6 +1,6 @@
 ---
 name: rentcast-property-report
-description: Generates a comprehensive property analysis and investment report for a given US address using the Rentcast API. Use this skill to get a detailed breakdown of property data, value/rent estimates, and local market statistics.
+description: rentcast-property-report lets the user generate a structured property report with useful real estate data such as ownership information, property characteristics, valuation signals, rent estimates, comps-related context, and market-facing details, giving them a sharper picture of a property's numbers and story before underwriting, marketing, or contacting the owner.
 ---
 
 # Rentcast Property Report

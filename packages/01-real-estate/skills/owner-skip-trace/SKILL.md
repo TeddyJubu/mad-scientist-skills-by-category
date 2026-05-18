@@ -1,6 +1,6 @@
 ---
 name: owner-skip-trace
-description: Skip trace a property owner by name and address using public web sources — free, no paid databases needed. Finds phone numbers, emails, social media, business records, and affiliations.
+description: owner-skip-trace lets the user start from a property or owner name and identify the most likely current owner contact details, including phones, emails, mailing addresses, and related people or entity clues, so they can go from raw property lead to direct-owner outreach with less guesswork and fewer dead ends.
 category: openclaw-imports
 ---
 

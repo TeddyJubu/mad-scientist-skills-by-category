@@ -1,7 +1,9 @@
-# Mad Skip Trace — BatchData Property Skip Trace Skill
+---
+name: mad-skip-trace
+description: mad-skip-trace lets the user dig up likely owner or contact information for a person or property lead by combining identity clues, address data, and public web signals into a practical outreach profile, making it useful for finding who owns a deal, how to reach them, and what supporting details help confirm the match before calling, texting, or mailing.
+---
 
-## What It Does
-Skip trace a property address to find owner names, phone numbers (with DNC/TCPA flags), email addresses, alternate mailing addresses, and property details via the BatchData API v3.
+# Mad Skip Trace — BatchData Property Skip Trace Skill
 
 ## Trigger
 Use whenever Charles asks to skip trace, find contact info, or look up an owner's phone/email for a specific property address.

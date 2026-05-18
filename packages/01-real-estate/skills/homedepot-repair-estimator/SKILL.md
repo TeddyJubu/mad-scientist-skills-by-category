@@ -1,6 +1,6 @@
 ---
 name: homedepot-repair-estimator
-description: Analyze property images, identify needed repairs, and generate contractor-style material estimates with Home Depot pricing.
+description: homedepot-repair-estimator lets the user turn property photos plus basic room measurements into a contractor-style repair estimate that recommends specific Home Depot materials, calculates likely quantities, shows pricing, explains why each product was chosen, totals the material cost, and packages the result into a usable report for rehabs, buy-box decisions, or seller conversations.
 ---
 # Home Depot Property Repair Estimator
 

@@ -1,6 +1,6 @@
 ---
 name: batchdata-skip-trace
-description: Skip trace property addresses to get owner information using the BatchData API. Use when Charles or Bob needs to look up a property address and get the owner's name, mailing address, phone number, email, and property details (valuation, equity, liens, occupancy status, beds/baths, year built). Triggers on: "skip trace", "batchdata", "property lookup", "owner lookup", "find owner of", "batch skip trace", CSV upload for skip tracing multiple addresses at once.
+description: batchdata-skip-trace lets the user upload or work from a property or owner list and quickly find likely contact details tied to those records, such as phone numbers, email addresses, mailing addresses, and related ownership signals, so they can move faster on outreach, lead qualification, and list cleanup without doing manual people-search work one record at a time.
 ---
 
 # BatchData Skip Trace Skill

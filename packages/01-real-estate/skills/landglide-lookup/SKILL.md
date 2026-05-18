@@ -1,6 +1,6 @@
 ---
 name: landglide-lookup
-description: Look up US property parcel data via the ReportAll USA / LandGlide API. Query by address, parcel ID, owner name, or spatial coordinates. Returns parcel boundaries, ownership, assessed value, acreage, and more.
+description: landglide-lookup lets the user search a property by address, parcel number, owner name, or GPS coordinates and pull parcel-level intelligence like owner details, assessed value, sale history, acreage, zoning, flood-zone clues, and building facts, then pair that with skip-trace style research so they can understand both the land and the person behind it before making a move.
 category: openclaw-imports
 ---
 
