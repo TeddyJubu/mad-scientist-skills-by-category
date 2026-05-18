@@ -1,6 +1,6 @@
 ---
 name: sarah-outbound-caller
-description: Deploy and manage Sarah, a VAPI-powered AI voice assistant handling four distinct outbound call types - REI property acquisition (Chucky Buys Lucky Houses), event reminders (Real Deal Meetup), community engagement (REI AI Skool), and agency outreach (Mad Marketing Success). Use when the user wants to set up, configure, update, or troubleshoot Sarah's voice calling system, modify call scripts, add new call types, update VAPI prompts, deploy the Vercel dashboard, or manage multi-vertical outbound campaigns with strict script isolation.
+description: sarah-outbound-caller lets the user deploy and manage Sarah, a VAPI-powered AI voice assistant that runs four distinct outbound call types — REI property acquisition, event reminders, community engagement, and agency outreach — with strict script isolation per campaign, which is useful when they want to automate calling campaigns, set up new call flows, or manage multi-vertical outreach without manual dialing.
 ---
 
 # Sarah Outbound Caller

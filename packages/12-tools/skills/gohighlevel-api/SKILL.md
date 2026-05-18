@@ -1,6 +1,6 @@
 ---
 name: gohighlevel-api
-description: Execute any GoHighLevel (GHL) CRM action via the API using plain-language prompts. Use this skill whenever the user wants to interact with their GoHighLevel account programmatically — including managing contacts, opportunities, appointments, conversations, workflows, payments, invoices, webhooks, social media posts, blogs, forms, surveys, users, or location settings. Triggers on any request mentioning GoHighLevel, GHL, HighLevel, or LeadConnector API actions.
+description: gohighlevel-api lets the user interact with their GoHighLevel CRM account programmatically using plain-language prompts, managing contacts, opportunities, appointments, conversations, workflows, payments, invoices, webhooks, social media posts, forms, surveys, users, and location settings, which is useful when they want to automate CRM tasks, sync leads, or build custom workflows without navigating the GHL UI manually.
 ---
 
 # GoHighLevel API Skill

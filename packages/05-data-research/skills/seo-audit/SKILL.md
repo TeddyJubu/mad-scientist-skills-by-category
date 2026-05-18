@@ -1,6 +1,6 @@
 ---
 name: seo-audit
-description: When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions "SEO audit," "technical SEO," "why am I not ranking," "SEO issues," "on-page SEO," "meta tags review," or "SEO health check." For building pages at scale to target keywords, see programmatic-seo. For adding structured data, see schema-markup.
+description: seo-audit lets the user audit, review, and diagnose SEO issues on their website by checking on-page elements, meta tags, technical health, and ranking factors, which is useful when they want to understand why they are not ranking, identify quick wins, or get a structured health check before pursuing a broader SEO strategy.
 metadata:
   version: 1.0.0
 ---

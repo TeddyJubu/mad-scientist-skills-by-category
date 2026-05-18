@@ -1,7 +1,7 @@
 ---
 name: gmail-unread-autodraft
 emoji: ✉️
-description: "Scan Gmail for unread messages and create unsent draft replies on each thread, on a schedule, using gog + OpenClaw cron."
+description: gmail-unread-autodraft lets the user scan their Gmail inbox for unread messages and automatically create draft replies on each thread on a schedule, which is useful when they want to acknowledge emails, stay top-of-mind with contacts, or maintain an inbox-zero workflow without manually typing responses to every message.
 version: 1.0.0
 maintainer: James (OpenClaw agent)
 requires:

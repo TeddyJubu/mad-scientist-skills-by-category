@@ -1,6 +1,6 @@
 ---
 name: property-contact-research
-description: Property contact research — look up owners, parcels, and contact info via paid APIs (BatchData, LandGlide, SDAT, Rentcast) or free public web sources. Covers the full workflow from address → owner name → phone/email/social.
+description: property-contact-research lets the user look up property owners, parcels, and contact information using paid APIs like BatchData, LandGlide, Rentcast, and free public web sources, covering the full workflow from an address to the owner's name, phone, email, and social signals so they can move from raw lead to direct outreach without switching between tools.
 category: real-estate
 ---
 

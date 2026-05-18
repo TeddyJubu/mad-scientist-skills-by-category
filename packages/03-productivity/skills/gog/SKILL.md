@@ -1,6 +1,6 @@
 ---
 name: gog
-description: Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs.
+description: gog lets the user interact with Google Workspace — Gmail, Calendar, Drive, Contacts, Sheets, and Docs — from the command line, which is useful when they want to manage emails, schedule meetings, access files, or automate Google workflows without opening a browser or switching between apps.
 homepage: https://gogcli.sh
 metadata: {"clawdbot":{"emoji":"🎮","requires":{"bins":["gog"]},"install":[{"id":"brew","kind":"brew","formula":"steipete/tap/gogcli","bins":["gog"],"label":"Install gog (brew)"}]}}
 ---

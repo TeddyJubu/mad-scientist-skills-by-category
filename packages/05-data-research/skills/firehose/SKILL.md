@@ -1,5 +1,5 @@
 ---
-description: Real-time web monitoring via Firehose API. Create Lucene query rules to monitor keywords, domains, and page types, then stream matching pages via Server-Sent Events. Use when you want to track brand mentions, competitor activity, news about specific topics, or monitor website changes in real-time.
+description: firehose lets the user monitor the web in real-time by creating Lucene query rules that track specific keywords, domains, or page types and stream matching results via Server-Sent Events, which is useful when they want to track brand mentions, competitor activity, news alerts, or website changes as they happen instead of polling manually.
 triggers:
   - User wants to monitor web mentions of a keyword, brand, or domain
   - User asks to track changes on specific websites in real-time

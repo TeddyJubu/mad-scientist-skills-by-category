@@ -1,6 +1,6 @@
 ---
 name: discord
-description: Use when you need to control Discord from Clawdbot via the discord tool: send messages, react, post or upload stickers, upload emojis, run polls, manage threads/pins/search, fetch permissions or member/role/channel info, or handle moderation actions in Discord DMs or channels.
+description: discord lets the user control Discord from an AI agent, sending messages, reactions, stickers, polls, and files; managing threads, pins, and searches; fetching permissions and member or channel info; and handling moderation actions in DMs or channels, which is useful when they need to manage a Discord community, run a bot, or automate engagement without being at their keyboard.
 ---
 
 # Discord Actions

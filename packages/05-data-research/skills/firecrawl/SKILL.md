@@ -1,6 +1,6 @@
 ---
 name: firecrawl
-description: Scrape, crawl, and map websites to clean markdown using the Firecrawl CLI. Use when you need to extract content from web pages, crawl entire sites, or map domain structures for AI agents.
+description: firecrawl lets the user scrape, crawl, and map websites into clean markdown, which is useful when they need to extract content from pages, audit site structures, build knowledge bases from web sources, or feed structured web content into AI workflows without broken HTML or layout artifacts.
 triggers:
   - scrape this website
   - crawl this site

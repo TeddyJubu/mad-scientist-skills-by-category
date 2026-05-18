@@ -1,6 +1,7 @@
-# Fish Audio TTS Skill
-
-Convert text to speech using the Fish Audio API.
+---
+name: fish-audio-tts
+description: fish-audio-tts lets the user convert text into natural-sounding speech using the Fish Audio API, which is useful for creating voiceovers, audio content, or AI narration without needing a recording studio or voice actor.
+---
 
 ## Usage
 

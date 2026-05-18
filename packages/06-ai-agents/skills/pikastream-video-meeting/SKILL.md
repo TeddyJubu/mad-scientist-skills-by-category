@@ -1,8 +1,6 @@
 ---
 name: pikastream-video-meeting
-description: |
-  Join a Google Meet or Zoom call as a video meeting agent via PikaStreaming.
-  Trigger: user drops a Google Meet or Zoom link, or asks to join a meeting.
+description: pikastream-video-meeting lets the user join a Google Meet or Zoom call as an AI video meeting agent via PikaStreaming, which is useful when they need a virtual agent to attend a meeting, take notes, observe, or participate on their behalf without being physically present.
 metadata:
   openclaw:
     requires:

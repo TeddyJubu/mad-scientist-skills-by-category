@@ -1,6 +1,7 @@
-# OpenCLAW Logo Maker Skill
-
-**Name:** openclaw-logo-maker
+---
+name: openclaw-logo-maker
+description: openclaw-logo-maker lets the user design and generate logos and brand identity visuals for OpenClaw sub-agents, helping them create consistent, recognizable branding across an AI agent team without needing a graphic designer.
+---
 **Version:** 1.0.0
 **Author:** James (AI Assistant) for Charles (The Mad Scientist)
 **Date Created:** April 2026

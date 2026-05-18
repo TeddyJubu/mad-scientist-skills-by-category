@@ -1,6 +1,6 @@
 ---
 name: pdf-generation
-description: Generate PDF reports using fpdf2 when weasyprint fails. Covers the known weasyprint + fontTools font subsetting bug and the fpdf2 fallback workflow.
+description: pdf-generation lets the user create PDF documents from text, HTML, or structured data when weasyprint fails due to font subsetting bugs, using fpdf2 as a reliable fallback so they can still produce clean, usable PDFs for reports, invoices, or printed materials.
 category: productivity
 ---
 

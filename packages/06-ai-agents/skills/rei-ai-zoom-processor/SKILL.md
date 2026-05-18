@@ -1,6 +1,6 @@
 ---
 name: rei-ai-zoom-processor
-description: Takes a Zoom (or any video) transcript, summarizes it, creates bullet points with timestamps, extracts resources, and outputs everything into a formatted Markdown document and PDF. Optionally creates a Google Document if credentials are available. Use this skill when you have a transcript (as a .txt file or pasted text) and want to create a structured summary document from it.
+description: rei-ai-zoom-processor lets the user turn a Zoom or any video transcript into a structured Markdown document and PDF with bullet-point summaries, timestamps, and extracted resources, which is useful when they want to capture meeting notes, create training materials, or turn recorded conversations into searchable, shareable documents without manual summarization.
 ---
 
 # REI AI Zoom Processor Skill

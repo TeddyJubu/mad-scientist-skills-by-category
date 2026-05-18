@@ -1,6 +1,6 @@
 ---
 name: melissa-data-information
-description: Retrieves property and ownership data from the Melissa Data API. Use this skill to look up a single address or process a CSV file of multiple addresses to enrich them with property information.
+description: melissa-data-information lets the user look up a single property address or process a CSV of multiple addresses to enrich them with Melissa Data property and ownership information, which is useful when they want to verify addresses, get property characteristics, or add structured property data to leads without manual research.
 ---
 
 # Melissa Data Information

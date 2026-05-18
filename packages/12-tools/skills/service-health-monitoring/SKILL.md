@@ -1,7 +1,7 @@
 ---
 name: service-health-monitoring
 domain: devops
-description: Auto-healing service monitoring with cron jobs and Telegram alerts
+description: service-health-monitoring lets the user keep services running automatically by setting up cron jobs that watch for failures and send Telegram alerts, with auto-healing actions like restarting containers or processes so nothing stays down unattended even when no one is watching.
 ---
 
 ## Use When

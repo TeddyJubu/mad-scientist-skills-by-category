@@ -1,6 +1,6 @@
 ---
 name: weather
-description: Get current weather and forecasts (no API key required).
+description: weather lets the user get current weather conditions and forecasts for any location without needing an API key, which is useful when they want a quick weather check for a property site, a listing area, a travel decision, or any planning that depends on weather conditions.
 homepage: https://wttr.in/:help
 metadata: {"clawdbot":{"emoji":"🌤️","requires":{"bins":["curl"]}}}
 ---

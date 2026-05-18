@@ -1,6 +1,6 @@
 ---
 name: notion-cli
-description: Use this whenever Charles asks for Notion, docs, pages, databases/data sources, comments, files, Workers, syncs, webhooks, Notion Custom Agent tools, or anything that should be saved or changed in Notion. This VPS has the Notion CLI (`ntn`) configured for unattended use by Hermes Agent and OpenClaw.
+description: notion-cli lets the user create, read, update, and manage pages, databases, comments, files, and Workers in Notion through the command line, which is useful when they want to save AI outputs, build internal knowledge bases, create structured documents, or automate Notion workflows without clicking through the UI.
 ---
 
 # Notion CLI Skill

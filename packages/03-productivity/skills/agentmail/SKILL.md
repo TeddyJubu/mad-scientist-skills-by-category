@@ -1,6 +1,6 @@
 ---
 name: agentmail
-description: API-first email platform designed for AI agents. Create and manage dedicated email inboxes, send and receive emails programmatically, and handle email-based workflows with webhooks and real-time events. Use when you need to set up agent email identity, send emails from agents, handle incoming email workflows, or replace traditional email providers like Gmail with agent-friendly infrastructure.
+description: agentmail lets the user create and manage dedicated email inboxes for AI agents, send and receive emails programmatically, and handle email-based workflows with webhooks and real-time events, which is useful when they need an agent to have its own email identity for outreach, notifications, or handling incoming email without relying on traditional personal email accounts.
 ---
 
 # AgentMail
