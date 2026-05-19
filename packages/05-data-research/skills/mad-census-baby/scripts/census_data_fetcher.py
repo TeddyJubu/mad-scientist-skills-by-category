@@ -73,7 +73,7 @@ def format_as_markdown(data):
 
 def format_as_csv(data):
     if "error" in data:
-        return f"Error\n"{data['error']}""
+        return f"Error\n{data['error']}"
 
     if not data or len(data) < 2:
         return "No Data Found\n"

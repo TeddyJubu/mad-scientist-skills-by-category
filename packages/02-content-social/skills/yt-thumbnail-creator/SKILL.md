@@ -55,6 +55,7 @@ Read `references/prompt_templates.md` for the exact prompt structure.
 
 **How to run (Python):**
 ```python
+import os
 import sys
 sys.path.insert(0, '/root/.hermes/hermes-agent/venv/lib/python3.11/site-packages')
 # google-genai must be installed: uv pip install google-genai (in hermes venv)
@@ -62,7 +63,7 @@ sys.path.insert(0, '/root/.hermes/hermes-agent/venv/lib/python3.11/site-packages
 from google import genai
 from google.genai import types
 
-API_KEY = "<GOOGLE_API_KEY from env>"  # AIzaSyCwtFlw1ZswA3juvTMapb5aYRfw4NXxhio
+API_KEY = os.environ["GOOGLE_API_KEY"]
 MODEL = "gemini-3.1-flash-image-preview"
 client = genai.Client(api_key=API_KEY)
 
@@ -163,7 +164,7 @@ The following section documents the old Gemini-based workflow. Kept for referenc
 ### Old Workflow (DEPRECATED — Use gpt-image-2 Above)
 
 ~~Model: `gemini-3.1-flash-image-preview` via Google GenAI Python SDK~~
-~~API Key: `GOOGLE_API_KEY` from `~/.hermes/.env` (value: `AIzaSyCwtFlw1ZswA3juvTMapb5aYRfw4NXxhio`)~~
+~~API Key: `GOOGLE_API_KEY` from `~/.hermes/.env`; never paste the live key into docs.~~
 
 ~~Run with: `/root/.hermes/hermes-agent/venv/bin/python3 script.py`~~
 

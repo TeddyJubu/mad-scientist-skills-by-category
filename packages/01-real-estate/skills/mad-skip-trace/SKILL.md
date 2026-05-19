@@ -42,7 +42,7 @@ Use whenever Charles asks to skip trace, find contact info, or look up an owner'
 ### Known Issues from Testing
 - **CF Error 1010 (browser signature banned):** `execute_code` with Python urllib fails with DNS error on `api.batchdata.io` and Cloudflare 1010 on `batchdata.io`. Use `terminal` with `curl` instead — it bypasses the Cloudflare browser check that blocks Python's urllib.
 - **Wrong base URL trap:** The docs show `api.batchdata.com` — do NOT use `api.batchdata.io` (DNS fails) or `batchdata.io/api/` (Cloudflare blocks).
-- **Charles's account:** Key is `xlj5gC1Vf3a5huf79FaSGyLEqwJtMPVMRg4nJeAY`, confirmed live on 2026-04-13.
+- **Account key:** Load `BATCHDATA_API_KEY` from the skill `.env`; never paste the live key into this file.
 
 ## Response Structure
 ```json
@@ -113,7 +113,7 @@ for e in p['emails']:
 ## API Key Setup
 Store in `~/.hermes/skills/mad-skip-trace/.env`:
 ```
-BATCHDATA_API_KEY=xlj5gC1Vf3a5huf79FaSGyLEqwJtMPVMRg4nJeAY
+BATCHDATA_API_KEY=your_batchdata_api_key_here
 ```
 
 ## Output for Charles

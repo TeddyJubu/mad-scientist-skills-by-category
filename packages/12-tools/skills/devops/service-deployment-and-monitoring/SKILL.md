@@ -6,7 +6,7 @@ category: devops
 
 # Service Deployment and Monitoring
 
-**Deploy, monitor, and maintain services on Charles's Hostinger server (187.77.23.118).**
+**Deploy, monitor, and maintain services on Charles's Hostinger server.**
 
 ## What This Skill Does
 
@@ -14,7 +14,7 @@ This skill Service deployment, auto-healing monitoring, and port management for 
 
 ## Server Environment
 
-- **Server IP:** 187.77.23.118
+- **Server IP:** set `CHARLES_HOST_IP` in the environment before using IP-based commands.
 - **Firewall:** UFW active — ports 22, 80, 443, 3000, 7000 already open
 - **Traefik:** `/docker/traefik/docker-compose.yml` + `/docker/traefik/traefik.yml`, runs in host network mode
 - **Traefik network:** `traefik-net` (bridge)
@@ -45,7 +45,7 @@ This skill Service deployment, auto-healing monitoring, and port management for 
 3. **Verify the domain has DNS:**
    `dig +short <domain>` or `host <domain> 8.8.8.8`
    If no DNS record exists, use sslip.io as fallback:
-   - Format: `http://IP-WITH-DASHES.sslip.io` (e.g., `http://187-77-23-118.sslip.io`)
+   - Format: `http://IP-WITH-DASHES.sslip.io` (derive it from `$CHARLES_HOST_IP`)
 
 4. **Create data directory with correct permissions:**
    `mkdir -p /root/<app_name>/data`
@@ -93,14 +93,14 @@ This skill Service deployment, auto-healing monitoring, and port management for 
 - **Stale config files:** Remove old config files from previous attempts.
 
 **SSL certificate fails (400 DNS error):**
-- Domain has no DNS A record pointing to 187.77.23.118.
+- Domain has no DNS A record pointing to `$CHARLES_HOST_IP`.
 - Fix: add DNS record at registrar, or use sslip.io.
 - Note: Let's Encrypt may rate-limit retries. HTTP fallback works immediately.
 - **here.now is NOT an option for HTTPS** — it only hosts static files.
 
 **Port not accessible from outside:**
 - Traefik handles all external traffic via ports 80/443 — apps behind Traefik do NOT need host port mapping (`-p`).
-- **SIMPLEST APPROACH when Traefik/DNS is problematic:** Use an already-open port (7000) with direct IP access, e.g. `http://187.77.23.118:7000`.
+- **SIMPLEST APPROACH when Traefik/DNS is problematic:** Use an already-open port (7000) with direct IP access, e.g. `http://$CHARLES_HOST_IP:7000`.
 - **HTTPS tunnel fallback:** Use localtunnel:
   `lt --port <app_port> --local-host localhost --subdomain <unique-name>`
 

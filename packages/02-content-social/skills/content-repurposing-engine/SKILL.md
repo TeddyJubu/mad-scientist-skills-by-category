@@ -1,6 +1,6 @@
 ---
 
-name: Content Repurposer
+name: content-repurposing-engine
 description: content-repurposing-engine lets the user take one core piece of content, like a video, podcast, interview, newsletter, or long-form post, and spin it into multiple smaller assets for different platforms, such as captions, clips, tweets, carousels, emails, hooks, and short-form posts, so a single idea can produce a full content stack instead of being used once and forgotten.
 
 ---

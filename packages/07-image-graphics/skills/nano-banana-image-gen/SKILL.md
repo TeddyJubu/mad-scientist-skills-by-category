@@ -14,7 +14,7 @@ This skill Generate images using Gemini 3.1 Flash (gemini-3.1-flash-image-previe
 ## Key Facts
 
 - **Model:** `gemini-3.1-flash-image-preview`
-- **API Key:** `GOOGLE_API_KEY` from env (`AIzaSyCwtFlw1ZswA3juvTMapb5aYRfw4NXxhio`)
+- **API Key:** `GOOGLE_API_KEY` from the environment; never paste the live key into this file.
 - **Python env:** `/root/.hermes/hermes-agent/venv/bin/python3` (Python 3.11)
 - **Package:** `google-genai` — install with `uv pip install google-genai` if missing
 - **Template reference:** `/root/.openclaw/workspace/agents/michael/templates/nano_banana_2_template.py`
@@ -36,13 +36,14 @@ Always run with:
 ## Basic Script (Text-to-Image)
 
 ```python
+import os
 import sys
 sys.path.insert(0, '/root/.hermes/hermes-agent/venv/lib/python3.11/site-packages')
 
 from google import genai
 from google.genai import types
 
-API_KEY = "AIzaSyCwtFlw1ZswA3juvTMapb5aYRfw4NXxhio"
+API_KEY = os.environ["GOOGLE_API_KEY"]
 MODEL = "gemini-3.1-flash-image-preview"
 client = genai.Client(api_key=API_KEY)
 
@@ -65,13 +66,14 @@ for candidate in response.candidates:
 Use this when generating thumbnails with Charles's headshot or any image-conditioned generation:
 
 ```python
+import os
 import sys
 sys.path.insert(0, '/root/.hermes/hermes-agent/venv/lib/python3.11/site-packages')
 
 from google import genai
 from google.genai import types
 
-API_KEY = "AIzaSyCwtFlw1ZswA3juvTMapb5aYRfw4NXxhio"
+API_KEY = os.environ["GOOGLE_API_KEY"]
 MODEL = "gemini-3.1-flash-image-preview"
 client = genai.Client(api_key=API_KEY)
 
