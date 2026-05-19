@@ -1,6 +1,6 @@
 ---
 
-name: agentmail
+name: agentmail-productivity
 description: agentmail lets the user create and manage dedicated email inboxes for AI agents, send and receive emails programmatically, and handle email-based workflows with webhooks and real-time events, which is useful when they need an agent to have its own email identity for outreach, notifications, or handling incoming email without relying on traditional personal email accounts.
 
 ---

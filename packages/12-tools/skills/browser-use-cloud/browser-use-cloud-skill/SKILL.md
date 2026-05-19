@@ -1,5 +1,5 @@
 ---
-name: browser-use-cloud
+name: browser-use-cloud-openclaw
 description: Use Browser Use Cloud API v3 for managed AI browser automation, live browser sessions, screenshots, web research, form workflows, authentication profiles, file workspaces, and OpenClaw/Hermes browser tasks. Trigger whenever Charles asks Browser Use, cloud browser automation, web task agents, AI browser API, live browser preview, profile sync, or CDP stealth browser infrastructure.
 ---
 

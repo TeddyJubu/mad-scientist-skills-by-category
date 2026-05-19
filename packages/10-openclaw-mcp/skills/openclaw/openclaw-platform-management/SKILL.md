@@ -351,7 +351,7 @@ docker exec openclaw-mm3f-openclaw-1 ls /data/.npm-global/lib/node_modules/openc
 **Verification:**
 ```bash
 # External port should now return 200
-curl -s -o /dev/null -w "%{http_code}" http://187.77.23.118:49248/
+curl -s -o /dev/null -w "%{http_code}" "http://$CHARLES_HOST_IP:49248/"
 
 # Health endpoint should still be 200
 curl -s http://127.0.0.1:18789/health

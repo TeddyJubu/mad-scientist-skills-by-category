@@ -125,7 +125,7 @@ for e in p['emails']:
 ### API Key Setup
 Store in `~/.hermes/skills/property-contact-research/.env`:
 ```
-BATCHDATA_API_KEY=xlj5gC1Vf3a5huf79FaSGyLEqwJtMPVMRg4nJeAY
+BATCHDATA_API_KEY=your_batchdata_api_key_here
 ```
 
 ### Output for Charles
@@ -142,7 +142,7 @@ Always present skip trace results in this format:
 - **If `matched: false`:** try different address formats ("N" vs "North", "St" vs "Street")
 - **Phones with `dnc: true`:** do not call — Charles avoids DNC-listed numbers
 - **Multiple owners:** present all persons returned, not just the first one
-- **Charles's account:** Key is `xlj5gC1Vf3a5huf79FaSGyLEqwJtMPVMRg4nJeAY`, confirmed live on 2026-04-13.
+- **Account key:** Load `BATCHDATA_API_KEY` from the skill `.env`; never paste the live key into this file.
 
 ---
 

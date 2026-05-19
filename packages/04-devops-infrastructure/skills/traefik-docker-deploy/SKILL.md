@@ -1,16 +1,16 @@
 ---
 name: traefik-docker-deploy
 category: devops
-description: Deploy Docker apps behind Traefik reverse proxy on Charles's Hostinger server (187.77.23.118). Handles SSL, DNS, permissions, and firewall.
+description: Deploy Docker apps behind Traefik reverse proxy on Charles's Hostinger server. Handles SSL, DNS, permissions, and firewall.
 ---
 
 ## What This Skill Does
 
-This skill Deploy Docker apps behind Traefik reverse proxy on Charles's Hostinger server (187.77.23.118). Handles SSL, DNS, permissions, and firewall.
+This skill deploys Docker apps behind Traefik reverse proxy on Charles's Hostinger server. Handles SSL, DNS, permissions, and firewall.
 
 ## Environment
 
-- **Server IP:** 187.77.23.118
+- **Server IP:** set `CHARLES_HOST_IP` in the environment before using IP-based commands.
 - **Traefik config:** /docker/traefik/docker-compose.yml + /docker/traefik/traefik.yml
 - **Traefik network:** traefik-net (bridge)
 - **Traefik runs in:** host network mode
@@ -28,7 +28,7 @@ This skill Deploy Docker apps behind Traefik reverse proxy on Charles's Hostinge
 3. **Verify the domain has DNS:**
    `dig +short <domain>` or `host <domain> 8.8.8.8`
    If no DNS record exists, use sslip.io as fallback:
-   - Format: `http://IP-WITH-DASHES.sslip.io` (e.g., `http://187-77-23-118.sslip.io`)
+   - Format: `http://IP-WITH-DASHES.sslip.io` (derive it from `$CHARLES_HOST_IP`)
    - **CAUTION:** sslip.io CAN get Let's Encrypt certs, but rate limits from prior failed attempts or DNS quirks can cause temporary failures. If HTTPS is flaky, fall back to plain HTTP immediately.
 
 4. **Create data directory with correct permissions:**
@@ -77,7 +77,7 @@ This skill Deploy Docker apps behind Traefik reverse proxy on Charles's Hostinge
 - **Stale config files:** Remove old config files from previous attempts that may override the database.
 
 ### SSL certificate fails (400 DNS error)
-- Domain has no DNS A record pointing to 187.77.23.118.
+- Domain has no DNS A record pointing to `$CHARLES_HOST_IP`.
 - Fix: add DNS record at registrar, or use sslip.io: `IP-WITH-DASHES.sslip.io`
 - Note: if Let's Encrypt failed recently, it may rate-limit retries. HTTP fallback works immediately.
 - **here.now is NOT an option for HTTPS** — it only hosts static files (HTML/CSS/JS), not running server applications.
@@ -87,7 +87,7 @@ This skill Deploy Docker apps behind Traefik reverse proxy on Charles's Hostinge
 - Do NOT use `-p <port>:<port>` when connected to traefik-net.
 - If you MUST use raw port, check UFW: `sudo ufw status` and add rule: `sudo ufw allow <port>/tcp`.
 - **ALREADY OPEN ports** on this server (no need to add UFW rules): 22, 7000, 80, 443, 3000, 3001, 3005, 3210, 46736, 49248, 50183.
-- **SIMPLEST APPROACH when Traefik/DNS is problematic:** Use an already-open port (7000 is preferred) with direct IP access, e.g. `http://187.77.23.118:7000`. This bypasses all DNS/SSL complexity.
+- **SIMPLEST APPROACH when Traefik/DNS is problematic:** Use an already-open port (7000 is preferred) with direct IP access, e.g. `http://$CHARLES_HOST_IP:7000`. This bypasses all DNS/SSL complexity.
 - **HTTPS tunnel fallback:** If you need HTTPS without DNS, use localtunnel:
   `npm install -g localtunnel`
   `lt --port <app_port> --local-host localhost --subdomain <unique-name>`

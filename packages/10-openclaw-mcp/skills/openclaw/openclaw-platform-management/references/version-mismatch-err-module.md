@@ -52,7 +52,7 @@ docker exec openclaw-mm3f-openclaw-1 sed -i 's/"lastTouchedVersion": "2026.5.5"/
 
 ```bash
 # External port should now return 200 (OpenClaw web UI)
-curl -s -o /dev/null -w "%{http_code}" http://187.77.23.118:49248/
+curl -s -o /dev/null -w "%{http_code}" "http://$CHARLES_HOST_IP:49248/"
 # Expected: 200
 
 # Internal health should still be 200

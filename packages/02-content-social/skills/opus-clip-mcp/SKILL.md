@@ -80,7 +80,7 @@ Extract `projectId` and report it to the user. Processing may take time; clips w
 
 ## Notes
 
-- The MCP token is hardcoded in the script (Zapier-generated token)
+- Load the MCP token from the environment or a local `.env`; never hardcode Zapier-generated tokens in committed scripts.
 - Processing time varies based on video length
 - Results appear in the OpusClip dashboard, not immediately in the response
 - The `projectId` can be used to check status later via other MCP tools

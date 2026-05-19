@@ -61,7 +61,7 @@ Collect these details before generating:
 
 ### API Key
 ```
-GEMINI_API_KEY=AIzaSyCwtFlw1ZswA3juvTMapb5aYRfw4NXxhio
+GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
 **Default Model:** `gemini-3.1-flash-image-preview` (confirmed working for logo generation)

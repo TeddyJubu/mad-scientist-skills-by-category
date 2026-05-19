@@ -1,7 +1,7 @@
 {
-  "name": "mad-scientist-essential-skill-collections",
+  "name": "mad-scientist-skills-by-category",
   "version": "1.0.0",
-  "description": "Monorepo of 12 independent Hermes/OpenClaw AI agent skill packages",
+  "description": "Mad Scientist Collection of Skills by Category: 12 independent Hermes/OpenClaw AI agent skill packages",
   "private": true,
   "workspaces": [
     "packages/*"
