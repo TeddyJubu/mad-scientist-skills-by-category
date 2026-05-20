@@ -1,5 +1,5 @@
 ---
-name: discord
+name: discord-bot
 description: discord lets the user control Discord from an AI agent, sending messages, reactions, stickers, polls, and files; managing threads, pins, and searches; fetching permissions and member or channel info; and handling moderation actions in DMs or channels, which is useful when they need to manage a Discord community, run a bot, or automate engagement without being at their keyboard.
 ---
 
