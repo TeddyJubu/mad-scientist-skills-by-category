@@ -1,208 +1,97 @@
-# Content & Social Skills
+# Content Social Skills
 **Package:** `@mad-scientist/content-social` | **15 Skills** | Version 1.0.0
 
 ---
 
-## What This Package Does For You
+## What This Package Does
 
-This is your content production studio. You record one video or write one post, and this package can automatically create eye-catching thumbnails, chop your long videos into viral TikTok/Instagram clips, post to all your social accounts, generate images for campaigns, and even write the copy for you.
-
-If you're a content creator — especially on YouTube — these skills handle everything that happens after you hit record.
-
----
+YouTube, social posting, content repurposing, thumbnails, scripts, and marketing assets
 
 ## Skills In This Package
 
-### 1. YouTube Thumbnail Creator
-**What it does:** Creates professional YouTube thumbnails in the style of top creators like MrBeast — big face, bold text, high contrast, instantly recognizable. Upload your headshot reference and it uses your face consistently across all thumbnails.
+### 1. Content Repurposer
+**Folder:** `skills/Content Repurposer`
 
-**What to say:**  
-> "Make me 3 YouTube thumbnail variations that say 'I Bought A House For $1' with my face in the corner"
+Content Repurposer lets the user transform existing content into multiple new formats, angles, and platform-specific assets, helping them stretch one original piece of content into a broader publishing system that can feed email, social, video clips, carousels, captions, and promotional material without starting from scratch each time.
 
-**What you get:** 3 image files ready to upload to YouTube — each with a different color scheme and layout, all using your face.
+### 2. blotato-text-poster
+**Folder:** `skills/blotato-text-poster`
 
----
+blotato-text-poster lets the user publish text-based social content through Blotato, making it useful for pushing written posts, captions, short updates, promotional copy, or repurposed text assets out to connected social channels without having to manually open each platform and post them one by one.
 
-### 2. GPT Image 2 (Image Generation)
-**What it does:** Creates any image you can describe. Logos, banners, ad creatives, product photos, illustrations — just describe what you want and it generates it. Uses the latest OpenAI image generation model.
+### 3. content-repurposing-engine
+**Folder:** `skills/content-repurposing-engine`
 
-**What to say:**  
-> "Create a banner image that says 'We Buy Houses' with a photo-realistic house and a sunset background"
+content-repurposing-engine lets the user take one core piece of content, like a video, podcast, interview, newsletter, or long-form post, and spin it into multiple smaller assets for different platforms, such as captions, clips, tweets, carousels, emails, hooks, and short-form posts, so a single idea can produce a full content stack instead of being used once and forgotten.
 
-**What you get:** A high-resolution image file, ready to use on your website, ads, or social media.
+### 4. copywriting
+**Folder:** `skills/copywriting`
 
----
+copywriting lets the user create clear, persuasive written content for sales pages, ads, emails, landing pages, offer descriptions, social posts, and follow-up messages, with messaging shaped to match the audience, goal, and platform so the final copy is not just polished, but built to get attention, generate response, and move people toward a specific action.
 
-### 3. YT Thumbnail Creator (Nova YouTube Agent)
-**What it does:** An alternative thumbnail creator specifically tuned for YouTube click-through rates. Uses data-driven design principles to maximize views.
+### 5. gpt-image-2
+**Folder:** `skills/gpt-image-2`
 
-**What to say:**  
-> "Generate a high-CTR thumbnail for a video about 'How to Find Off-Market Deals'"
+gpt-image-2 lets the user generate original images or edit existing ones using AI, which is useful for marketing graphics, concept visuals, branded content, ad creatives, mockups, thumbnails, and stylized scene creation when they need a fast way to turn an idea, prompt, or reference image into a finished visual asset.
 
-**What you get:** A thumbnail optimized for YouTube's algorithm, with layout and color choices backed by performance data.
+### 6. instagram-carousel-authority
+**Folder:** `skills/instagram-carousel-authority`
 
----
+instagram-carousel-authority lets the user turn a topic, offer, or business message into a strategic Instagram carousel built for reach, saves, shares, and authority-building, including the hook, slide structure, teaching angle, design direction, and caption strategy needed to make the post feel like a serious piece of content instead of random social filler.
 
-### 4. Opus Clip MCP (Video Clipping)
-**What it does:** Takes a long YouTube video and automatically finds the best clips to post as short-form content — TikTok, Instagram Reels, YouTube Shorts. It watches the whole video, finds the moments with the most engagement potential, and cuts them.
+### 7. mad-graphic-designer-skill
+**Folder:** `skills/mad-graphic-designer-skill`
 
-**What to say:**  
-> "Clip my latest YouTube video at youtube.com/watch?v=XXXXX into 5 short clips for TikTok and Instagram"
+mad-graphic-designer-skill lets the user create branded visual assets such as infographics, social graphics, promotional images, event visuals, and marketing design pieces with a stronger strategic and aesthetic point of view, so ideas can be turned into graphics that feel intentional, on-brand, and built to communicate something clearly.
 
-**What you get:** 5 short video files (9:16 format), each with captions, ready to post. Optionally auto-posts them through Blotato.
+### 8. nova-youtube-agent
+**Folder:** `skills/nova-youtube-agent`
 
----
+nova-youtube-agent lets the user run YouTube-focused research and production tasks such as analyzing channel content, extracting insights from videos, helping shape video ideas, and supporting YouTube growth workflows, so they can move from raw video data or channel questions to usable strategy, summaries, and next-step content decisions faster.
 
-### 5. YouTube Opus Skill
-**What it does:** Sends your YouTube video to OpusClip (a professional video repurposing service) via their API to get AI-selected clips, captioned shorts, and social-ready cuts.
+### 9. opus-blotato-video-poster
+**Folder:** `skills/opus-blotato-video-poster`
 
-**What to say:**  
-> "Send my YouTube video to OpusClip and post the best 3 clips to TikTok"
+opus-blotato-video-poster lets the user take video clips and push them through a posting workflow that connects clipping and distribution, so they can go from finished short-form video to published social content with less manual handling, especially when they want a more repeatable system for sending videos across multiple channels.
 
-**What you get:** AI-curated short clips with captions, posted to TikTok and Instagram with your account.
+### 10. opus-clip-mcp
+**Folder:** `skills/opus-clip-mcp`
 
----
+opus-clip-mcp lets the user create short-form video clips from longer video content using an Opus-style clipping workflow, helping them identify strong moments, cut usable segments, and prepare social-ready clips that are better suited for platforms like TikTok, Instagram Reels, and YouTube Shorts than the original long-form format.
 
-### 6. Blotato Text Poster
-**What it does:** Posts text-only content to all your social media accounts at once — Facebook, Twitter/X, Instagram, LinkedIn, TikTok. Write once, publish everywhere.
+### 11. supadata-transcript
+**Folder:** `skills/supadata-transcript`
 
-**What to say:**  
-> "Post this to all my social accounts: 'Just closed on my 12th deal. The system works.'"
+supadata-transcript lets the user pull transcript data from supported media sources so they can read, analyze, quote, summarize, repurpose, or mine spoken content without manually transcribing it, which is especially useful for turning videos, interviews, and recorded conversations into searchable text that can feed content creation or research workflows.
 
-**What you get:** Confirmation from each platform that the post went live, with post URLs.
+### 12. video-transcribe-and-timestamp
+**Folder:** `skills/video-transcribe-and-timestamp`
 
----
+video-transcribe-and-timestamp lets the user convert spoken video content into text with timestamps attached to the right moments, which is useful for editing, captioning, quote extraction, clip selection, summaries, training material, and finding exactly where key statements happen inside a longer recording.
 
-### 7. Nova YouTube Agent
-**What it does:** A dedicated AI agent that manages your YouTube channel — uploading videos, writing descriptions, adding tags, and scheduling posts based on your content calendar.
+### 13. xitter
+**Folder:** `skills/xitter`
 
-**What to say:**  
-> "Upload this video file with title 'How I Find Off-Market Deals' and add a description and 10 relevant tags"
+xitter X/Twitter via xurl CLI lets the user create, manage, and publish content on X/Twitter through the xurl command-line workflow, which is useful for posting tweets, threading ideas, testing messaging, automating social distribution, and handling X-related publishing tasks in a more controlled, scriptable way than doing everything manually in the app.
 
-**What you get:** Video uploaded to YouTube with title, description, tags, and thumbnail set.
+### 14. youtube-opus-skill
+**Folder:** `skills/youtube-opus-skill`
 
----
+youtube-opus-skill lets the user take YouTube content and turn it into high-value short-form opportunities by extracting strong moments, shaping clips, and preparing content for wider distribution, making it useful when they want to squeeze more reach, engagement, and downstream content assets out of a longer YouTube video.
 
-### 8. Supadata Transcript
-**What it does:** Transcribes any YouTube video to text — exactly word for word. Great for repurposing video content into blog posts, email newsletters, or quote cards.
+### 15. yt-thumbnail-creator
+**Folder:** `skills/yt-thumbnail-creator`
 
-**What to say:**  
-> "Transcribe this YouTube video: youtube.com/watch?v=XXXXX"
+yt-thumbnail-creator lets the user create YouTube thumbnails designed to improve click-through rate by combining strong visual hierarchy, readable text, compelling composition, and topic-specific styling, so they can turn a video concept or title into a thumbnail that is built to compete in the feed instead of blending into it.
 
-**What you get:** A full text transcript with timestamps, ready to copy into a blog post or document.
+## Agent Install
 
----
-
-### 9. Video Transcribe & Timestamp
-**What it does:** Transcribes a video and automatically marks chapters and key moments. Useful for creating show notes, blog posts, or turning a video into a structured article.
-
-**What to say:**  
-> "Transcribe my webinar video and add chapter markers every 5 minutes"
-
-**What you get:** Timestamped transcript with automatic chapter divisions you can paste into YouTube or a blog.
-
----
-
-### 10. Instagram Carousel Authority
-**What it does:** Creates those "swipe through" carousel posts that teach something — like "10 Things Every Real Estate Investor Must Know." AI writes the content, designs each slide, and outputs a carousel ready to post.
-
-**What to say:**  
-> "Create a 10-slide Instagram carousel on 'How to Analyze a Fix-and-Flip Deal' in my brand style"
-
-**What you get:** A PDF-ready carousel with 10 slides, each designed consistently, with captions for each slide.
-
----
-
-### 11. Content Repurposing Engine
-**What it does:** Takes one piece of content (a YouTube video, a blog post, a podcast episode) and automatically transforms it into 10+ other formats — tweet thread, LinkedIn post, email newsletter, quote cards, short video script.
-
-**What to say:**  
-> "Repurpose my latest YouTube video into a tweet thread, LinkedIn post, and email newsletter"
-
-**What you get:** 3 formatted outputs — a tweet thread (280 chars each), a LinkedIn post, and an email newsletter section — all from your original video.
-
----
-
-### 12. Copywriting
-**What it does:** Writes marketing copy for you — ads, email sequences, landing pages, social posts, sales letters. Just tell it what you're selling and who you're selling to.
-
-**What to say:**  
-> "Write me a high-converting email sequence for a 'We Buy Houses' cold outreach campaign"
-
-**What you get:** 5-email sequence with subject lines, preview text, and body copy, ready to paste into your email platform.
-
----
-
-### 13. Xitter (X/Twitter Posting)
-**What it does:** Posts to X/Twitter with or without images, searches for topics, and can engage with trending conversations relevant to your niche.
-
-**What to say:**  
-> "Post a tweet about my new real estate deal and add the image of the before/after renovation"
-
-**What you get:** Tweet posted to your X account with image attached.
-
----
-
-### 14. Mad Graphic Designer Skill
-**What it does:** A full AI graphic designer that creates marketing materials — listing flyers, yard signs, social media graphics, ad creatives — in your brand style. Gives you print-ready files.
-
-**What to say:**  
-> "Design a 'We Buy Houses' flyer that I can print and mail to distressed homeowners"
-
-**What you get:** A print-ready PDF flyer, designed to your specifications, ready to print or mail.
-
----
-
-### 15. Content Repurposer (Standalone)
-**What it does:** A simpler, faster version of the repurposing engine for quick turnarounds. Takes a link or text input and outputs a few key content pieces immediately.
-
-**What to say:**  
-> "Turn this blog post into a tweet and a LinkedIn post: [paste URL or text]"
-
-**What you get:** A tweet-length version and a formatted LinkedIn post.
-
----
-
-## How To Use This Package
-
-### Installation
 ```bash
 npm install @mad-scientist/content-social
 ```
 
-Or symlink into your Hermes skills folder:
-```bash
-ln -s $(pwd)/skills ~/.hermes/skills/content-social
-```
-
-### Quick Start
-```
-skill_view(name="yt-thumbnail-creator")
-skill_view(name="opus-clip-mcp")
-skill_view(name="content-repurposing-engine")
-```
-
----
-
-## What To Expect
-
-| Skill | Time to Result | Best For |
-|-------|---------------|----------|
-| YT Thumbnail Creator | 30-60 seconds | YouTube thumbnails |
-| GPT Image 2 | 15-30 seconds | Any image from description |
-| Nova YT Agent | 20-40 seconds | YouTube channel management |
-| Opus Clip MCP | 1-3 minutes | Long video → short clips |
-| YouTube Opus Skill | 1-2 minutes | Auto-post clips to social |
-| Blotato Text Poster | 10-30 seconds | Post to all platforms |
-| Supadata Transcript | 30-90 seconds | Video → text |
-| Video Transcribe & Timestamp | 1-2 minutes | Chaptered transcripts |
-| Instagram Carousel | 1-2 minutes | Educational carousels |
-| Content Repurposing Engine | 1-3 minutes | One content → many formats |
-| Copywriting | 20-60 seconds | Marketing copy |
-| Xitter | 10-20 seconds | X/Twitter posting |
-
----
+Or copy the `skills/` directory into your agent skills root.
 
 ## License
 
-Proprietary — © 2026 Mad Scientist LLC. All rights reserved. Internal use only.
+Proprietary - (c) 2026 Mad Scientist LLC. All rights reserved.

@@ -1,10 +1,10 @@
 {
   "name": "@mad-scientist/real-estate",
   "version": "1.0.0",
-  "description": "Property search, skip-tracing, RentCast analysis, and Home Depot rehab estimates for Maryland/DC/VA.",
+  "description": "Property research, owner lookup, skip tracing, repair estimates, and real estate workflows",
   "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills ready — no build step'"
+    "install": "echo 'Skills ready \u2014 no build step'"
   },
   "keywords": [
     "hermes",

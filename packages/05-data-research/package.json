@@ -1,10 +1,10 @@
 {
   "name": "@mad-scientist/data-research",
   "version": "1.0.0",
-  "description": "Apify scraping, Apollo B2B contacts, Brave search, US Census data, and SEO audits.",
+  "description": "Web research, public data, search, scraping, SEO, and source collection",
   "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills ready — no build step'"
+    "install": "echo 'Skills ready \u2014 no build step'"
   },
   "keywords": [
     "hermes",

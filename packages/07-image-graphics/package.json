@@ -1,10 +1,10 @@
 {
   "name": "@mad-scientist/image-graphics",
   "version": "1.0.0",
-  "description": "GPT Image 2 generation, HeyGen avatar videos, Remotion animations, and Nano Banana image editing.",
+  "description": "Image generation, editing, design, avatars, video, and visual production",
   "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills ready — no build step'"
+    "install": "echo 'Skills ready \u2014 no build step'"
   },
   "keywords": [
     "hermes",

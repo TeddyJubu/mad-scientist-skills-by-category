@@ -1,10 +1,10 @@
 {
   "name": "@mad-scientist/ai-agents",
   "version": "1.0.0",
-  "description": "Bob (operations), Sarah (outbound caller), OpenClaw management, HR hiring workflows, and autonomous agent orchestration.",
+  "description": "Agent operations, voice workflows, browser automation, and agent setup",
   "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills ready — no build step'"
+    "install": "echo 'Skills ready \u2014 no build step'"
   },
   "keywords": [
     "hermes",

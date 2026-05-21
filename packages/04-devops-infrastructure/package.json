@@ -1,10 +1,10 @@
 {
   "name": "@mad-scientist/devops-infrastructure",
   "version": "1.0.0",
-  "description": "Vercel deployment, Traefik Docker setup, and systemd port reservation for server management.",
+  "description": "Deployment, hosting, Docker, Vercel, and infrastructure workflows",
   "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills ready — no build step'"
+    "install": "echo 'Skills ready \u2014 no build step'"
   },
   "keywords": [
     "hermes",

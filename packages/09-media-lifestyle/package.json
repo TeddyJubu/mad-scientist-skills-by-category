@@ -1,10 +1,10 @@
 {
   "name": "@mad-scientist/media-lifestyle",
   "version": "1.0.0",
-  "description": "YouTube content, Spotify control, weather, healthcheck tracking, and gif search.",
+  "description": "Weather, audio, YouTube transcripts, and media utility workflows",
   "license": "UNLICENSED",
   "scripts": {
-    "install": "echo 'Skills ready — no build step'"
+    "install": "echo 'Skills ready \u2014 no build step'"
   },
   "keywords": [
     "hermes",
